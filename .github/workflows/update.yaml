@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-6' # 00:30 Beijing time every Monday to Sunday
+      - cron: '35 1 * * *' # 09:35 Beijing time every day
 
 permissions:
   contents: write
@@ -34,12 +34,12 @@ jobs:
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
+        push-branch: 'main'
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: zeaoji
+        email: 594056493@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
