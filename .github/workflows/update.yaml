@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '08 8 * * *' # 09:35 Beijing time every day
+      - cron: '00 9 * * *' # 09:35 Beijing time every day
   workflow_dispatch:
 
 permissions:
