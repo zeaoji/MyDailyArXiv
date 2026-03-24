@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
 
 keywords = ["Model Editing", "Knowledge Editing", "Sparse Autoencoder"] # TODO add more keywords
 
-max_result = 20 # maximum query results from arXiv API for each keyword
+max_result = 2 # maximum query results from arXiv API for each keyword
 issues_result = 1 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
@@ -43,7 +43,7 @@ f_is.write("---\n")
 f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
-f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
+f_is.write("**Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
     f_rm.write("## {0}\n".format(keyword))
