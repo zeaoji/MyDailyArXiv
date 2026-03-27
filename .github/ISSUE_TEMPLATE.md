@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 | **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v2)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Trustworthy AI Workshop</p></details> |
 | **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
 | **[Bilinear representation mitigates reversal curse and enables consistent model editing](https://arxiv.org/abs/2509.21993v3)** | 2026-03-02 | ICLR 2026 |
-| **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v1)** | 2026-03-02 | 12 pages, 1 figure |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models](https://arxiv.org/abs/2603.25325v1)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 6 tables. Analysis covers Gemma 3 1B, Gemma 2 2B, and Llama 3.2 1B across 22 experimental runs. Code and data available at https://github.com/hborobia/sae-pruning-paper</p></details> |
+| **[Towards Interpretable Deep Neural Networks for Tabular Data](https://arxiv.org/abs/2509.08617v2)** | 2026-03-26 | <details><summary>Prese...</summary><p>Presented at 3rd Workshop on Unifying Representations in Neural Models (UniReps) at NeuRIPS 2025</p></details> |
+| **[Sparse Visual Thought Circuits in Vision-Language Models](https://arxiv.org/abs/2603.25075v1)** | 2026-03-26 |  |
+| **[Discriminative reconstruction via simultaneous dense and sparse coding](https://arxiv.org/abs/2006.09534v4)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages. Made changes to improve the clarity and presentation of the paper</p></details> |
 | **[Language Models Can Explain Visual Features via Steering](https://arxiv.org/abs/2603.22593v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://arxiv.org/abs/2603.23794v1)** | 2026-03-24 | 11 pages, 4 figures |
 | **[Steering LLMs for Culturally Localized Generation](https://arxiv.org/abs/2603.23301v1)** | 2026-03-24 | preprint |
@@ -56,8 +60,4 @@ labels: documentation
 | **[SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](https://arxiv.org/abs/2603.19028v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026. Project website: https://sparse-embedding-modulation.github.io/</p></details> |
 | **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359v1)** | 2026-03-18 |  |
 | **[Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations](https://arxiv.org/abs/2603.18353v1)** | 2026-03-18 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 10 tables. Code available at https://github.com/sanjaybasu/interpretability-triage</p></details> |
-| **[Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/abs/2502.03714v2)** | 2026-03-18 |  |
-| **[Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence](https://arxiv.org/abs/2505.11611v3)** | 2026-03-18 |  |
-| **[Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis](https://arxiv.org/abs/2603.17624v1)** | 2026-03-18 | <details><summary>accep...</summary><p>accepted at LREC 2026</p></details> |
-| **[Fundamental Limits of Neural Network Sparsification: Evidence from Catastrophic Interpretability Collapse](https://arxiv.org/abs/2603.18056v1)** | 2026-03-18 |  |
 
