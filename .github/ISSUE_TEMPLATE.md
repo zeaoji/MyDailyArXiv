@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2026
+title: Latest 15 Papers - April 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality](https://arxiv.org/abs/2512.10720v2)** | 2026-04-02 |  |
+| **[Automatic Image-Level Morphological Trait Annotation for Organismal Images](https://arxiv.org/abs/2604.01619v1)** | 2026-04-02 | ICLR 2026 |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis](https://arxiv.org/abs/2603.17624v2)** | 2026-03-31 | <details><summary>accep...</summary><p>accepted at LREC 2026</p></details> |
 | **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v5)** | 2026-03-31 | <details><summary>There...</summary><p>There are some experimental error we are looking into to resolve</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models](https://arxiv.org/abs/2603.25325v1)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 6 tables. Analysis covers Gemma 3 1B, Gemma 2 2B, and Llama 3.2 1B across 22 experimental runs. Code and data available at https://github.com/hborobia/sae-pruning-paper</p></details> |
 | **[Towards Interpretable Deep Neural Networks for Tabular Data](https://arxiv.org/abs/2509.08617v2)** | 2026-03-26 | <details><summary>Prese...</summary><p>Presented at 3rd Workshop on Unifying Representations in Neural Models (UniReps) at NeuRIPS 2025</p></details> |
 | **[Sparse Visual Thought Circuits in Vision-Language Models](https://arxiv.org/abs/2603.25075v1)** | 2026-03-26 |  |
-| **[Discriminative reconstruction via simultaneous dense and sparse coding](https://arxiv.org/abs/2006.09534v4)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages. Made changes to improve the clarity and presentation of the paper</p></details> |
-| **[Language Models Can Explain Visual Features via Steering](https://arxiv.org/abs/2603.22593v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 
