@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
+| **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v2)** | 2026-04-05 | 12 pages, 1 figure |
 | **[CounterMoral: Editing Morals in Language Models](https://arxiv.org/abs/2603.27338v1)** | 2026-03-28 | <details><summary>7 pag...</summary><p>7 pages (10 + 1 reference + 6 appendix). Honors thesis completed in June 2024, write-up completed in 2025</p></details> |
 | **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
@@ -20,12 +22,11 @@ labels: documentation
 | **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v1)** | 2026-03-11 |  |
 | **[UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Language Models](https://arxiv.org/abs/2505.14679v3)** | 2026-03-10 | TMLR 2026 |
 | **[Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](https://arxiv.org/abs/2603.15656v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks](https://arxiv.org/abs/2512.15938v2)** | 2026-03-07 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026, Trustworthy AI Workshop</p></details> |
-| **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
@@ -40,11 +41,15 @@ labels: documentation
 | **[MetaKE: Meta-learning Aligned Knowledge Editing via Bi-level Optimization](https://arxiv.org/abs/2603.12677v2)** | 2026-03-16 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, work in progress</p></details> |
 | **[SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models](https://arxiv.org/abs/2510.16917v2)** | 2026-03-15 | <details><summary>Work ...</summary><p>Work in progress. Resources: https://github.com/ckyang1124/SAKE</p></details> |
 | **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v4)** | 2026-03-12 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
-| **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Makes Good Multilingual Reasoning? Disentangling Reasoning Traces with Measurable Features](https://arxiv.org/abs/2604.04720v1)** | 2026-04-06 | 31 pages, 7 figures |
+| **[Geometric Limits of Knowledge Distillation: A Minimum-Width Theorem via Superposition Theory](https://arxiv.org/abs/2604.04037v1)** | 2026-04-05 |  |
+| **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
+| **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v1)** | 2026-04-04 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
+| **[MetaSAEs: Joint Training with a Decomposability Penalty Produces More Atomic Sparse Autoencoder Latents](https://arxiv.org/abs/2604.03436v1)** | 2026-04-03 |  |
 | **[SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2604.02871v1)** | 2026-04-03 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 9 tables</p></details> |
 | **[Finding Belief Geometries with Sparse Autoencoders](https://arxiv.org/abs/2604.02685v1)** | 2026-04-03 |  |
 | **[Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality](https://arxiv.org/abs/2512.10720v2)** | 2026-04-02 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
 | **[Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2512.10805v2)** | 2026-03-30 | CVPR 2026 |
 | **[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744v1)** | 2026-03-30 |  |
-| **[From Human Cognition to Neural Activations: Probing the Computational Primitives of Spatial Reasoning in LLMs](https://arxiv.org/abs/2603.26323v1)** | 2026-03-27 |  |
-| **[XNNTab -- Interpretable Neural Networks for Tabular Data using Sparse Autoencoders](https://arxiv.org/abs/2512.13442v3)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted at the 4th World Conference on eXplainable Artificial Intelligence (XAI-2026)</p></details> |
-| **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v1)** | 2026-03-27 |  |
-| **[Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs](https://arxiv.org/abs/2602.19157v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted in PAKDD 2026 special session on Data Science :Foundation and Applications</p></details> |
-| **[How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models](https://arxiv.org/abs/2603.25325v1)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 6 tables. Analysis covers Gemma 3 1B, Gemma 2 2B, and Llama 3.2 1B across 22 experimental runs. Code and data available at https://github.com/hborobia/sae-pruning-paper</p></details> |
 
