@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning](https://arxiv.org/abs/2604.11214v1)** | 2026-04-13 | Accept by ACL 2026 |
+| **[Closed-Form Concept Erasure via Double Projections](https://arxiv.org/abs/2604.10032v1)** | 2026-04-11 |  |
 | **[Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 Findings</p></details> |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v2)** | 2026-03-22 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://ustc3dv.github.io/Easy3E/</p></details> |
 | **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
-| **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v1)** | 2026-03-15 | <details><summary>Paper...</summary><p>Paper was submitted for review to Interspeech</p></details> |
-| **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v1)** | 2026-04-10 |  |
+| **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v2)** | 2026-04-13 |  |
+| **[A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima](https://arxiv.org/abs/2512.05534v4)** | 2026-04-13 |  |
+| **[Pando: Do Interpretability Methods Work When Models Won't Explain Themselves?](https://arxiv.org/abs/2604.11061v1)** | 2026-04-13 |  |
+| **[PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models](https://arxiv.org/abs/2602.21428v2)** | 2026-04-12 |  |
+| **[Visualising the Attractor Landscape of Neural Cellular Automata](https://arxiv.org/abs/2604.10639v1)** | 2026-04-12 | <details><summary>Submi...</summary><p>Submitted to ALIFE 2026</p></details> |
+| **[What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data](https://arxiv.org/abs/2510.26202v2)** | 2026-04-11 | <details><summary>ICLR ...</summary><p>ICLR 2026 (oral). v2 adds SAE ablations and robustness checks. Code: https://github.com/rmovva/wimhf; Demo: https://rajivmovva.com/demo-wimhf/</p></details> |
 | **[Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](https://arxiv.org/abs/2604.08846v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026. Project page: https://peterljq.github.io/project/daco</p></details> |
 | **[Are Sparse Autoencoders Useful for Java Function Bug Detection?](https://arxiv.org/abs/2505.10375v4)** | 2026-04-08 | <details><summary>I'm w...</summary><p>I'm working on a completely new paper with different models and datasets and authors. I believe it to be a more robust contribution. Since the authors, title and hypothesis are different, I believe it to be a better approach to remove this preprint</p></details> |
 | **[Improving Robustness In Sparse Autoencoders via Masked Regularization](https://arxiv.org/abs/2604.06495v1)** | 2026-04-07 | 4 pages, 1 figure |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Automatic Image-Level Morphological Trait Annotation for Organismal Images](https://arxiv.org/abs/2604.01619v2)** | 2026-04-07 | ICLR 2026 |
 | **[Spectral Edge Dynamics Reveal Functional Modes of Learning](https://arxiv.org/abs/2604.06256v1)** | 2026-04-06 | 17 pages, 1 figure |
 | **[Multilingual Language Models Encode Script Over Linguistic Structure](https://arxiv.org/abs/2604.05090v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main)</p></details> |
-| **[What Makes Good Multilingual Reasoning? Disentangling Reasoning Traces with Measurable Features](https://arxiv.org/abs/2604.04720v1)** | 2026-04-06 | 31 pages, 7 figures |
-| **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v1)** | 2026-04-05 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, 5 tables. Submitted to ACM Multimedia 2026</p></details> |
-| **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v1)** | 2026-04-04 | <details><summary>Submi...</summary><p>Submitted to COLM 2026</p></details> |
-| **[MetaSAEs: Joint Training with a Decomposability Penalty Produces More Atomic Sparse Autoencoder Latents](https://arxiv.org/abs/2604.03436v1)** | 2026-04-03 |  |
-| **[SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2604.02871v1)** | 2026-04-03 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 9 tables</p></details> |
 
