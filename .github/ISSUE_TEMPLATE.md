@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820v1)** | 2026-04-14 |  |
+| **[FABLE: Fine-grained Fact Anchoring for Unstructured Model Editing](https://arxiv.org/abs/2604.12559v1)** | 2026-04-14 | ACL 2026 findings |
 | **[HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning](https://arxiv.org/abs/2604.11214v1)** | 2026-04-13 | Accept by ACL 2026 |
 | **[Closed-Form Concept Erasure via Double Projections](https://arxiv.org/abs/2604.10032v1)** | 2026-04-11 |  |
 | **[Constraining Sequential Model Editing with Editing Anchor Compression](https://arxiv.org/abs/2503.00035v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by NAACL 2025 Findings</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 | **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
-| **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v2)** | 2026-03-22 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://ustc3dv.github.io/Easy3E/</p></details> |
-| **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127v3)** | 2026-04-14 |  |
+| **[Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints](https://arxiv.org/abs/2604.12384v1)** | 2026-04-14 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables, The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
+| **[The Linear Centroids Hypothesis: How Deep Network Features Represent Data](https://arxiv.org/abs/2604.11962v1)** | 2026-04-13 | 20 pages, 17 figures |
 | **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v2)** | 2026-04-13 |  |
 | **[A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima](https://arxiv.org/abs/2512.05534v4)** | 2026-04-13 |  |
 | **[Pando: Do Interpretability Methods Work When Models Won't Explain Themselves?](https://arxiv.org/abs/2604.11061v1)** | 2026-04-13 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Beyond Semantics: Disentangling Information Scope in Sparse Autoencoders for CLIP](https://arxiv.org/abs/2604.05724v1)** | 2026-04-07 | CVPR 2026 Findings |
 | **[Geometric Limits of Knowledge Distillation: A Minimum-Width Theorem via Superposition Theory](https://arxiv.org/abs/2604.04037v2)** | 2026-04-07 |  |
 | **[Mechanistic Knobs in LLMs: Retrieving and Steering High-Order Semantic Features via Sparse Autoencoders](https://arxiv.org/abs/2601.02978v2)** | 2026-04-07 |  |
-| **[Automatic Image-Level Morphological Trait Annotation for Organismal Images](https://arxiv.org/abs/2604.01619v2)** | 2026-04-07 | ICLR 2026 |
-| **[Spectral Edge Dynamics Reveal Functional Modes of Learning](https://arxiv.org/abs/2604.06256v1)** | 2026-04-06 | 17 pages, 1 figure |
-| **[Multilingual Language Models Encode Script Over Linguistic Structure](https://arxiv.org/abs/2604.05090v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main)</p></details> |
 
