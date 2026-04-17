@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2026
+title: Latest 15 Papers - April 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,13 +26,13 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World](https://arxiv.org/abs/2604.05096v2)** | 2026-04-14 |  |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[The Model Agreed, But Didn't Learn: Diagnosing Surface Compliance in Large Language Models](https://arxiv.org/abs/2604.05995v1)** | 2026-04-07 | ACL 2026 Findings |
 | **[Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v1)** | 2026-04-07 |  |
 | **[Learning to Edit Knowledge via Instruction-based Chain-of-Thought Prompting](https://arxiv.org/abs/2604.05540v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 main conference</p></details> |
 | **[MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for Large Multimodal Models](https://arxiv.org/abs/2510.19457v4)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026, Project Page: https://mined-lmm.github.io/</p></details> |
-| **[RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World](https://arxiv.org/abs/2604.05096v1)** | 2026-04-06 |  |
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
@@ -45,6 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Functional Emotions or Situational Contexts? A Discriminating Test from the Mythos Preview System Card](https://arxiv.org/abs/2604.13466v2)** | 2026-04-16 | <details><summary>7 pag...</summary><p>7 pages. v2: supplementary analysis added, references updated</p></details> |
+| **[Improving Sparse Autoencoder with Dynamic Attention](https://arxiv.org/abs/2604.14925v1)** | 2026-04-16 |  |
+| **[Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder](https://arxiv.org/abs/2506.20083v4)** | 2026-04-15 | In progress |
+| **[Visual Sparse Steering (VS2): Unsupervised Adaptation for Image Classification using Sparsity-Guided Steering Vectors](https://arxiv.org/abs/2506.01247v2)** | 2026-04-14 |  |
+| **[Can Cross-Layer Transcoders Replace Vision Transformer Activations? An Interpretable Perspective on Vision](https://arxiv.org/abs/2604.13304v1)** | 2026-04-14 |  |
+| **[Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents](https://arxiv.org/abs/2603.12564v7)** | 2026-04-14 |  |
 | **[Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127v3)** | 2026-04-14 |  |
 | **[Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints](https://arxiv.org/abs/2604.12384v1)** | 2026-04-14 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables, The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
 | **[The Linear Centroids Hypothesis: How Deep Network Features Represent Data](https://arxiv.org/abs/2604.11962v1)** | 2026-04-13 | 20 pages, 17 figures |
@@ -54,10 +60,4 @@ labels: documentation
 | **[PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models](https://arxiv.org/abs/2602.21428v2)** | 2026-04-12 |  |
 | **[Visualising the Attractor Landscape of Neural Cellular Automata](https://arxiv.org/abs/2604.10639v1)** | 2026-04-12 | <details><summary>Submi...</summary><p>Submitted to ALIFE 2026</p></details> |
 | **[What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data](https://arxiv.org/abs/2510.26202v2)** | 2026-04-11 | <details><summary>ICLR ...</summary><p>ICLR 2026 (oral). v2 adds SAE ablations and robustness checks. Code: https://github.com/rmovva/wimhf; Demo: https://rajivmovva.com/demo-wimhf/</p></details> |
-| **[Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](https://arxiv.org/abs/2604.08846v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026. Project page: https://peterljq.github.io/project/daco</p></details> |
-| **[Are Sparse Autoencoders Useful for Java Function Bug Detection?](https://arxiv.org/abs/2505.10375v4)** | 2026-04-08 | <details><summary>I'm w...</summary><p>I'm working on a completely new paper with different models and datasets and authors. I believe it to be a more robust contribution. Since the authors, title and hypothesis are different, I believe it to be a better approach to remove this preprint</p></details> |
-| **[Improving Robustness In Sparse Autoencoders via Masked Regularization](https://arxiv.org/abs/2604.06495v1)** | 2026-04-07 | 4 pages, 1 figure |
-| **[Beyond Semantics: Disentangling Information Scope in Sparse Autoencoders for CLIP](https://arxiv.org/abs/2604.05724v1)** | 2026-04-07 | CVPR 2026 Findings |
-| **[Geometric Limits of Knowledge Distillation: A Minimum-Width Theorem via Superposition Theory](https://arxiv.org/abs/2604.04037v2)** | 2026-04-07 |  |
-| **[Mechanistic Knobs in LLMs: Retrieving and Steering High-Order Semantic Features via Sparse Autoencoders](https://arxiv.org/abs/2601.02978v2)** | 2026-04-07 |  |
 
