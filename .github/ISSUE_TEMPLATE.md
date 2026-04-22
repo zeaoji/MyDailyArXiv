@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression](https://arxiv.org/abs/2604.19089v1)** | 2026-04-21 |  |
 | **[HiP-LoRA: Budgeted Spectral Plasticity for Robust Low-Rank Adaptation](https://arxiv.org/abs/2604.17751v1)** | 2026-04-20 |  |
 | **[Aligning Language Models with Real-time Knowledge Editing](https://arxiv.org/abs/2508.01302v3)** | 2026-04-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (main conference)</p></details> |
 | **[RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World](https://arxiv.org/abs/2604.05096v2)** | 2026-04-14 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
-| **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection](https://arxiv.org/abs/2604.19031v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 6 tables. Accepted by ISSTA 2026</p></details> |
+| **[Multilingual Language Models Encode Script Over Linguistic Structure](https://arxiv.org/abs/2604.05090v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main)</p></details> |
+| **[Towards Understanding the Robustness of Sparse Autoencoders](https://arxiv.org/abs/2604.18756v1)** | 2026-04-20 |  |
 | **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v1)** | 2026-04-20 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, 16 tables</p></details> |
 | **[Sparse Feature Coactivation Reveals Causal Semantic Modules in Large Language Models](https://arxiv.org/abs/2506.18141v3)** | 2026-04-20 | ACL 2026 |
 | **[Functional Emotions or Situational Contexts? A Discriminating Test from the Mythos Preview System Card](https://arxiv.org/abs/2604.13466v2)** | 2026-04-16 | <details><summary>7 pag...</summary><p>7 pages. v2: supplementary analysis added, references updated</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints](https://arxiv.org/abs/2604.12384v1)** | 2026-04-14 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables, The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
 | **[The Linear Centroids Hypothesis: How Deep Network Features Represent Data](https://arxiv.org/abs/2604.11962v1)** | 2026-04-13 | 20 pages, 17 figures |
 | **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v2)** | 2026-04-13 |  |
-| **[A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima](https://arxiv.org/abs/2512.05534v4)** | 2026-04-13 |  |
-| **[Pando: Do Interpretability Methods Work When Models Won't Explain Themselves?](https://arxiv.org/abs/2604.11061v1)** | 2026-04-13 |  |
-| **[PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models](https://arxiv.org/abs/2602.21428v2)** | 2026-04-12 |  |
 
