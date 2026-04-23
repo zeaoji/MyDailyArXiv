@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima](https://arxiv.org/abs/2512.05534v5)** | 2026-04-22 |  |
+| **[CXR-LanIC: Language-Grounded Interpretable Classifier for Chest X-Ray Diagnosis](https://arxiv.org/abs/2510.21464v2)** | 2026-04-22 |  |
+| **[Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders](https://arxiv.org/abs/2604.19974v1)** | 2026-04-21 |  |
 | **[SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection](https://arxiv.org/abs/2604.19031v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 6 tables. Accepted by ISSTA 2026</p></details> |
 | **[Multilingual Language Models Encode Script Over Linguistic Structure](https://arxiv.org/abs/2604.05090v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main)</p></details> |
 | **[Towards Understanding the Robustness of Sparse Autoencoders](https://arxiv.org/abs/2604.18756v1)** | 2026-04-20 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Can Cross-Layer Transcoders Replace Vision Transformer Activations? An Interpretable Perspective on Vision](https://arxiv.org/abs/2604.13304v1)** | 2026-04-14 |  |
 | **[Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents](https://arxiv.org/abs/2603.12564v7)** | 2026-04-14 |  |
 | **[Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127v3)** | 2026-04-14 |  |
-| **[Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints](https://arxiv.org/abs/2604.12384v1)** | 2026-04-14 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables, The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[The Linear Centroids Hypothesis: How Deep Network Features Represent Data](https://arxiv.org/abs/2604.11962v1)** | 2026-04-13 | 20 pages, 17 figures |
-| **[Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](https://arxiv.org/abs/2604.09364v2)** | 2026-04-13 |  |
 
