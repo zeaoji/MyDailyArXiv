@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://arxiv.org/abs/2604.24625v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted by CVPR2026, Project Page: https://shiyi-zh0408.github.io/projectpages/Meta-CoT/</p></details> |
+| **[Beyond Cross-Modal Alignment: Measuring and Leveraging Modality Gap in Vision-Language Models](https://arxiv.org/abs/2502.14888v4)** | 2026-04-25 | <details><summary>accep...</summary><p>accepted by ACL26-findings</p></details> |
 | **[Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation](https://arxiv.org/abs/2604.21640v1)** | 2026-04-23 | <details><summary>To be...</summary><p>To be published in IEEE OCEANS 2026 (Sanya) conference proceedings</p></details> |
 | **[neuralCAD-Edit: An Expert Benchmark for Multimodal-Instructed 3D CAD Model Editing](https://arxiv.org/abs/2604.16170v1)** | 2026-04-17 | <details><summary>Proje...</summary><p>Project page: https://autodeskailab.github.io/neuralCAD-Edit</p></details> |
 | **[RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair](https://arxiv.org/abs/2604.12820v1)** | 2026-04-14 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v2)** | 2026-04-05 | 12 pages, 1 figure |
 | **[CounterMoral: Editing Morals in Language Models](https://arxiv.org/abs/2603.27338v1)** | 2026-03-28 | <details><summary>7 pag...</summary><p>7 pages (10 + 1 reference + 6 appendix). Honors thesis completed in June 2024, write-up completed in 2025</p></details> |
-| **[From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](https://arxiv.org/abs/2603.24653v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://frangente.github.io/SITH/</p></details> |
-| **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Domain-Filtered Knowledge Graphs from Sparse Autoencoder Features](https://arxiv.org/abs/2604.23829v1)** | 2026-04-26 |  |
+| **[AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](https://arxiv.org/abs/2604.23719v1)** | 2026-04-26 | <details><summary>Datas...</summary><p>Dataset paper. 4 pages + appendix, 2 figures. Dataset available at https://huggingface.co/datasets/keidolabs/aipsy-affect. MIT license</p></details> |
+| **[CRISP: Persistent Concept Unlearning via Sparse Autoencoders](https://arxiv.org/abs/2508.13650v3)** | 2026-04-26 | Accepted to ACL 2026 |
 | **[Mechanistic Interpretability of Antibody Language Models Using SAEs](https://arxiv.org/abs/2512.05794v2)** | 2026-04-24 |  |
 | **[Atlas-Alignment: Making Interpretability Transferable Across Language Models](https://arxiv.org/abs/2510.27413v2)** | 2026-04-24 |  |
 | **[Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning](https://arxiv.org/abs/2603.10377v2)** | 2026-04-23 | <details><summary>We ha...</summary><p>We have recently encountered author conflicts related to this work and therefore respectfully request the withdrawal of this paper. We believe this step is necessary to address the situation appropriately and maintain academic integrity in the submission</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v1)** | 2026-04-20 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, 16 tables</p></details> |
 | **[Sparse Feature Coactivation Reveals Causal Semantic Modules in Large Language Models](https://arxiv.org/abs/2506.18141v3)** | 2026-04-20 | ACL 2026 |
 | **[Functional Emotions or Situational Contexts? A Discriminating Test from the Mythos Preview System Card](https://arxiv.org/abs/2604.13466v2)** | 2026-04-16 | <details><summary>7 pag...</summary><p>7 pages. v2: supplementary analysis added, references updated</p></details> |
-| **[Improving Sparse Autoencoder with Dynamic Attention](https://arxiv.org/abs/2604.14925v1)** | 2026-04-16 |  |
-| **[Bridging Compositional and Distributional Semantics: A Survey on Latent Semantic Geometry via AutoEncoder](https://arxiv.org/abs/2506.20083v4)** | 2026-04-15 | In progress |
-| **[Visual Sparse Steering (VS2): Unsupervised Adaptation for Image Classification using Sparsity-Guided Steering Vectors](https://arxiv.org/abs/2506.01247v2)** | 2026-04-14 |  |
 
