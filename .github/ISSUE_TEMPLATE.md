@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259v2)** | 2026-05-01 |  |
 | **[When Model Editing Meets Service Evolution: A Knowledge-Update Perspective for Service Recommendation](https://arxiv.org/abs/2604.26686v1)** | 2026-04-29 |  |
 | **[Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://arxiv.org/abs/2604.24625v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted by CVPR2026, Project Page: https://shiyi-zh0408.github.io/projectpages/Meta-CoT/</p></details> |
 | **[Beyond Cross-Modal Alignment: Measuring and Leveraging Modality Gap in Vision-Language Models](https://arxiv.org/abs/2502.14888v4)** | 2026-04-25 | <details><summary>accep...</summary><p>accepted by ACL26-findings</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
 | **[EvoEdit: Evolving Null-space Alignment for Robust and Efficient Knowledge Editing](https://arxiv.org/abs/2510.13851v2)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
-| **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v2)** | 2026-04-05 | 12 pages, 1 figure |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Local to Global to Mechanistic: An iERF-Centered Unified Framework for Interpreting Vision Models](https://arxiv.org/abs/2605.00474v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026</p></details> |
 | **[Do Sparse Autoencoders Capture Concept Manifolds?](https://arxiv.org/abs/2604.28119v1)** | 2026-04-30 |  |
 | **[MoRFI: Monotonic Sparse Autoencoder Feature Identification](https://arxiv.org/abs/2604.26866v1)** | 2026-04-29 |  |
 | **[DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](https://arxiv.org/abs/2505.18441v2)** | 2026-04-29 | <details><summary>8 pag...</summary><p>8 pages + 10 pages appendix. Updated with additional vision transformer experiments</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[CRISP: Persistent Concept Unlearning via Sparse Autoencoders](https://arxiv.org/abs/2508.13650v3)** | 2026-04-26 | Accepted to ACL 2026 |
 | **[Mechanistic Interpretability of Antibody Language Models Using SAEs](https://arxiv.org/abs/2512.05794v2)** | 2026-04-24 |  |
 | **[Atlas-Alignment: Making Interpretability Transferable Across Language Models](https://arxiv.org/abs/2510.27413v2)** | 2026-04-24 |  |
-| **[Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning](https://arxiv.org/abs/2603.10377v2)** | 2026-04-23 | <details><summary>We ha...</summary><p>We have recently encountered author conflicts related to this work and therefore respectfully request the withdrawal of this paper. We believe this step is necessary to address the situation appropriately and maintain academic integrity in the submission</p></details> |
 
