@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pairwise matrices for sparse autoencoders: single-feature inspection mislabels causal axes](https://arxiv.org/abs/2605.03160v1)** | 2026-05-04 | 18 pages |
 | **[Correlates of Image Memorability in Vision Encoders: Activations, Attention Entropy, Patch Uniformity and Autoencoder Losses](https://arxiv.org/abs/2509.01453v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted to CogSci 2026 - The 48th Annual Meeting of the Cognitive Science Society</p></details> |
 | **[Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features](https://arxiv.org/abs/2602.10437v3)** | 2026-05-03 |  |
 | **[CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features](https://arxiv.org/abs/2508.12535v3)** | 2026-05-03 | <details><summary>45 pa...</summary><p>45 pages, 19 tables, 36 figures. Accepted at ICML 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Sparsity as a Key: Unlocking New Insights from Latent Structures for Out-of-Distribution Detection](https://arxiv.org/abs/2604.26409v1)** | 2026-04-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, supplementary material included, CVPR 2026</p></details> |
 | **[reward-lens: A Mechanistic Interpretability Library for Reward Models](https://arxiv.org/abs/2604.26130v1)** | 2026-04-28 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, 9 tables, including appendix. Library available at https://github.com/suhailnadaf509/reward-lens (pip install reward-lens)</p></details> |
 | **[From Syntax to Emotion: A Mechanistic Analysis of Emotion Inference in LLMs](https://arxiv.org/abs/2604.25866v1)** | 2026-04-28 | <details><summary>18 pa...</summary><p>18 pages including appendix</p></details> |
-| **[Domain-Filtered Knowledge Graphs from Sparse Autoencoder Features](https://arxiv.org/abs/2604.23829v2)** | 2026-04-28 |  |
 
