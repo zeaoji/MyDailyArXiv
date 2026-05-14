@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v1)** | 2026-05-12 |  |
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v4)** | 2026-05-11 |  |
 | **[Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing](https://arxiv.org/abs/2601.15686v2)** | 2026-05-11 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[When Model Editing Meets Service Evolution: A Knowledge-Update Perspective for Service Recommendation](https://arxiv.org/abs/2604.26686v1)** | 2026-04-29 |  |
 | **[Meta-CoT: Enhancing Granularity and Generalization in Image Editing](https://arxiv.org/abs/2604.24625v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted by CVPR2026, Project Page: https://shiyi-zh0408.github.io/projectpages/Meta-CoT/</p></details> |
 | **[Beyond Cross-Modal Alignment: Measuring and Leveraging Modality Gap in Vision-Language Models](https://arxiv.org/abs/2502.14888v4)** | 2026-04-25 | <details><summary>accep...</summary><p>accepted by ACL26-findings</p></details> |
-| **[Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation](https://arxiv.org/abs/2604.21640v1)** | 2026-04-23 | <details><summary>To be...</summary><p>To be published in IEEE OCEANS 2026 (Sanya) conference proceedings</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Descriptive Collision in Sparse Autoencoder Auto-Interpretability: When One Explanation Describes Many Features](https://arxiv.org/abs/2605.12874v1)** | 2026-05-13 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
+| **[Correcting Influence: Unboxing LLM Outputs with Orthogonal Latent Spaces](https://arxiv.org/abs/2605.12809v1)** | 2026-05-12 |  |
+| **[WriteSAE: Sparse Autoencoders for Recurrent State](https://arxiv.org/abs/2605.12770v1)** | 2026-05-12 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 21 tables; code at https://github.com/JackYoung27/writesae</p></details> |
 | **[Mechanistic Interpretability of ASR models using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v1)** | 2026-05-12 | <details><summary>10 pa...</summary><p>10 pages + references and appendix</p></details> |
 | **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v1)** | 2026-05-12 | 40 pages, 23 figures |
 | **[Do Language Models Encode Knowledge of Linguistic Constraint Violations?](https://arxiv.org/abs/2605.12055v1)** | 2026-05-12 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Tree SAE: Learning Hierarchical Feature Structures in Sparse Autoencoders](https://arxiv.org/abs/2605.07922v2)** | 2026-05-11 | 21 pages |
 | **[Exploitation Without Deception: Dark Triad Feature Steering Reveals Separable Antisocial Circuits in Language Models](https://arxiv.org/abs/2605.09773v1)** | 2026-05-10 | 12 pages, 3 figures |
 | **[SMIXAE: Towards Unsupervised Manifold Discovery in Language Models](https://arxiv.org/abs/2605.09224v1)** | 2026-05-09 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, 11 tables. Submitted to Mechanistic Interpretability Workshop, ICML 2026</p></details> |
-| **[Bilinear autoencoders find interpretable manifolds](https://arxiv.org/abs/2605.08891v1)** | 2026-05-09 |  |
-| **[Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437v2)** | 2026-05-09 |  |
-| **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v2)** | 2026-05-09 |  |
 
