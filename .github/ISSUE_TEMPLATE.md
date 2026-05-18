@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v3)** | 2026-05-14 |  |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 | **[Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey](https://arxiv.org/abs/2605.13919v1)** | 2026-05-13 |  |
 | **[Benchmarking Safety Risks of Knowledge-Intensive Reasoning under Malicious Knowledge Editing](https://arxiv.org/abs/2605.10146v1)** | 2026-05-11 |  |
@@ -40,24 +41,23 @@ labels: documentation
 | **[RAG or Learning? Understanding the Limits of LLM Adaptation under Continuous Knowledge Drift in the Real World](https://arxiv.org/abs/2604.05096v2)** | 2026-04-14 |  |
 | **[Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models](https://arxiv.org/abs/2604.08284v1)** | 2026-04-09 | <details><summary>17 pa...</summary><p>17 pages,3 figures. Under review</p></details> |
 | **[DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](https://arxiv.org/abs/2604.07965v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[The Model Agreed, But Didn't Learn: Diagnosing Surface Compliance in Large Language Models](https://arxiv.org/abs/2604.05995v1)** | 2026-04-07 | ACL 2026 Findings |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models](https://arxiv.org/abs/2605.15961v1)** | 2026-05-15 |  |
+| **[Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](https://arxiv.org/abs/2605.13930v2)** | 2026-05-15 | <details><summary>Prepr...</summary><p>Preprint. 14 pages, 7 figures, 4 tables</p></details> |
+| **[Graph-Regularized Sparse Autoencoders for LLM Safety Steering](https://arxiv.org/abs/2512.06655v3)** | 2026-05-15 |  |
+| **[SAE-RNA: A Sparse Autoencoder Model for Interpreting RNA Language Model Representations](https://arxiv.org/abs/2510.02734v2)** | 2026-05-15 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. v2: Updated bibliography to improve reference accuracy and reflect updated publication venues. Refined claims for better alignment with results and added an Appendix</p></details> |
+| **[CXR-LanIC: Language-Grounded Interpretable Classifier for Chest X-Ray Diagnosis](https://arxiv.org/abs/2510.21464v3)** | 2026-05-15 |  |
 | **[The Rate-Distortion-Polysemanticity Tradeoff in SAEs](https://arxiv.org/abs/2605.14694v1)** | 2026-05-14 |  |
 | **[Do Language Models Encode Knowledge of Linguistic Constraint Violations?](https://arxiv.org/abs/2605.12055v2)** | 2026-05-14 |  |
 | **[Exemplar Partitioning for Mechanistic Interpretability](https://arxiv.org/abs/2605.14347v1)** | 2026-05-14 | <details><summary>Code:...</summary><p>Code: https://github.com/jessicarumbelow/exemplar-partitioning. Pretrained dictionaries: https://huggingface.co/datasets/J-RUM/exemplar-partitioning</p></details> |
 | **[WriteSAE: Sparse Autoencoders for Recurrent State](https://arxiv.org/abs/2605.12770v2)** | 2026-05-14 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 21 tables; code at https://github.com/JackYoung27/writesae</p></details> |
-| **[Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](https://arxiv.org/abs/2605.13930v1)** | 2026-05-13 | <details><summary>Prepr...</summary><p>Preprint. 14 pages, 7 figures, 4 tables</p></details> |
 | **[Descriptive Collision in Sparse Autoencoder Auto-Interpretability: When One Explanation Describes Many Features](https://arxiv.org/abs/2605.12874v1)** | 2026-05-13 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
 | **[Correcting Influence: Unboxing LLM Outputs with Orthogonal Latent Spaces](https://arxiv.org/abs/2605.12809v1)** | 2026-05-12 |  |
 | **[Mechanistic Interpretability of ASR models using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v1)** | 2026-05-12 | <details><summary>10 pa...</summary><p>10 pages + references and appendix</p></details> |
 | **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v1)** | 2026-05-12 | 40 pages, 23 figures |
 | **[Domain Restriction via Multi SAE Layer Transitions](https://arxiv.org/abs/2605.11920v1)** | 2026-05-12 |  |
 | **[Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887v1)** | 2026-05-12 |  |
-| **[A Mechanistic Investigation of Supervised Fine Tuning](https://arxiv.org/abs/2605.11426v1)** | 2026-05-12 |  |
-| **[SLIM: Sparse Latent Steering for Interpretable and Property-Directed LLM-Based Molecular Editing](https://arxiv.org/abs/2605.10831v1)** | 2026-05-11 |  |
-| **[ActivationReasoning: Logical Reasoning in Latent Activation Spaces](https://arxiv.org/abs/2510.18184v3)** | 2026-05-11 | <details><summary>Proce...</summary><p>Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws](https://arxiv.org/abs/2605.09887v1)** | 2026-05-11 |  |
 
