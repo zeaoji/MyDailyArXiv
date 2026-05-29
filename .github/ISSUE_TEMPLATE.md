@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2026
+title: Latest 15 Papers - May 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
 | **[From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303v1)** | 2026-05-27 |  |
 | **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v2)** | 2026-05-23 |  |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v2)** | 2026-05-09 | <details><summary>22 pa...</summary><p>22 pages, 18 figures, Accepted to ACL 2026 (Main Conference)</p></details> |
 | **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v2)** | 2026-05-09 | <details><summary>We vo...</summary><p>We voluntarily withdraw this manuscript. Extensive post-submission testing shows the method lacks the originally reported generality and effectiveness. The benchmark metrics originally designed are inadequate for assessing existing model editing algorithms. To avoid misleading the community, we have decided to withdraw this paper and will not release an updated version.</p></details> |
 | **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v3)** | 2026-05-07 | 37 pages, 9 figures |
-| **[Uncovering Entity Identity Confusion in Multimodal Knowledge Editing](https://arxiv.org/abs/2605.06096v1)** | 2026-05-07 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BioRefusalAudit: Auditing Biosecurity Refusal Depth Using General and Domain-Fine-Tuned Sparse Autoencoders](https://arxiv.org/abs/2605.30162v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 3 tables. Apart Research AIxBio Sprint hackathon paper, April 2026 (Track 3: AI Biosecurity Tools). Code, eval set, and SAEs: github.com/SolshineCode/Deleeuw-AI-x-Bio-hackathon. Reviewer feedback: apartresearch.com/project/biorefusalaudit-auditing-biosecurity-refusal-depth-using-general-and-domainfinetuned-sparse-autoencoders-1fyk</p></details> |
+| **[No More K-means:Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v1)** | 2026-05-28 | Accepted by ICML2026 |
+| **[Robust and Generalizable Safety Steering for Text-to-Image Diffusion Transformers](https://arxiv.org/abs/2605.30049v1)** | 2026-05-28 |  |
+| **[Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate](https://arxiv.org/abs/2605.29889v1)** | 2026-05-28 | <details><summary>9 pag...</summary><p>9 pages main text, 27 pages total including appendices; 7 figures, 25 tables</p></details> |
+| **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
+| **[Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://arxiv.org/abs/2605.29358v1)** | 2026-05-28 |  |
+| **[When and How Long? The Readout-Mediator Angle in Temporal Reasoning](https://arxiv.org/abs/2605.29126v1)** | 2026-05-27 |  |
+| **[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](https://arxiv.org/abs/2602.10388v3)** | 2026-05-27 |  |
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 | **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v1)** | 2026-05-27 | preprint |
 | **[Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs](https://arxiv.org/abs/2605.28388v1)** | 2026-05-27 | 30 pages, 11 figures |
+| **[Feature Geometry of LoRA Adapters: A Sparse Autoencoder Analysis of Representational Divergence in Fine-Tuned Language Models](https://arxiv.org/abs/2605.28896v1)** | 2026-05-27 |  |
 | **[IRDS: Interpretable RLVR Data Selection via Verifier-Coupled Sparse Autoencoder Coverage](https://arxiv.org/abs/2605.28247v1)** | 2026-05-27 | <details><summary>24 pa...</summary><p>24 pages,3 figures,18 tables</p></details> |
 | **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v1)** | 2026-05-27 |  |
 | **[ReSAE: Residualized Sparse Autoencoders for Multi-Layer Transformer Interventions](https://arxiv.org/abs/2605.27819v1)** | 2026-05-27 |  |
-| **[Residualized Temporal Sparse Autoencoders for Interpreting Diffusion Models](https://arxiv.org/abs/2605.27813v1)** | 2026-05-27 |  |
-| **[Beyond Interpretability: When, Why, and How Sparse Autoencoders Enable Label-Free Visual Steering](https://arxiv.org/abs/2506.01247v3)** | 2026-05-26 |  |
-| **[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354v1)** | 2026-05-26 |  |
-| **[Mechanistic Interpretability of Antibody Language Models Using SAEs](https://arxiv.org/abs/2512.05794v3)** | 2026-05-26 | <details><summary>v3: 1...</summary><p>v3: 15 pages; corrected author list and affiliations in the main text; minor text changes; updated steering results following minor code changes; conclusions and findings remain unchanged; included link to data and code in the Data Availability section</p></details> |
-| **[Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs](https://arxiv.org/abs/2604.18179v3)** | 2026-05-26 | <details><summary>We id...</summary><p>We identified inaccuracies in the security analysis: the closed-form intrinsic-dimension lower bound on the feature-forgery attacker (Proposition 4.2, Section 4, Appendix V) and the cross-backend noise calibration for the joint z-score threshold (Section 5.1, Table 2). These affect the claimed attack-resistance guarantees. We are withdrawing the paper to correct them before resubmission</p></details> |
-| **[Sell Me This Stock: Unsafe Recommendation Drift in LLM Agents](https://arxiv.org/abs/2603.12564v8)** | 2026-05-25 |  |
-| **[PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding](https://arxiv.org/abs/2602.01322v2)** | 2026-05-25 | <details><summary>43rd ...</summary><p>43rd International Conference on Machine Learning (ICML 2026); Code: https://github.com/pakoromilas/PolySAE</p></details> |
-| **[SAE-FD: Sparse Autoencoder Feature Distillation for Continual Learning of Large Language Models](https://arxiv.org/abs/2605.25525v1)** | 2026-05-25 |  |
-| **[Universal Boosts, Specific Suppressors: Sparse Autoencoder Steering of Medical Vision-Language Models](https://arxiv.org/abs/2605.24977v1)** | 2026-05-24 |  |
 
