@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](https://arxiv.org/abs/2605.31518v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026 main conference</p></details> |
+| **[SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://arxiv.org/abs/2509.21379v3)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance](https://arxiv.org/abs/2605.31304v1)** | 2026-05-29 | Preprint |
+| **[Toward Identifiable Sparse Autoencoders](https://arxiv.org/abs/2605.31245v1)** | 2026-05-29 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[Steering LLMs? Actually, Sparse Autoencoders can outperform simple baselines](https://arxiv.org/abs/2605.31183v1)** | 2026-05-29 |  |
+| **[Towards Atoms of Large Language Models](https://arxiv.org/abs/2509.20784v3)** | 2026-05-29 | <details><summary>To be...</summary><p>To be published in ICML 2026</p></details> |
+| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v2)** | 2026-05-29 | Accepted by ICML2026 |
+| **[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](https://arxiv.org/abs/2602.10388v4)** | 2026-05-29 |  |
 | **[BioRefusalAudit: Auditing Biosecurity Refusal Depth Using General and Domain-Fine-Tuned Sparse Autoencoders](https://arxiv.org/abs/2605.30162v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 3 tables. Apart Research AIxBio Sprint hackathon paper, April 2026 (Track 3: AI Biosecurity Tools). Code, eval set, and SAEs: github.com/SolshineCode/Deleeuw-AI-x-Bio-hackathon. Reviewer feedback: apartresearch.com/project/biorefusalaudit-auditing-biosecurity-refusal-depth-using-general-and-domainfinetuned-sparse-autoencoders-1fyk</p></details> |
-| **[No More K-means:Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v1)** | 2026-05-28 | Accepted by ICML2026 |
 | **[Robust and Generalizable Safety Steering for Text-to-Image Diffusion Transformers](https://arxiv.org/abs/2605.30049v1)** | 2026-05-28 |  |
 | **[Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate](https://arxiv.org/abs/2605.29889v1)** | 2026-05-28 | <details><summary>9 pag...</summary><p>9 pages main text, 27 pages total including appendices; 7 figures, 25 tables</p></details> |
 | **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
 | **[Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://arxiv.org/abs/2605.29358v1)** | 2026-05-28 |  |
 | **[When and How Long? The Readout-Mediator Angle in Temporal Reasoning](https://arxiv.org/abs/2605.29126v1)** | 2026-05-27 |  |
-| **[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](https://arxiv.org/abs/2602.10388v3)** | 2026-05-27 |  |
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
-| **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v1)** | 2026-05-27 | preprint |
-| **[Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs](https://arxiv.org/abs/2605.28388v1)** | 2026-05-27 | 30 pages, 11 figures |
-| **[Feature Geometry of LoRA Adapters: A Sparse Autoencoder Analysis of Representational Divergence in Fine-Tuned Language Models](https://arxiv.org/abs/2605.28896v1)** | 2026-05-27 |  |
-| **[IRDS: Interpretable RLVR Data Selection via Verifier-Coupled Sparse Autoencoder Coverage](https://arxiv.org/abs/2605.28247v1)** | 2026-05-27 | <details><summary>24 pa...</summary><p>24 pages,3 figures,18 tables</p></details> |
-| **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v1)** | 2026-05-27 |  |
-| **[ReSAE: Residualized Sparse Autoencoders for Multi-Layer Transformer Interventions](https://arxiv.org/abs/2605.27819v1)** | 2026-05-27 |  |
 
