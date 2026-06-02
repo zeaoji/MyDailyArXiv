@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v3)** | 2026-05-31 | Accepted by TMLR |
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 | **[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2605.24906v3)** | 2026-05-27 | Accepted by ICML2026 |
 | **[X-Edit: Exact, Explicit, and Explainable Null-Space Editing for Medical Vision Transformers](https://arxiv.org/abs/2605.24932v1)** | 2026-05-24 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2026</p></details> |
@@ -21,11 +22,15 @@ labels: documentation
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v4)** | 2026-05-11 |  |
 | **[Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing](https://arxiv.org/abs/2601.15686v2)** | 2026-05-11 |  |
 | **[Model Editing for New Document Integration in Generative Information Retrieval](https://arxiv.org/abs/2603.02773v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to The Web Conference (WWW) 2026</p></details> |
-| **[BetaEdit: Null-Space Constrained Sequential Model Editing](https://arxiv.org/abs/2605.09285v1)** | 2026-05-10 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610v1)** | 2026-06-01 |  |
+| **[AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise](https://arxiv.org/abs/2606.01053v1)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v3)** | 2026-05-31 | Accepted by TMLR |
+| **[Revisiting Parameter-Based Knowledge Editing in Large Language Models: Theoretical Limits and Empirical Evidence](https://arxiv.org/abs/2606.00570v1)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Equal contribution by the first two authors. 9 pages main paper, 10 figures, with appendix</p></details> |
+| **[Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://arxiv.org/abs/2606.00477v1)** | 2026-05-30 | <details><summary>Publi...</summary><p>Published at ICML 2026; Code and data available at https://github.com/gxx27/UniKE</p></details> |
 | **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
 | **[From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303v1)** | 2026-05-27 |  |
 | **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
@@ -36,28 +41,23 @@ labels: documentation
 | **[Scalable Knowledge Editing for Mixture-of-Experts LLMs via Tensor-Structured Updates](https://arxiv.org/abs/2605.16686v1)** | 2026-05-15 | <details><summary>17 pa...</summary><p>17 pages, 3 architectures, 1 figure, 6 tables</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v3)** | 2026-05-14 |  |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
-| **[Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey](https://arxiv.org/abs/2605.13919v1)** | 2026-05-13 |  |
-| **[Benchmarking Safety Risks of Knowledge-Intensive Reasoning under Malicious Knowledge Editing](https://arxiv.org/abs/2605.10146v1)** | 2026-05-11 |  |
-| **[Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse](https://arxiv.org/abs/2601.11042v2)** | 2026-05-09 | <details><summary>22 pa...</summary><p>22 pages, 18 figures, Accepted to ACL 2026 (Main Conference)</p></details> |
-| **[Beyond Local Edits: Embedding-Virtualized Knowledge for Broader Evaluation and Preservation of Model Editing](https://arxiv.org/abs/2602.01977v2)** | 2026-05-09 | <details><summary>We vo...</summary><p>We voluntarily withdraw this manuscript. Extensive post-submission testing shows the method lacks the originally reported generality and effectiveness. The benchmark metrics originally designed are inadequate for assessing existing model editing algorithms. To avoid misleading the community, we have decided to withdraw this paper and will not release an updated version.</p></details> |
-| **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v3)** | 2026-05-07 | 37 pages, 9 figures |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
+| **[How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations](https://arxiv.org/abs/2606.02385v1)** | 2026-06-01 | 27 pages, 5 figures |
+| **[Ablating Archetypes: The Stability of Archetypal SAEs is an Artifact of Initialization and Metric Design](https://arxiv.org/abs/2606.02061v1)** | 2026-06-01 |  |
+| **[Query Circuits: Explaining How Language Models Answer User Prompts](https://arxiv.org/abs/2509.24808v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](https://arxiv.org/abs/2603.03031v2)** | 2026-06-01 |  |
+| **[AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations](https://arxiv.org/abs/2508.17320v3)** | 2026-06-01 | Accepted by ACL 2026 |
+| **[CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models](https://arxiv.org/abs/2606.01695v1)** | 2026-06-01 |  |
+| **[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://arxiv.org/abs/2606.01479v1)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Beyond Task Success: Behavioral and Representational Diagnostics for WAM and VLA](https://arxiv.org/abs/2606.01095v1)** | 2026-05-31 |  |
+| **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726v1)** | 2026-05-30 |  |
+| **[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](https://arxiv.org/abs/2602.06806v2)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Webpage and code available at https://github.com/VSSILPA/RAIGen</p></details> |
+| **[Uncovering Competency Gaps in Large Language Models and Their Benchmarks](https://arxiv.org/abs/2512.20638v2)** | 2026-05-29 |  |
+| **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v1)** | 2026-05-29 |  |
 | **[On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders](https://arxiv.org/abs/2605.31518v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to ICML 2026 main conference</p></details> |
 | **[SAEmnesia: Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders](https://arxiv.org/abs/2509.21379v3)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance](https://arxiv.org/abs/2605.31304v1)** | 2026-05-29 | Preprint |
-| **[Toward Identifiable Sparse Autoencoders](https://arxiv.org/abs/2605.31245v1)** | 2026-05-29 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Steering LLMs? Actually, Sparse Autoencoders can outperform simple baselines](https://arxiv.org/abs/2605.31183v1)** | 2026-05-29 |  |
-| **[Towards Atoms of Large Language Models](https://arxiv.org/abs/2509.20784v3)** | 2026-05-29 | <details><summary>To be...</summary><p>To be published in ICML 2026</p></details> |
-| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v2)** | 2026-05-29 | Accepted by ICML2026 |
-| **[Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders](https://arxiv.org/abs/2602.10388v4)** | 2026-05-29 |  |
-| **[BioRefusalAudit: Auditing Biosecurity Refusal Depth Using General and Domain-Fine-Tuned Sparse Autoencoders](https://arxiv.org/abs/2605.30162v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, 3 tables. Apart Research AIxBio Sprint hackathon paper, April 2026 (Track 3: AI Biosecurity Tools). Code, eval set, and SAEs: github.com/SolshineCode/Deleeuw-AI-x-Bio-hackathon. Reviewer feedback: apartresearch.com/project/biorefusalaudit-auditing-biosecurity-refusal-depth-using-general-and-domainfinetuned-sparse-autoencoders-1fyk</p></details> |
-| **[Robust and Generalizable Safety Steering for Text-to-Image Diffusion Transformers](https://arxiv.org/abs/2605.30049v1)** | 2026-05-28 |  |
-| **[Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate](https://arxiv.org/abs/2605.29889v1)** | 2026-05-28 | <details><summary>9 pag...</summary><p>9 pages main text, 27 pages total including appendices; 7 figures, 25 tables</p></details> |
-| **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
-| **[Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://arxiv.org/abs/2605.29358v1)** | 2026-05-28 |  |
-| **[When and How Long? The Readout-Mediator Angle in Temporal Reasoning](https://arxiv.org/abs/2605.29126v1)** | 2026-05-27 |  |
-| **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 
