@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,13 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
+| **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
 | **[On the Persistent Effects of Lexicality in Large Language Mod](https://arxiv.org/abs/2606.02750v1)** | 2026-06-01 |  |
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 | **[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2605.24906v3)** | 2026-05-27 | Accepted by ICML2026 |
 | **[X-Edit: Exact, Explicit, and Explainable Null-Space Editing for Medical Vision Transformers](https://arxiv.org/abs/2605.24932v1)** | 2026-05-24 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2026</p></details> |
-| **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v2)** | 2026-05-20 |  |
 | **[HoReN: Normalized Hopfield Retrieval for Large-Scale Sequential Model Editing](https://arxiv.org/abs/2605.08143v2)** | 2026-05-19 | 30 pages, 10 figures |
 | **[Modality-Decoupled Online Recursive Editing](https://arxiv.org/abs/2605.20273v1)** | 2026-05-19 |  |
 | **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v1)** | 2026-05-12 |  |
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v4)** | 2026-05-11 |  |
-| **[Beyond Hard Writes and Rigid Preservation: Soft Recursive Least-Squares for Lifelong LLM Editing](https://arxiv.org/abs/2601.15686v2)** | 2026-05-11 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v1)** | 2026-06-03 | 9 pages, 3 figures |
+| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v3)** | 2026-06-03 | Accepted by ICML2026 |
+| **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v2)** | 2026-06-03 |  |
 | **[Aligned Training: A Parameter-Free Method to Improve Feature Quality and Stability of Sparse Autoencoders (SAE)](https://arxiv.org/abs/2605.18629v2)** | 2026-06-02 |  |
 | **[When Models Refuse: Political Steerability and Feature Richness as Measures of Ideological Depth](https://arxiv.org/abs/2508.21448v3)** | 2026-06-02 |  |
 | **[Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](https://arxiv.org/abs/2602.10352v2)** | 2026-06-02 | <details><summary>26 pa...</summary><p>26 pages, 18 tables, 17 figures. Code and data at https://github.com/agencyenterprise/selfie-adapters</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations](https://arxiv.org/abs/2508.17320v3)** | 2026-06-01 | Accepted by ACL 2026 |
 | **[CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models](https://arxiv.org/abs/2606.01695v1)** | 2026-06-01 |  |
 | **[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://arxiv.org/abs/2606.01479v1)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Beyond Task Success: Behavioral and Representational Diagnostics for WAM and VLA](https://arxiv.org/abs/2606.01095v1)** | 2026-05-31 |  |
-| **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726v1)** | 2026-05-30 |  |
-| **[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](https://arxiv.org/abs/2602.06806v2)** | 2026-05-30 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Webpage and code available at https://github.com/VSSILPA/RAIGen</p></details> |
 
