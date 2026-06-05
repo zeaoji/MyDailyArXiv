@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
+| **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
-| **[On the Persistent Effects of Lexicality in Large Language Mod](https://arxiv.org/abs/2606.02750v1)** | 2026-06-01 |  |
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 | **[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2605.24906v3)** | 2026-05-27 | Accepted by ICML2026 |
 | **[X-Edit: Exact, Explicit, and Explainable Null-Space Editing for Medical Vision Transformers](https://arxiv.org/abs/2605.24932v1)** | 2026-05-24 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
 | **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v1)** | 2026-05-12 |  |
-| **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v4)** | 2026-05-11 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](https://arxiv.org/abs/2606.06333v1)** | 2026-06-04 |  |
+| **[The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188v1)** | 2026-06-04 | ICML |
+| **[Concept-SAE: A Controllable and Invertible Concept Interface for Sparse Autoencoders](https://arxiv.org/abs/2509.22015v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2026, the project can be found at https://github.com/RafaDD/Concept-SAE</p></details> |
+| **[Uncovering Model Processing Strategies with Non-Negative Per-Example Fisher Factorization](https://arxiv.org/abs/2310.04649v3)** | 2026-06-03 |  |
 | **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v1)** | 2026-06-03 | 9 pages, 3 figures |
 | **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v3)** | 2026-06-03 | Accepted by ICML2026 |
 | **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v2)** | 2026-06-03 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations](https://arxiv.org/abs/2606.02385v1)** | 2026-06-01 | 27 pages, 5 figures |
 | **[Ablating Archetypes: The Stability of Archetypal SAEs is an Artifact of Initialization and Metric Design](https://arxiv.org/abs/2606.02061v1)** | 2026-06-01 |  |
 | **[Query Circuits: Explaining How Language Models Answer User Prompts](https://arxiv.org/abs/2509.24808v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](https://arxiv.org/abs/2603.03031v2)** | 2026-06-01 |  |
-| **[AdaptiveK: Complexity-Driven Sparse Autoencoders for Interpretable Language Model Representations](https://arxiv.org/abs/2508.17320v3)** | 2026-06-01 | Accepted by ACL 2026 |
-| **[CANARY: Zero-Label Detection of Fine-Tuning Contamination in Language Models](https://arxiv.org/abs/2606.01695v1)** | 2026-06-01 |  |
-| **[Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech](https://arxiv.org/abs/2606.01479v1)** | 2026-05-31 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
