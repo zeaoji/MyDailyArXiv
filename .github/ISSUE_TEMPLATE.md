@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,14 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](https://arxiv.org/abs/2606.07473v1)** | 2026-06-05 |  |
+| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v1)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables</p></details> |
+| **[A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders](https://arxiv.org/abs/2606.07007v1)** | 2026-06-05 |  |
+| **[Interpreting Brain Responses to Language with Sparse Features from Language Models](https://arxiv.org/abs/2606.06857v1)** | 2026-06-05 |  |
+| **[Endogenous Resistance to Activation Steering in Language Models](https://arxiv.org/abs/2602.06941v2)** | 2026-06-04 |  |
+| **[Perplexity Can Miss SAE Feature Damage Under Quantization](https://arxiv.org/abs/2606.03002v2)** | 2026-06-04 | <details><summary>12 Pa...</summary><p>12 Pages of Content, Submitted to TMLR</p></details> |
+| **[Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](https://arxiv.org/abs/2606.06664v1)** | 2026-06-04 | <details><summary>In Pr...</summary><p>In Proceedings of the International Conference on Machine Learning, 2026. (acceptance rate 26.6%)</p></details> |
+| **[Beyond the Black Box: Interpretability of Agentic AI Tool Use](https://arxiv.org/abs/2605.06890v3)** | 2026-06-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 17 tables</p></details> |
 | **[Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](https://arxiv.org/abs/2606.06333v1)** | 2026-06-04 |  |
 | **[The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188v1)** | 2026-06-04 | ICML |
 | **[Concept-SAE: A Controllable and Invertible Concept Interface for Sparse Autoencoders](https://arxiv.org/abs/2509.22015v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2026, the project can be found at https://github.com/RafaDD/Concept-SAE</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v1)** | 2026-06-03 | 9 pages, 3 figures |
 | **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v3)** | 2026-06-03 | Accepted by ICML2026 |
 | **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v2)** | 2026-06-03 |  |
-| **[Aligned Training: A Parameter-Free Method to Improve Feature Quality and Stability of Sparse Autoencoders (SAE)](https://arxiv.org/abs/2605.18629v2)** | 2026-06-02 |  |
-| **[When Models Refuse: Political Steerability and Feature Richness as Measures of Ideological Depth](https://arxiv.org/abs/2508.21448v3)** | 2026-06-02 |  |
-| **[Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs](https://arxiv.org/abs/2602.10352v2)** | 2026-06-02 | <details><summary>26 pa...</summary><p>26 pages, 18 tables, 17 figures. Code and data at https://github.com/agencyenterprise/selfie-adapters</p></details> |
-| **[How Quantization Changes Interpretable Features: A Sparse Autoencoder Analysis of Language Models](https://arxiv.org/abs/2606.03002v1)** | 2026-06-02 |  |
-| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
-| **[How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations](https://arxiv.org/abs/2606.02385v1)** | 2026-06-01 | 27 pages, 5 figures |
-| **[Ablating Archetypes: The Stability of Archetypal SAEs is an Artifact of Initialization and Metric Design](https://arxiv.org/abs/2606.02061v1)** | 2026-06-01 |  |
-| **[Query Circuits: Explaining How Language Models Answer User Prompts](https://arxiv.org/abs/2509.24808v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
