@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
 | **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[EVA: Editing for Versatile Alignment against Jailbreaks](https://arxiv.org/abs/2605.14750v1)** | 2026-05-14 | IEEE TPAMI 2026 |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
-| **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v1)** | 2026-05-12 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033v1)** | 2026-06-08 | 10 pages, 5 figures |
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
 | **[HyperPatch: Sequential Knowledge Editing Under n-ary Structural Drift](https://arxiv.org/abs/2606.03179v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
@@ -40,24 +41,23 @@ labels: documentation
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v2)** | 2026-05-23 |  |
 | **[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment](https://arxiv.org/abs/2605.23780v1)** | 2026-05-22 |  |
 | **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v2)** | 2026-05-21 |  |
-| **[Causal Path Alignment: Anchoring the Optimization Trajectory for Controllable In-Parameter Knowledge Editing](https://arxiv.org/abs/2506.04042v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v1)** | 2026-06-08 |  |
+| **[A Unifying Framework for Concept-Based Representational Similarity](https://arxiv.org/abs/2606.09653v1)** | 2026-06-08 |  |
+| **[Closure-Validated Circuit Discovery in Attention Heads: Co-activation Proposes, Ablation Disposes](https://arxiv.org/abs/2606.09607v1)** | 2026-06-08 | 22 pages, 3 figures |
+| **[The Amplifying Mirror: Locating and Steering the Partisan Direction inside a Large Language Model](https://arxiv.org/abs/2606.08792v1)** | 2026-06-07 |  |
+| **[A Geometric Unification of Concept Learning with Concept Cones](https://arxiv.org/abs/2512.07355v2)** | 2026-06-07 | 33 pages |
+| **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v1)** | 2026-06-07 |  |
+| **[Pre-Intervention Prediction of Sparse Autoencoder Steering Side Effects](https://arxiv.org/abs/2606.08365v1)** | 2026-06-06 |  |
+| **[Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging](https://arxiv.org/abs/2606.08324v1)** | 2026-06-06 | <details><summary>IGARS...</summary><p>IGARSS 2026 accepted paper conference</p></details> |
+| **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v2)** | 2026-06-06 | 24 pages, 11 figures |
+| **[Vision-Language Asymmetry in Bistable Image Captioning](https://arxiv.org/abs/2606.08031v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Philosophy of Machine Learning</p></details> |
+| **[Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs](https://arxiv.org/abs/2606.07963v1)** | 2026-06-06 |  |
 | **[Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](https://arxiv.org/abs/2606.07473v1)** | 2026-06-05 |  |
 | **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v1)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables</p></details> |
 | **[A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders](https://arxiv.org/abs/2606.07007v1)** | 2026-06-05 |  |
 | **[Interpreting Brain Responses to Language with Sparse Features from Language Models](https://arxiv.org/abs/2606.06857v1)** | 2026-06-05 |  |
-| **[Endogenous Resistance to Activation Steering in Language Models](https://arxiv.org/abs/2602.06941v2)** | 2026-06-04 |  |
-| **[Perplexity Can Miss SAE Feature Damage Under Quantization](https://arxiv.org/abs/2606.03002v2)** | 2026-06-04 | <details><summary>12 Pa...</summary><p>12 Pages of Content, Submitted to TMLR</p></details> |
-| **[Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers](https://arxiv.org/abs/2606.06664v1)** | 2026-06-04 | <details><summary>In Pr...</summary><p>In Proceedings of the International Conference on Machine Learning, 2026. (acceptance rate 26.6%)</p></details> |
-| **[Beyond the Black Box: Interpretability of Agentic AI Tool Use](https://arxiv.org/abs/2605.06890v3)** | 2026-06-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 17 tables</p></details> |
-| **[Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](https://arxiv.org/abs/2606.06333v1)** | 2026-06-04 |  |
-| **[The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](https://arxiv.org/abs/2606.06188v1)** | 2026-06-04 | ICML |
-| **[Concept-SAE: A Controllable and Invertible Concept Interface for Sparse Autoencoders](https://arxiv.org/abs/2509.22015v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted by ECML PKDD 2026, the project can be found at https://github.com/RafaDD/Concept-SAE</p></details> |
-| **[Uncovering Model Processing Strategies with Non-Negative Per-Example Fisher Factorization](https://arxiv.org/abs/2310.04649v3)** | 2026-06-03 |  |
-| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v1)** | 2026-06-03 | 9 pages, 3 figures |
-| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v3)** | 2026-06-03 | Accepted by ICML2026 |
-| **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v2)** | 2026-06-03 |  |
 
