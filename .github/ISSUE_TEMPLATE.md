@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking Knowledge Editing using Logical Rules](https://arxiv.org/abs/2606.10554v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 24th International Semantic Web Conference 2025</p></details> |
 | **[CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033v1)** | 2026-06-08 | 10 pages, 5 figures |
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
@@ -40,14 +41,17 @@ labels: documentation
 | **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
 | **[Dynamics Reveals Structure: Challenging the Linear Propagation Assumption](https://arxiv.org/abs/2601.21601v2)** | 2026-05-23 |  |
 | **[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment](https://arxiv.org/abs/2605.23780v1)** | 2026-05-22 |  |
-| **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v2)** | 2026-05-21 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VFUSE: Virulent Feature Understanding with Sparse autoEncoders](https://arxiv.org/abs/2606.10080v1)** | 2026-06-08 |  |
+| **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** | 2026-06-08 |  |
 | **[The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v1)** | 2026-06-08 |  |
 | **[A Unifying Framework for Concept-Based Representational Similarity](https://arxiv.org/abs/2606.09653v1)** | 2026-06-08 |  |
 | **[Closure-Validated Circuit Discovery in Attention Heads: Co-activation Proposes, Ablation Disposes](https://arxiv.org/abs/2606.09607v1)** | 2026-06-08 | 22 pages, 3 figures |
+| **[Interactions Between Crosscoder Features: A Compact Proofs Perspective](https://arxiv.org/abs/2606.09940v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on Mechanistic Interpretability</p></details> |
+| **[One Lens, Many Worlds : A Capability-Typed Interface for World-Model Interpretability](https://arxiv.org/abs/2606.09936v1)** | 2026-06-07 |  |
 | **[The Amplifying Mirror: Locating and Steering the Partisan Direction inside a Large Language Model](https://arxiv.org/abs/2606.08792v1)** | 2026-06-07 |  |
 | **[A Geometric Unification of Concept Learning with Concept Cones](https://arxiv.org/abs/2512.07355v2)** | 2026-06-07 | 33 pages |
 | **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v1)** | 2026-06-07 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v2)** | 2026-06-06 | 24 pages, 11 figures |
 | **[Vision-Language Asymmetry in Bistable Image Captioning](https://arxiv.org/abs/2606.08031v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Philosophy of Machine Learning</p></details> |
 | **[Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs](https://arxiv.org/abs/2606.07963v1)** | 2026-06-06 |  |
-| **[Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders](https://arxiv.org/abs/2606.07473v1)** | 2026-06-05 |  |
-| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v1)** | 2026-06-05 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, 14 tables</p></details> |
-| **[A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders](https://arxiv.org/abs/2606.07007v1)** | 2026-06-05 |  |
-| **[Interpreting Brain Responses to Language with Sparse Features from Language Models](https://arxiv.org/abs/2606.06857v1)** | 2026-06-05 |  |
 
