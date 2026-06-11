@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
 | **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[EVA: Editing for Versatile Alignment against Jailbreaks](https://arxiv.org/abs/2605.14750v1)** | 2026-05-14 | IEEE TPAMI 2026 |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v3)** | 2026-05-14 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
-| **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v1)** | 2026-05-13 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,13 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](https://arxiv.org/abs/2606.12138v1)** | 2026-06-10 |  |
+| **[Visualising the Attractor Landscape of Neural Cellular Automata](https://arxiv.org/abs/2604.10639v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to ALIFE 2026</p></details> |
+| **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](https://arxiv.org/abs/2606.11722v1)** | 2026-06-10 | Ongoing Project |
+| **[Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](https://arxiv.org/abs/2606.11657v1)** | 2026-06-10 | 8 pages, 5 figures |
+| **[Steering Multirobot Behavior via Closed-Loop Affine Activation Editing](https://arxiv.org/abs/2606.11489v1)** | 2026-06-09 |  |
+| **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](https://arxiv.org/abs/2506.20040v3)** | 2026-06-09 |  |
+| **[Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery](https://arxiv.org/abs/2602.02726v2)** | 2026-06-09 |  |
 | **[VFUSE: Virulent Feature Understanding with Sparse autoEncoders](https://arxiv.org/abs/2606.10080v1)** | 2026-06-08 |  |
 | **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** | 2026-06-08 |  |
 | **[The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v1)** | 2026-06-08 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Interactions Between Crosscoder Features: A Compact Proofs Perspective](https://arxiv.org/abs/2606.09940v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on Mechanistic Interpretability</p></details> |
 | **[One Lens, Many Worlds : A Capability-Typed Interface for World-Model Interpretability](https://arxiv.org/abs/2606.09936v1)** | 2026-06-07 |  |
 | **[The Amplifying Mirror: Locating and Steering the Partisan Direction inside a Large Language Model](https://arxiv.org/abs/2606.08792v1)** | 2026-06-07 |  |
-| **[A Geometric Unification of Concept Learning with Concept Cones](https://arxiv.org/abs/2512.07355v2)** | 2026-06-07 | 33 pages |
-| **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v1)** | 2026-06-07 |  |
-| **[Pre-Intervention Prediction of Sparse Autoencoder Steering Side Effects](https://arxiv.org/abs/2606.08365v1)** | 2026-06-06 |  |
-| **[Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging](https://arxiv.org/abs/2606.08324v1)** | 2026-06-06 | <details><summary>IGARS...</summary><p>IGARSS 2026 accepted paper conference</p></details> |
-| **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v2)** | 2026-06-06 | 24 pages, 11 figures |
-| **[Vision-Language Asymmetry in Bistable Image Captioning](https://arxiv.org/abs/2606.08031v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 Workshop on Philosophy of Machine Learning</p></details> |
-| **[Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs](https://arxiv.org/abs/2606.07963v1)** | 2026-06-06 |  |
 
