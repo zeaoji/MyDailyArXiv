@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2026
+title: Latest 15 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v2)** | 2026-06-15 | Under review |
 | **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v1)** | 2026-06-12 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Can Factual Opinions Be Edited (Manipulated) in Large Language Models?](https://arxiv.org/abs/2606.03096v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main Conference</p></details> |
@@ -40,11 +41,18 @@ labels: documentation
 | **[Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs](https://arxiv.org/abs/2606.00477v1)** | 2026-05-30 | <details><summary>Publi...</summary><p>Published at ICML 2026; Code and data available at https://github.com/gxx27/UniKE</p></details> |
 | **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
 | **[From Fact Overwriting to Knowledge Evolution: Causal Editing via On-Policy Self-Distillation](https://arxiv.org/abs/2605.28303v1)** | 2026-05-27 |  |
-| **[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](https://arxiv.org/abs/2605.26670v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
+| **[When Confidence Lacks Concepts: Interpretable OOD Detection via Representation Perturbations](https://arxiv.org/abs/2606.16196v1)** | 2026-06-15 |  |
+| **[Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v1)** | 2026-06-15 |  |
+| **[Circuit Tracing in Autoregressive Protein Language Models](https://arxiv.org/abs/2606.16044v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted into the Mechanistic Interpretability Workshop at ICML 2026. 24 pages, 14 figures</p></details> |
+| **[DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796v1)** | 2026-06-14 |  |
+| **[Analyzing Visual Aircraft Representations with Sparse Autoencoders](https://arxiv.org/abs/2606.15468v1)** | 2026-06-13 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 7 tables</p></details> |
+| **[Size Doesn't Matter: Cosine-Scored Sparse Autoencoders](https://arxiv.org/abs/2606.15054v1)** | 2026-06-13 |  |
+| **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v1)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Decompose Sparsely Where You Should, Absorb Densely Where You Should No](https://arxiv.org/abs/2606.14040v1)** | 2026-06-12 |  |
 | **[Ensembling Sparse Autoencoders](https://arxiv.org/abs/2505.16077v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Language Model Circuits Are Sparse in the Neuron Basis](https://arxiv.org/abs/2601.22594v2)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML Spotlight, camera-ready</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](https://arxiv.org/abs/2606.12138v1)** | 2026-06-10 |  |
 | **[Visualising the Attractor Landscape of Neural Cellular Automata](https://arxiv.org/abs/2604.10639v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to ALIFE 2026</p></details> |
 | **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](https://arxiv.org/abs/2606.11722v1)** | 2026-06-10 | Ongoing Project |
-| **[Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics](https://arxiv.org/abs/2606.11657v1)** | 2026-06-10 | 8 pages, 5 figures |
-| **[Steering Multirobot Behavior via Closed-Loop Affine Activation Editing](https://arxiv.org/abs/2606.11489v1)** | 2026-06-09 |  |
-| **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](https://arxiv.org/abs/2506.20040v3)** | 2026-06-09 |  |
-| **[Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery](https://arxiv.org/abs/2602.02726v2)** | 2026-06-09 |  |
-| **[VFUSE: Virulent Feature Understanding with Sparse autoEncoders](https://arxiv.org/abs/2606.10080v1)** | 2026-06-08 |  |
-| **[Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders](https://arxiv.org/abs/2606.10029v1)** | 2026-06-08 |  |
-| **[The Neutral Mask: How RLHF Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v1)** | 2026-06-08 |  |
-| **[A Unifying Framework for Concept-Based Representational Similarity](https://arxiv.org/abs/2606.09653v1)** | 2026-06-08 |  |
 
