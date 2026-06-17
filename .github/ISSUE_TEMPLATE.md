@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v2)** | 2026-06-16 |  |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v2)** | 2026-06-15 | Under review |
-| **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v1)** | 2026-06-12 |  |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Can Factual Opinions Be Edited (Manipulated) in Large Language Models?](https://arxiv.org/abs/2606.03096v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main Conference</p></details> |
 | **[Benchmarking Knowledge Editing using Logical Rules](https://arxiv.org/abs/2606.10554v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 24th International Semantic Web Conference 2025</p></details> |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stable and Steerable Sparse Autoencoders with Weight Regularization](https://arxiv.org/abs/2603.04198v2)** | 2026-06-16 |  |
+| **[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](https://arxiv.org/abs/2602.06806v3)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Webpage and code available at https://github.com/VSSILPA/RAIGen</p></details> |
+| **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[When Confidence Lacks Concepts: Interpretable OOD Detection via Representation Perturbations](https://arxiv.org/abs/2606.16196v1)** | 2026-06-15 |  |
 | **[Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v1)** | 2026-06-15 |  |
@@ -52,12 +55,9 @@ labels: documentation
 | **[DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796v1)** | 2026-06-14 |  |
 | **[Analyzing Visual Aircraft Representations with Sparse Autoencoders](https://arxiv.org/abs/2606.15468v1)** | 2026-06-13 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 7 tables</p></details> |
 | **[Size Doesn't Matter: Cosine-Scored Sparse Autoencoders](https://arxiv.org/abs/2606.15054v1)** | 2026-06-13 |  |
-| **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v1)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Decompose Sparsely Where You Should, Absorb Densely Where You Should No](https://arxiv.org/abs/2606.14040v1)** | 2026-06-12 |  |
 | **[Ensembling Sparse Autoencoders](https://arxiv.org/abs/2505.16077v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Language Model Circuits Are Sparse in the Neuron Basis](https://arxiv.org/abs/2601.22594v2)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML Spotlight, camera-ready</p></details> |
 | **[From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?](https://arxiv.org/abs/2512.15134v2)** | 2026-06-10 | ACL 2026 |
 | **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](https://arxiv.org/abs/2606.12138v1)** | 2026-06-10 |  |
-| **[Visualising the Attractor Landscape of Neural Cellular Automata](https://arxiv.org/abs/2604.10639v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted to ALIFE 2026</p></details> |
-| **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](https://arxiv.org/abs/2606.11722v1)** | 2026-06-10 | Ongoing Project |
 
