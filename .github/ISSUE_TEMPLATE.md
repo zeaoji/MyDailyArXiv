@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v2)** | 2026-06-17 |  |
 | **[Reinforcement Learning for Neural Model Editing](https://arxiv.org/abs/2606.13461v1)** | 2026-06-11 |  |
 | **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[HoReN: Normalized Hopfield Retrieval for Large-Scale Sequential Model Editing](https://arxiv.org/abs/2605.08143v2)** | 2026-05-19 | 30 pages, 10 figures |
 | **[Modality-Decoupled Online Recursive Editing](https://arxiv.org/abs/2605.20273v1)** | 2026-05-19 |  |
 | **[Reverse-Engineering Model Editing on Language Models](https://arxiv.org/abs/2602.10134v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[EVA: Editing for Versatile Alignment against Jailbreaks](https://arxiv.org/abs/2605.14750v1)** | 2026-05-14 | IEEE TPAMI 2026 |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,11 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation](https://arxiv.org/abs/2606.18897v1)** | 2026-06-17 |  |
+| **[From Concept-Aligned Tokens to Vulnerable Features: Mechanistic Localization of Jailbreaks](https://arxiv.org/abs/2604.23130v2)** | 2026-06-16 |  |
+| **[From Sparse Features to Trustworthy Proxies: Certifying SAE-Based Interpretability](https://arxiv.org/abs/2606.18383v1)** | 2026-06-16 |  |
 | **[Stable and Steerable Sparse Autoencoders with Weight Regularization](https://arxiv.org/abs/2603.04198v2)** | 2026-06-16 |  |
+| **[SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://arxiv.org/abs/2606.18322v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/Mingyuee88/sae-post-intervention-recovery, Project page: https://mingyuee88.github.io/sae-post-intervention-recovery/</p></details> |
 | **[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](https://arxiv.org/abs/2602.06806v3)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Webpage and code available at https://github.com/VSSILPA/RAIGen</p></details> |
 | **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939v1)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Analyzing Visual Aircraft Representations with Sparse Autoencoders](https://arxiv.org/abs/2606.15468v1)** | 2026-06-13 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 7 tables</p></details> |
 | **[Size Doesn't Matter: Cosine-Scored Sparse Autoencoders](https://arxiv.org/abs/2606.15054v1)** | 2026-06-13 |  |
 | **[Decompose Sparsely Where You Should, Absorb Densely Where You Should No](https://arxiv.org/abs/2606.14040v1)** | 2026-06-12 |  |
-| **[Ensembling Sparse Autoencoders](https://arxiv.org/abs/2505.16077v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Language Model Circuits Are Sparse in the Neuron Basis](https://arxiv.org/abs/2601.22594v2)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML Spotlight, camera-ready</p></details> |
-| **[From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?](https://arxiv.org/abs/2512.15134v2)** | 2026-06-10 | ACL 2026 |
-| **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](https://arxiv.org/abs/2606.12138v1)** | 2026-06-10 |  |
 
