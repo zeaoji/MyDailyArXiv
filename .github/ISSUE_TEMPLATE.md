@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v1)** | 2026-06-22 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
+| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v2)** | 2026-06-24 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
 | **[Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs](https://arxiv.org/abs/2606.22627v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[LOKI: Memory-Free Null-Space Constrained Lifelong Knowledge Editing](https://arxiv.org/abs/2606.19679v1)** | 2026-06-18 |  |
 | **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v3)** | 2026-06-17 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steering Vision-Language Models with Joint Sparse Autoencoders](https://arxiv.org/abs/2606.25657v1)** | 2026-06-24 | 19pages,10 figures |
+| **[What's in an Earth Embedding? An Explainability Analysis of Location Encoders](https://arxiv.org/abs/2606.24997v1)** | 2026-06-23 |  |
 | **[Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://arxiv.org/abs/2606.24716v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Constrained Variable Projection for Structured Problems](https://arxiv.org/abs/2606.23939v1)** | 2026-06-22 |  |
 | **[Similarity of Neural Network Representations in Superposition](https://arxiv.org/abs/2604.00208v2)** | 2026-06-22 | 17 pages, 4 figures |
@@ -58,6 +60,4 @@ labels: documentation
 | **[From Sparse Features to Trustworthy Proxies: Certifying SAE-Based Interpretability](https://arxiv.org/abs/2606.18383v1)** | 2026-06-16 |  |
 | **[Stable and Steerable Sparse Autoencoders with Weight Regularization](https://arxiv.org/abs/2603.04198v2)** | 2026-06-16 |  |
 | **[SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior](https://arxiv.org/abs/2606.18322v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/Mingyuee88/sae-post-intervention-recovery, Project page: https://mingyuee88.github.io/sae-post-intervention-recovery/</p></details> |
-| **[RAIGen: Rare Attribute Identification in Text-to-Image Generative Models](https://arxiv.org/abs/2602.06806v3)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Webpage and code available at https://github.com/VSSILPA/RAIGen</p></details> |
-| **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 
