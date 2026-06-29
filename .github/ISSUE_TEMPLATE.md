@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,12 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v2)** | 2026-06-26 |  |
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v2)** | 2026-06-17 |  |
 | **[Reinforcement Learning for Neural Model Editing](https://arxiv.org/abs/2606.13461v1)** | 2026-06-11 |  |
 | **[Web-Native Graphical EMF Model Editors](https://arxiv.org/abs/2606.11442v1)** | 2026-06-09 |  |
 | **[BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v1)** | 2026-06-08 |  |
-| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v1)** | 2026-06-04 |  |
 | **[On the Persistent Effects of Lexicality in Large Language Models](https://arxiv.org/abs/2606.02750v2)** | 2026-06-03 |  |
 | **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v3)** | 2026-06-03 |  |
 | **[ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://arxiv.org/abs/2605.18879v3)** | 2026-06-03 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring](https://arxiv.org/abs/2606.27941v1)** | 2026-06-26 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Accepted to the 2nd Workshop on Compositional Learning at ICML 2026</p></details> |
+| **[PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](https://arxiv.org/abs/2606.27440v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning in Structural Biology (MLSB) 2025 workshop</p></details> |
 | **[Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders](https://arxiv.org/abs/2606.27321v1)** | 2026-06-25 |  |
 | **[Forecasting With LLMs: Improved Generalization Through Feature Steering](https://arxiv.org/abs/2606.27199v1)** | 2026-06-25 |  |
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v2)** | 2026-06-25 | <details><summary>19 pa...</summary><p>19 pages including appendix</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Similarity of Neural Network Representations in Superposition](https://arxiv.org/abs/2604.00208v2)** | 2026-06-22 | 17 pages, 4 figures |
 | **[What Does a Chemical Language Model Know About Molecules?](https://arxiv.org/abs/2606.23443v1)** | 2026-06-22 |  |
 | **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v1)** | 2026-06-22 |  |
-| **[When Confidence Lacks Concepts: Interpretable OOD Detection via Representation Perturbations](https://arxiv.org/abs/2606.16196v2)** | 2026-06-21 |  |
-| **[Extraction and Analysis of Multimodal Concepts in Vision Language Models through Sparse Autoencoders](https://arxiv.org/abs/2606.21197v1)** | 2026-06-19 | <details><summary>Inter...</summary><p>International Conference on Artificial Neural Networks (ICANN), 2026, Padua</p></details> |
 
