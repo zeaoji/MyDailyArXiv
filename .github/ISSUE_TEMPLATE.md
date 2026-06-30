@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
+| **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v2)** | 2026-06-26 |  |
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v2)** | 2026-06-17 |  |
@@ -20,14 +22,13 @@ labels: documentation
 | **[Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing](https://arxiv.org/abs/2605.28649v1)** | 2026-05-27 |  |
 | **[Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2605.24906v3)** | 2026-05-27 | Accepted by ICML2026 |
 | **[X-Edit: Exact, Explicit, and Explainable Null-Space Editing for Medical Vision Transformers](https://arxiv.org/abs/2605.24932v1)** | 2026-05-24 | <details><summary>Early...</summary><p>Early accepted by MICCAI 2026</p></details> |
-| **[HoReN: Normalized Hopfield Retrieval for Large-Scale Sequential Model Editing](https://arxiv.org/abs/2605.08143v2)** | 2026-05-19 | 30 pages, 10 figures |
-| **[Modality-Decoupled Online Recursive Editing](https://arxiv.org/abs/2605.20273v1)** | 2026-05-19 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v4)** | 2026-06-28 |  |
+| **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v4)** | 2026-06-27 | Accepted to KDD 2026 |
 | **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v1)** | 2026-06-25 | 21 pages, 2 figures |
-| **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v3)** | 2026-06-25 |  |
 | **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v2)** | 2026-06-24 | <details><summary>Prepr...</summary><p>Preprint, 26 pages + 22 figures</p></details> |
 | **[Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs](https://arxiv.org/abs/2606.22627v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 | **[LOKI: Memory-Free Null-Space Constrained Lifelong Knowledge Editing](https://arxiv.org/abs/2606.19679v1)** | 2026-06-18 |  |
@@ -40,11 +41,18 @@ labels: documentation
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
 | **[HyperPatch: Sequential Knowledge Editing Under n-ary Structural Drift](https://arxiv.org/abs/2606.03179v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
-| **[Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610v1)** | 2026-06-01 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](https://arxiv.org/abs/2606.30609v1)** | 2026-06-29 | <details><summary>24 pa...</summary><p>24 pages, 6 figures. Accepted by ICML 2026</p></details> |
+| **[Same Concept, Different Directions: Cross-Modal Feature Heterogeneity in Sparse Autoencoders](https://arxiv.org/abs/2606.29888v1)** | 2026-06-29 |  |
+| **[Monosemanticity in Recommender Systems](https://arxiv.org/abs/2606.29341v1)** | 2026-06-28 |  |
+| **[Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies](https://arxiv.org/abs/2606.29171v1)** | 2026-06-28 |  |
+| **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](https://arxiv.org/abs/2507.23220v2)** | 2026-06-27 |  |
+| **[Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770v1)** | 2026-06-27 | <details><summary>Writt...</summary><p>Written in 2024; submitted to arXiv 2026</p></details> |
+| **[Sparse Autoencoders are Capable LLM Jailbreak Mitigators](https://arxiv.org/abs/2602.12418v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted at the Mechanistic Interpretability Workshop, ICML 2026. 31 pages, 20 figures, 7 tables</p></details> |
+| **[Turn-Averaged SAEs for Feature Discovery and Long-Context Attribution](https://arxiv.org/abs/2606.28548v1)** | 2026-06-26 |  |
 | **[VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring](https://arxiv.org/abs/2606.27941v1)** | 2026-06-26 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Accepted to the 2nd Workshop on Compositional Learning at ICML 2026</p></details> |
 | **[PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](https://arxiv.org/abs/2606.27440v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning in Structural Biology (MLSB) 2025 workshop</p></details> |
 | **[Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders](https://arxiv.org/abs/2606.27321v1)** | 2026-06-25 |  |
@@ -52,12 +60,4 @@ labels: documentation
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v2)** | 2026-06-25 | <details><summary>19 pa...</summary><p>19 pages including appendix</p></details> |
 | **[From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning](https://arxiv.org/abs/2606.26629v1)** | 2026-06-25 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 6 tables</p></details> |
 | **[Discovering Millions of Interpretable Features with Sparse Autoencoders](https://arxiv.org/abs/2606.26620v1)** | 2026-06-25 |  |
-| **[At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization](https://arxiv.org/abs/2606.26396v1)** | 2026-06-24 |  |
-| **[Steering Vision-Language Models with Joint Sparse Autoencoders](https://arxiv.org/abs/2606.25657v1)** | 2026-06-24 | 19pages,10 figures |
-| **[What's in an Earth Embedding? An Explainability Analysis of Location Encoders](https://arxiv.org/abs/2606.24997v1)** | 2026-06-23 |  |
-| **[Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://arxiv.org/abs/2606.24716v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Constrained Variable Projection for Structured Problems](https://arxiv.org/abs/2606.23939v1)** | 2026-06-22 |  |
-| **[Similarity of Neural Network Representations in Superposition](https://arxiv.org/abs/2604.00208v2)** | 2026-06-22 | 17 pages, 4 figures |
-| **[What Does a Chemical Language Model Know About Molecules?](https://arxiv.org/abs/2606.23443v1)** | 2026-06-22 |  |
-| **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v1)** | 2026-06-22 |  |
 
