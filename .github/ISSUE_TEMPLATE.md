@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers](https://arxiv.org/abs/2607.01000v1)** | 2026-07-01 |  |
 | **[When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing](https://arxiv.org/abs/2606.14668v4)** | 2026-06-28 |  |
 | **[Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation](https://arxiv.org/abs/2511.05852v4)** | 2026-06-27 | Accepted to KDD 2026 |
 | **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v1)** | 2026-06-25 | 21 pages, 2 figures |
@@ -40,11 +41,12 @@ labels: documentation
 | **[CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033v1)** | 2026-06-08 | 10 pages, 5 figures |
 | **[Knowledge Editing in Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v1)** | 2026-06-02 |  |
 | **[Evaluating the Reversal Curse in Model Editing](https://arxiv.org/abs/2310.10322v4)** | 2026-06-02 | Accepted by TMLR |
-| **[HyperPatch: Sequential Knowledge Editing Under n-ary Structural Drift](https://arxiv.org/abs/2606.03179v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted to Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Model Organism Lottery: Model Organism Interpretability Strongly Depends on Training Methodology](https://arxiv.org/abs/2607.01033v1)** | 2026-07-01 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, references and appendices</p></details> |
+| **[DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation](https://arxiv.org/abs/2607.00183v1)** | 2026-06-30 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, Accepted at ECCV 2026</p></details> |
 | **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v1)** | 2026-06-30 | <details><summary>31 pa...</summary><p>31 pages, 2 figures, 26 tables</p></details> |
 | **[Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models](https://arxiv.org/abs/2606.31699v1)** | 2026-06-30 |  |
 | **[Resolving superposition in AI for interpretability and cross-modal alignment in patient-neuronal images](https://arxiv.org/abs/2606.31394v1)** | 2026-06-30 | <details><summary>10 pa...</summary><p>10 pages, 7 figures (plus 14 in appendix), 1 table, NeurIPS 2026 preprint</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Mechanistic Personality Analysis of LLMs Steering Personality via Latent Feature Interventions](https://arxiv.org/abs/2606.28770v1)** | 2026-06-27 | <details><summary>Writt...</summary><p>Written in 2024; submitted to arXiv 2026</p></details> |
 | **[Sparse Autoencoders are Capable LLM Jailbreak Mitigators](https://arxiv.org/abs/2602.12418v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted at the Mechanistic Interpretability Workshop, ICML 2026. 31 pages, 20 figures, 7 tables</p></details> |
 | **[Turn-Averaged SAEs for Feature Discovery and Long-Context Attribution](https://arxiv.org/abs/2606.28548v1)** | 2026-06-26 |  |
-| **[VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring](https://arxiv.org/abs/2606.27941v1)** | 2026-06-26 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Accepted to the 2nd Workshop on Compositional Learning at ICML 2026</p></details> |
-| **[PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](https://arxiv.org/abs/2606.27440v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning in Structural Biology (MLSB) 2025 workshop</p></details> |
 
