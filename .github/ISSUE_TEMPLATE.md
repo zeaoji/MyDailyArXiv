@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
 | **[Base Models Know How to Reason, Thinking Models Learn When](https://arxiv.org/abs/2510.07364v4)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at the International Conference on Machine Learning 2026</p></details> |
 | **[Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://arxiv.org/abs/2508.16560v4)** | 2026-07-07 |  |
 | **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359v2)** | 2026-07-06 | Interspeech 2026 |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Monosemanticity in Recommender Systems](https://arxiv.org/abs/2606.29341v2)** | 2026-07-02 |  |
 | **[Resolving superposition in AI for interpretability and cross-modal alignment in patient-neuronal images](https://arxiv.org/abs/2606.31394v2)** | 2026-07-02 | <details><summary>10 pa...</summary><p>10 pages, 7 figures (plus 14 in appendix), 1 table, preprint</p></details> |
 | **[Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models](https://arxiv.org/abs/2606.31699v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders](https://arxiv.org/abs/2607.01336v1)** | 2026-07-01 | <details><summary>15 pa...</summary><p>15 pages, 7 figures. Comments welcome!</p></details> |
 
