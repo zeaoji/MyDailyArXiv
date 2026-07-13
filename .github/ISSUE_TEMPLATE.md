@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726v2)** | 2026-07-10 |  |
 | **[When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](https://arxiv.org/abs/2607.08605v1)** | 2026-07-09 |  |
 | **[Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders](https://arxiv.org/abs/2607.08499v1)** | 2026-07-09 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
 | **[Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning](https://arxiv.org/abs/2607.07316v1)** | 2026-07-08 | 20 pages |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Position: Use Sparse Autoencoders to Discover Unknowns](https://arxiv.org/abs/2506.23845v2)** | 2026-07-04 | ICML 2026 |
 | **[Brand-as-Memory: Vision-Language Models Encode Causal, Mechanistically Localizable Credibility Priors for News Sources](https://arxiv.org/abs/2607.03365v1)** | 2026-07-03 |  |
 | **[Expander Sparse Autoencoders: Parameter-Efficient Dictionaries for Mechanistic Interpretability](https://arxiv.org/abs/2607.01799v1)** | 2026-07-02 |  |
-| **[Monosemanticity in Recommender Systems](https://arxiv.org/abs/2606.29341v2)** | 2026-07-02 |  |
 
