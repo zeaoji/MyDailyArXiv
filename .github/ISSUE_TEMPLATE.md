@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
+| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v2)** | 2026-07-15 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 18 tables</p></details> |
 | **[Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders](https://arxiv.org/abs/2606.27321v2)** | 2026-07-14 |  |
 | **[From Geometric Recovery to Causal Validation: A Reproducible Audit of Sparse Autoencoder Features, from Superposition Geometry to Causal Inertness](https://arxiv.org/abs/2607.12166v1)** | 2026-07-13 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 6 tables. Code and reproduction pipeline: https://github.com/mohamed-bal/sae-causal-audit</p></details> |
 | **[Sparse Autoencoders for Interpretable Out-of-Distribution Detection](https://arxiv.org/abs/2607.12094v1)** | 2026-07-13 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Base Models Know How to Reason, Thinking Models Learn When](https://arxiv.org/abs/2510.07364v4)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at the International Conference on Machine Learning 2026</p></details> |
 | **[Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://arxiv.org/abs/2508.16560v4)** | 2026-07-07 |  |
 | **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359v2)** | 2026-07-06 | Interspeech 2026 |
-| **[A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models](https://arxiv.org/abs/2607.05615v1)** | 2026-07-06 |  |
-| **[TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models](https://arxiv.org/abs/2607.04593v1)** | 2026-07-06 |  |
 
