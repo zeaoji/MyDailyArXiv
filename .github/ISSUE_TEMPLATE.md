@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2026
+title: Latest 15 Papers - July 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778v1)** | 2026-07-22 |  |
+| **[Scaling Interpretable Transformers with Parity Bottleneck Layers](https://arxiv.org/abs/2607.20652v1)** | 2026-07-22 |  |
+| **[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](https://arxiv.org/abs/2512.10092v2)** | 2026-07-22 | <details><summary>ICML ...</summary><p>ICML 2026. Project page and code: https://interp-embed.com</p></details> |
+| **[Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects](https://arxiv.org/abs/2607.20596v1)** | 2026-07-22 |  |
 | **[Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models](https://arxiv.org/abs/2607.19618v1)** | 2026-07-21 |  |
 | **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v3)** | 2026-07-21 | <details><summary>CODE:...</summary><p>CODE: https://github.com/Ipazia-AI/hyperprobe</p></details> |
 | **[Decoder-Preserving Sparse Autoencoders: Which Readouts Survive Sparse Compression?](https://arxiv.org/abs/2607.17425v2)** | 2026-07-21 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v2)** | 2026-07-17 | <details><summary>7 pag...</summary><p>7 pages + references and appendix</p></details> |
 | **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
 | **[Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders](https://arxiv.org/abs/2606.27321v2)** | 2026-07-14 |  |
-| **[From Geometric Recovery to Causal Validation: A Reproducible Audit of Sparse Autoencoder Features, from Superposition Geometry to Causal Inertness](https://arxiv.org/abs/2607.12166v1)** | 2026-07-13 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 6 tables. Code and reproduction pipeline: https://github.com/mohamed-bal/sae-causal-audit</p></details> |
-| **[Sparse Autoencoders for Interpretable Out-of-Distribution Detection](https://arxiv.org/abs/2607.12094v1)** | 2026-07-13 |  |
-| **[Emergent Hierarchical Monosemantic Neurons from the Group-Contrastive Forward-Forward Algorithm](https://arxiv.org/abs/2607.16295v1)** | 2026-07-13 |  |
-| **[SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data](https://arxiv.org/abs/2602.14687v2)** | 2026-07-13 |  |
 
