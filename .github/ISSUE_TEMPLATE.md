@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v1)** | 2026-07-27 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
+| **[Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects](https://arxiv.org/abs/2607.24645v1)** | 2026-07-27 |  |
+| **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v1)** | 2026-07-26 | <details><summary>16 pa...</summary><p>16 pages, 10 Figures, Under Review</p></details> |
+| **[Steering grids for sparse-autoencoder features: when a top-context label names an activation regime rather than a causal axis](https://arxiv.org/abs/2605.03160v2)** | 2026-07-25 | 29 pages |
 | **[Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778v1)** | 2026-07-22 |  |
 | **[Scaling Interpretable Transformers with Parity Bottleneck Layers](https://arxiv.org/abs/2607.20652v1)** | 2026-07-22 |  |
 | **[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](https://arxiv.org/abs/2512.10092v2)** | 2026-07-22 | <details><summary>ICML ...</summary><p>ICML 2026. Project page and code: https://interp-embed.com</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Measuring Monosemanticity in Sparse Autoencoders via Latent Activation Coherence](https://arxiv.org/abs/2607.17770v1)** | 2026-07-20 | <details><summary>This ...</summary><p>This is a preprint version. A shorter version of this paper has been accepted for presentation and publication in the post-workshop proceedings of the 8th International Workshop on eXplainable Knowledge Discovery in Data Mining (XKDD 2026), co-located with ECML PKDD 2026. The appendix is included only in this preprint and is not part of the peer-reviewed proceedings paper</p></details> |
 | **[When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift](https://arxiv.org/abs/2602.14161v2)** | 2026-07-19 | <details><summary>v2: e...</summary><p>v2: extended version of the AIWILD @ ICLR 2026 workshop paper; adds multi-model replication and additional analyses</p></details> |
 | **[Persistent Sparse Autoencoders: Learning Feature Timescales in Language Models](https://arxiv.org/abs/2607.17117v1)** | 2026-07-19 |  |
-| **[Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation](https://arxiv.org/abs/2606.02528v3)** | 2026-07-18 | <details><summary>31 pa...</summary><p>31 pages, 6 figures, 18 tables</p></details> |
-| **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v2)** | 2026-07-17 | <details><summary>7 pag...</summary><p>7 pages + references and appendix</p></details> |
-| **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
-| **[Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders](https://arxiv.org/abs/2606.27321v2)** | 2026-07-14 |  |
 
