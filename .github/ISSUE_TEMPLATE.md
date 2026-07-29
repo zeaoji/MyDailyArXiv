@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,8 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main</p></details> |
+| **[CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models](https://arxiv.org/abs/2607.25244v1)** | 2026-07-28 | <details><summary>21 pa...</summary><p>21 pages, 5 main figures, 15 appendix figures, 6 tables</p></details> |
+| **[Interpretable GOHR Agents via Sparse Autoencoders](https://arxiv.org/abs/2607.25132v1)** | 2026-07-27 |  |
 | **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v1)** | 2026-07-27 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
 | **[Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects](https://arxiv.org/abs/2607.24645v1)** | 2026-07-27 |  |
+| **[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2602.10508v2)** | 2026-07-26 |  |
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v1)** | 2026-07-26 | <details><summary>16 pa...</summary><p>16 pages, 10 Figures, Under Review</p></details> |
 | **[Steering grids for sparse-autoencoder features: when a top-context label names an activation regime rather than a causal axis](https://arxiv.org/abs/2605.03160v2)** | 2026-07-25 | 29 pages |
 | **[Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778v1)** | 2026-07-22 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models](https://arxiv.org/abs/2607.19618v1)** | 2026-07-21 |  |
 | **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v3)** | 2026-07-21 | <details><summary>CODE:...</summary><p>CODE: https://github.com/Ipazia-AI/hyperprobe</p></details> |
 | **[Decoder-Preserving Sparse Autoencoders: Which Readouts Survive Sparse Compression?](https://arxiv.org/abs/2607.17425v2)** | 2026-07-21 |  |
-| **[Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](https://arxiv.org/abs/2506.07691v2)** | 2026-07-20 |  |
-| **[Measuring Monosemanticity in Sparse Autoencoders via Latent Activation Coherence](https://arxiv.org/abs/2607.17770v1)** | 2026-07-20 | <details><summary>This ...</summary><p>This is a preprint version. A shorter version of this paper has been accepted for presentation and publication in the post-workshop proceedings of the 8th International Workshop on eXplainable Knowledge Discovery in Data Mining (XKDD 2026), co-located with ECML PKDD 2026. The appendix is included only in this preprint and is not part of the peer-reviewed proceedings paper</p></details> |
-| **[When Benchmarks Lie: Evaluating Malicious Prompt Classifiers Under True Distribution Shift](https://arxiv.org/abs/2602.14161v2)** | 2026-07-19 | <details><summary>v2: e...</summary><p>v2: extended version of the AIWILD @ ICLR 2026 workshop paper; adds multi-model replication and additional analyses</p></details> |
-| **[Persistent Sparse Autoencoders: Learning Feature Timescales in Language Models](https://arxiv.org/abs/2607.17117v1)** | 2026-07-19 |  |
 
