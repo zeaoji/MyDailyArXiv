@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](https://arxiv.org/abs/2508.02092v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
+| **[ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455v1)** | 2026-07-29 | 9 pages, 4 figures |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v1)** | 2026-07-12 |  |
 | **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v2)** | 2026-07-07 | 21 pages, 2 figures |
 | **[Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing](https://arxiv.org/abs/2607.01978v1)** | 2026-07-02 |  |
@@ -39,16 +41,14 @@ labels: documentation
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v2)** | 2026-06-15 | Under review |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
 | **[Can Factual Opinions Be Edited (Manipulated) in Large Language Models?](https://arxiv.org/abs/2606.03096v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main Conference</p></details> |
-| **[Benchmarking Knowledge Editing using Logical Rules](https://arxiv.org/abs/2606.10554v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the 24th International Semantic Web Conference 2025</p></details> |
-| **[CRANE: Knowledge Editing for Reasoning MLLMs](https://arxiv.org/abs/2606.09033v1)** | 2026-06-08 | 10 pages, 5 figures |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpretable GOHR Agents via Sparse Autoencoders](https://arxiv.org/abs/2607.25132v2)** | 2026-07-29 |  |
+| **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v2)** | 2026-07-29 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
 | **[Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main</p></details> |
 | **[CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models](https://arxiv.org/abs/2607.25244v1)** | 2026-07-28 | <details><summary>21 pa...</summary><p>21 pages, 5 main figures, 15 appendix figures, 6 tables</p></details> |
-| **[Interpretable GOHR Agents via Sparse Autoencoders](https://arxiv.org/abs/2607.25132v1)** | 2026-07-27 |  |
-| **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v1)** | 2026-07-27 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
 | **[Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects](https://arxiv.org/abs/2607.24645v1)** | 2026-07-27 |  |
 | **[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2602.10508v2)** | 2026-07-26 |  |
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v1)** | 2026-07-26 | <details><summary>16 pa...</summary><p>16 pages, 10 Figures, Under Review</p></details> |
