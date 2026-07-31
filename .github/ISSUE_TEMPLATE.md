@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2026
+title: Latest 15 Papers - August 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explaining Image Similarity with Automatically Extracted Concept Activation Vectors](https://arxiv.org/abs/2607.28386v1)** | 2026-07-30 |  |
+| **[ECG-InterpBench: Benchmarking the Interpretability of ECG Foundation Models with Matched-Scale Sparse Autoencoders](https://arxiv.org/abs/2607.27404v1)** | 2026-07-29 | <details><summary>Resea...</summary><p>Research paper. Includes supplementary material and publicly available source code</p></details> |
 | **[Interpretable GOHR Agents via Sparse Autoencoders](https://arxiv.org/abs/2607.25132v2)** | 2026-07-29 |  |
 | **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v2)** | 2026-07-29 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
 | **[Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](https://arxiv.org/abs/2512.10092v2)** | 2026-07-22 | <details><summary>ICML ...</summary><p>ICML 2026. Project page and code: https://interp-embed.com</p></details> |
 | **[Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects](https://arxiv.org/abs/2607.20596v1)** | 2026-07-22 |  |
 | **[Causal dictionary learning reveals and validates transcription-factor binding features in genomic language models](https://arxiv.org/abs/2607.19618v1)** | 2026-07-21 |  |
-| **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v3)** | 2026-07-21 | <details><summary>CODE:...</summary><p>CODE: https://github.com/Ipazia-AI/hyperprobe</p></details> |
-| **[Decoder-Preserving Sparse Autoencoders: Which Readouts Survive Sparse Compression?](https://arxiv.org/abs/2607.17425v2)** | 2026-07-21 |  |
 
