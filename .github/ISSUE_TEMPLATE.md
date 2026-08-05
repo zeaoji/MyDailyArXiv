@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v2)** | 2026-08-04 |  |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](https://arxiv.org/abs/2508.02092v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
 | **[ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455v1)** | 2026-07-29 | 9 pages, 4 figures |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v1)** | 2026-07-12 |  |
@@ -40,13 +41,13 @@ labels: documentation
 | **[MixSD: Mixed Contextual Self-Distillation for Knowledge Injection](https://arxiv.org/abs/2605.16865v3)** | 2026-06-17 |  |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v2)** | 2026-06-15 | Under review |
 | **[TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.12841v1)** | 2026-06-11 |  |
-| **[Can Factual Opinions Be Edited (Manipulated) in Large Language Models?](https://arxiv.org/abs/2606.03096v2)** | 2026-06-11 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main Conference</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels](https://arxiv.org/abs/2608.03507v1)** | 2026-08-04 |  |
+| **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v3)** | 2026-08-04 |  |
 | **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
-| **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v2)** | 2026-08-02 |  |
 | **[Explaining Image Similarity with Automatically Extracted Concept Activation Vectors](https://arxiv.org/abs/2607.28386v1)** | 2026-07-30 |  |
 | **[ECG-InterpBench: Benchmarking the Interpretability of ECG Foundation Models with Matched-Scale Sparse Autoencoders](https://arxiv.org/abs/2607.27404v1)** | 2026-07-29 | <details><summary>Resea...</summary><p>Research paper. Includes supplementary material and publicly available source code</p></details> |
 | **[Interpretable GOHR Agents via Sparse Autoencoders](https://arxiv.org/abs/2607.25132v2)** | 2026-07-29 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Steering grids for sparse-autoencoder features: when a top-context label names an activation regime rather than a causal axis](https://arxiv.org/abs/2605.03160v2)** | 2026-07-25 | 29 pages |
 | **[Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778v1)** | 2026-07-22 |  |
 | **[Scaling Interpretable Transformers with Parity Bottleneck Layers](https://arxiv.org/abs/2607.20652v1)** | 2026-07-22 |  |
-| **[Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit](https://arxiv.org/abs/2512.10092v2)** | 2026-07-22 | <details><summary>ICML ...</summary><p>ICML 2026. Project page and code: https://interp-embed.com</p></details> |
 
