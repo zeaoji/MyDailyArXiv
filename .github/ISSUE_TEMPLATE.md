@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
+| **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
 | **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
 | **[Don't Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 | **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Towards Knowledge Alignment in Code LLMs: Contrastive Unlearning for Evolving APIs](https://arxiv.org/abs/2606.30810v1)** | 2026-06-29 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted to the 42nd International Conference on Software Maintenance and Evolution (ICSME 2026)</p></details> |
 | **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
 | **[Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://arxiv.org/abs/2603.12598v2)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](https://arxiv.org/abs/2606.05950v2)** | 2026-06-26 |  |
-| **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v2)** | 2026-06-19 | <details><summary>Paper...</summary><p>Paper was accepted by Interspeech 2026</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](https://arxiv.org/abs/2608.06300v1)** | 2026-08-06 |  |
+| **[ConceptADapt: Concept-guided Adaptive Feature Reconstruction with Dynamic Attention for Few-Shot Industrial Anomaly Detection](https://arxiv.org/abs/2608.05743v1)** | 2026-08-06 | 11 pages, 7 figures |
+| **[CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](https://arxiv.org/abs/2608.05732v1)** | 2026-08-06 |  |
+| **[Strengthening Target-Language Features: SAE-Based Steering for Multilingual Inference](https://arxiv.org/abs/2608.04904v2)** | 2026-08-06 | <details><summary>Corre...</summary><p>Corrected an author name. No changes to the paper content</p></details> |
+| **[Interpreting GFlowNets for Drug Discovery: What probes can and cannot show](https://arxiv.org/abs/2511.19264v2)** | 2026-08-05 | <details><summary>25 pa...</summary><p>25 pages, 17 figures in V2. v1 was Accepted for presentation at NeurIPS 2025 WiML Workshop and Molecular Machine Learning Conference (MoML) 2025</p></details> |
 | **[ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels](https://arxiv.org/abs/2608.03507v1)** | 2026-08-04 |  |
 | **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v3)** | 2026-08-04 |  |
 | **[LangFIR: Discovering Sparse Language-Specific Features from Monolingual Data for Language Steering](https://arxiv.org/abs/2604.03532v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Controllable LLM Reasoning via Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2601.03595v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to the ACL 2026 Main</p></details> |
 | **[CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models](https://arxiv.org/abs/2607.25244v1)** | 2026-07-28 | <details><summary>21 pa...</summary><p>21 pages, 5 main figures, 15 appendix figures, 6 tables</p></details> |
 | **[Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects](https://arxiv.org/abs/2607.24645v1)** | 2026-07-27 |  |
-| **[Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2602.10508v2)** | 2026-07-26 |  |
-| **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v1)** | 2026-07-26 | <details><summary>16 pa...</summary><p>16 pages, 10 Figures, Under Review</p></details> |
-| **[Steering grids for sparse-autoencoder features: when a top-context label names an activation regime rather than a causal axis](https://arxiv.org/abs/2605.03160v2)** | 2026-07-25 | 29 pages |
-| **[Toward Mechanistic Interpretability of an AI Foundation Model Fine-Tuned for Atmospheric Chemistry](https://arxiv.org/abs/2607.20778v1)** | 2026-07-22 |  |
-| **[Scaling Interpretable Transformers with Parity Bottleneck Layers](https://arxiv.org/abs/2607.20652v1)** | 2026-07-22 |  |
 
