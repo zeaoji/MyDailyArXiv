@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?](https://arxiv.org/abs/2608.10408v1)** | 2026-08-11 |  |
 | **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
 | **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
 | **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v2)** | 2026-07-14 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
 | **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
 | **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
-| **[Mitigating Package Hallucinations in Large Language Models via Model Editing](https://arxiv.org/abs/2607.02052v1)** | 2026-07-02 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,14 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](https://arxiv.org/abs/2608.11197v1)** | 2026-08-11 |  |
+| **[Forecasting With LLMs: Improved Generalization Through Feature Steering](https://arxiv.org/abs/2606.27199v2)** | 2026-08-11 |  |
+| **[Data Attribution of Emergent Misalignment with Persona Features](https://arxiv.org/abs/2608.11025v1)** | 2026-08-11 |  |
+| **[PEAK: Precise and Persistent Concept Erasure via k-Sparse Autoencoders](https://arxiv.org/abs/2608.10985v1)** | 2026-08-11 |  |
+| **[SAE-StatSteer: Statistical Consensus Feature Selection for Optimization-Free Activation Steering of Large Language Models](https://arxiv.org/abs/2607.19364v2)** | 2026-08-11 | <details><summary>Under...</summary><p>Under review, 26 pages, 5 figures, 16 tables</p></details> |
+| **[Measuring Semantic Abstractness of SAE Features via Nonlocality](https://arxiv.org/abs/2608.10537v1)** | 2026-08-11 | 18 pages, 9 figures |
+| **[Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents](https://arxiv.org/abs/2608.10198v1)** | 2026-08-10 | 9 pages, no figures |
+| **[Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability](https://arxiv.org/abs/2608.10172v1)** | 2026-08-10 |  |
 | **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
 | **[One Adapter Pair per Model: A Universal Activation Interface for Language Models](https://arxiv.org/abs/2608.09521v1)** | 2026-08-10 |  |
 | **[Steering dense music retrieval with open-vocabulary concept discovery](https://arxiv.org/abs/2608.08757v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to ISMIR 2026</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](https://arxiv.org/abs/2608.07852v1)** | 2026-08-08 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 4 figures, 2 listings</p></details> |
 | **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v2)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Camera-ready version, ACM Multimedia 2026 (MM '26)</p></details> |
 | **[Finding Usable Weight Mechanisms with Tiled SVD](https://arxiv.org/abs/2608.06969v1)** | 2026-08-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Finding usable weight mechanisms via column-tiled SVD; pre-registered A/B/C eval on Gemma-2-2B (WikiText-2)</p></details> |
-| **[Equivariant Sparse Autoencoders: Mechanistic Interpretability of Neural Networks on Symmetric Data](https://arxiv.org/abs/2511.09432v2)** | 2026-08-07 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Mechanistic Interpretability and UniReps workshops</p></details> |
-| **[Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](https://arxiv.org/abs/2608.06300v1)** | 2026-08-06 |  |
-| **[ConceptADapt: Concept-guided Adaptive Feature Reconstruction with Dynamic Attention for Few-Shot Industrial Anomaly Detection](https://arxiv.org/abs/2608.05743v1)** | 2026-08-06 | 11 pages, 7 figures |
-| **[CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits](https://arxiv.org/abs/2608.05732v1)** | 2026-08-06 |  |
-| **[Strengthening Target-Language Features: SAE-Based Steering for Multilingual Inference](https://arxiv.org/abs/2608.04904v2)** | 2026-08-06 | <details><summary>Corre...</summary><p>Corrected an author name. No changes to the paper content</p></details> |
-| **[Interpreting GFlowNets for Drug Discovery: What probes can and cannot show](https://arxiv.org/abs/2511.19264v2)** | 2026-08-05 | <details><summary>25 pa...</summary><p>25 pages, 17 figures in V2. v1 was Accepted for presentation at NeurIPS 2025 WiML Workshop and Molecular Machine Learning Conference (MoML) 2025</p></details> |
-| **[ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels](https://arxiv.org/abs/2608.03507v1)** | 2026-08-04 |  |
-| **[Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations](https://arxiv.org/abs/2605.28149v3)** | 2026-08-04 |  |
 
