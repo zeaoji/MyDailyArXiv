@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](https://arxiv.org/abs/2608.13538v1)** | 2026-08-13 |  |
+| **[Where You Measure Decides What You Measure: Position Selection in Ablation-Based SAE Evaluation](https://arxiv.org/abs/2608.13337v1)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. Code and data: https://github.com/vcnoel/sae-artifact</p></details> |
+| **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
+| **[Falsehood and Impossibility Are Different Directions in an AI's Representation of Language](https://arxiv.org/abs/2608.12852v1)** | 2026-08-13 |  |
+| **[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](https://arxiv.org/abs/2608.12573v1)** | 2026-08-12 |  |
 | **[Probing and steering biology across Boltz-1s trunk-diffusion boundary](https://arxiv.org/abs/2608.11475v1)** | 2026-08-11 |  |
 | **[Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](https://arxiv.org/abs/2608.11197v1)** | 2026-08-11 |  |
 | **[Forecasting With LLMs: Improved Generalization Through Feature Steering](https://arxiv.org/abs/2606.27199v2)** | 2026-08-11 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents](https://arxiv.org/abs/2608.10198v1)** | 2026-08-10 | 9 pages, no figures |
 | **[Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability](https://arxiv.org/abs/2608.10172v1)** | 2026-08-10 |  |
 | **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
-| **[One Adapter Pair per Model: A Universal Activation Interface for Language Models](https://arxiv.org/abs/2608.09521v1)** | 2026-08-10 |  |
-| **[Steering dense music retrieval with open-vocabulary concept discovery](https://arxiv.org/abs/2608.08757v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted to ISMIR 2026</p></details> |
-| **[Thinking vs. NoThinking: Towards Interpreting Reasoning Mechanisms of Large Language Models via Sparse Autoencoders](https://arxiv.org/abs/2608.08168v1)** | 2026-08-08 |  |
-| **["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](https://arxiv.org/abs/2608.07852v1)** | 2026-08-08 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 4 figures, 2 listings</p></details> |
-| **[Interpreting Video Representations with Spatio-Temporal Sparse Autoencoders](https://arxiv.org/abs/2604.03919v2)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Camera-ready version, ACM Multimedia 2026 (MM '26)</p></details> |
 
