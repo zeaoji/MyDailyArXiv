@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
 | **[VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?](https://arxiv.org/abs/2608.10408v1)** | 2026-08-11 |  |
 | **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
 | **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](https://arxiv.org/abs/2512.04144v3)** | 2026-07-14 |  |
 | **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v2)** | 2026-07-14 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
 | **[Persona Cartography: Charting Language Model Personality Traits in Weight Space](https://arxiv.org/abs/2607.07916v1)** | 2026-07-08 | 85 pages, 80 figures |
-| **[Evaluating and Understanding Model Editing for Medical Vision Language Models](https://arxiv.org/abs/2607.05310v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Code and benchmark are available at https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](https://arxiv.org/abs/2608.07852v2)** | 2026-08-14 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 4 figures, 2 listings</p></details> |
 | **[SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](https://arxiv.org/abs/2608.13538v1)** | 2026-08-13 |  |
 | **[Where You Measure Decides What You Measure: Position Selection in Ablation-Based SAE Evaluation](https://arxiv.org/abs/2608.13337v1)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. Code and data: https://github.com/vcnoel/sae-artifact</p></details> |
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Measuring Semantic Abstractness of SAE Features via Nonlocality](https://arxiv.org/abs/2608.10537v1)** | 2026-08-11 | 18 pages, 9 figures |
 | **[Post-Hoc Sparse Coding of Latent Communication Between Vision-Language Model Agents](https://arxiv.org/abs/2608.10198v1)** | 2026-08-10 | 9 pages, no figures |
 | **[Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability](https://arxiv.org/abs/2608.10172v1)** | 2026-08-10 |  |
-| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
 
