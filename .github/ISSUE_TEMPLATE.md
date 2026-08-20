@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication](https://arxiv.org/abs/2608.19161v1)** | 2026-08-19 |  |
 | **[SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](https://arxiv.org/abs/2608.13538v2)** | 2026-08-18 |  |
 | **[Falsehood and Impossibility Are Different Directions in an AI's Representation of Language](https://arxiv.org/abs/2608.12852v2)** | 2026-08-18 |  |
 | **[Concept-based explanation of gene expression prediction from H&E images](https://arxiv.org/abs/2608.16669v1)** | 2026-08-17 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](https://arxiv.org/abs/2608.11197v1)** | 2026-08-11 |  |
 | **[Forecasting With LLMs: Improved Generalization Through Feature Steering](https://arxiv.org/abs/2606.27199v2)** | 2026-08-11 |  |
 | **[Data Attribution of Emergent Misalignment with Persona Features](https://arxiv.org/abs/2608.11025v1)** | 2026-08-11 |  |
-| **[PEAK: Precise and Persistent Concept Erasure via k-Sparse Autoencoders](https://arxiv.org/abs/2608.10985v1)** | 2026-08-11 |  |
 
