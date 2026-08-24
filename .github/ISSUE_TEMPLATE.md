@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nothing Changed but the Model: CellFill -- Bounded In-Cell Learning for Bit-Identical, Revocable Updates to Quantized LLMs](https://arxiv.org/abs/2608.20873v1)** | 2026-08-21 | <details><summary>35 pa...</summary><p>35 pages, 3 figures, 9 tables</p></details> |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
 | **[Don't Use a Cannon to Kill a Fly: Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations](https://arxiv.org/abs/2511.21022v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 | **[Defense Against LLM Backdoors using Critical Neuron Isolation Pruning](https://arxiv.org/abs/2607.19894v1)** | 2026-07-22 |  |
-| **[More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing](https://arxiv.org/abs/2605.11836v2)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation](https://arxiv.org/abs/2608.20569v1)** | 2026-08-20 | <details><summary>We re...</summary><p>We release OWMI as a library so that this emerging ability can be measured as it develops. Hugging Face OWMI library: https://huggingface.co/emilioferrara/owmi</p></details> |
 | **[Feature Evolution and Migration during Vision Transformer Training](https://arxiv.org/abs/2608.20134v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted to CIKM 2026</p></details> |
 | **[SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events](https://arxiv.org/abs/2608.20117v1)** | 2026-08-20 | <details><summary>22 pa...</summary><p>22 pages, 16 Figures, Under Review. A non-archival 2-page version was accepted as an oral presentation at Climate Informatics 2026 (Extended Abstract ID 66, https://github.com/freddy0218/ClimateInformatics2026/tree/main), and a non-archival 4-page version was accepted as an oral presentation at the AICC Workshop at ECCV 2026</p></details> |
 | **[Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication](https://arxiv.org/abs/2608.19161v1)** | 2026-08-19 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
 | **[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](https://arxiv.org/abs/2608.12573v1)** | 2026-08-12 |  |
 | **[Probing and steering biology across Boltz-1s trunk-diffusion boundary](https://arxiv.org/abs/2608.11475v1)** | 2026-08-11 |  |
-| **[Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders](https://arxiv.org/abs/2608.11197v1)** | 2026-08-11 |  |
 
