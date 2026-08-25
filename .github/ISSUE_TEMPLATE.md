@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Nothing Changed but the Model: CellFill -- Bounded In-Cell Learning for Bit-Identical, Revocable Updates to Quantized LLMs](https://arxiv.org/abs/2608.20873v1)** | 2026-08-21 | <details><summary>35 pa...</summary><p>35 pages, 3 figures, 9 tables</p></details> |
+| **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v5)** | 2026-08-23 | ICML 2026 |
 | **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders](https://arxiv.org/abs/2507.23220v3)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted for publication in Transactions of the Association for Computational Linguistics (TACL). 26 pages, 10 figures</p></details> |
+| **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
 | **[Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation](https://arxiv.org/abs/2608.20569v1)** | 2026-08-20 | <details><summary>We re...</summary><p>We release OWMI as a library so that this emerging ability can be measured as it develops. Hugging Face OWMI library: https://huggingface.co/emilioferrara/owmi</p></details> |
 | **[Feature Evolution and Migration during Vision Transformer Training](https://arxiv.org/abs/2608.20134v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted to CIKM 2026</p></details> |
 | **[SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events](https://arxiv.org/abs/2608.20117v1)** | 2026-08-20 | <details><summary>22 pa...</summary><p>22 pages, 16 Figures, Under Review. A non-archival 2-page version was accepted as an oral presentation at Climate Informatics 2026 (Extended Abstract ID 66, https://github.com/freddy0218/ClimateInformatics2026/tree/main), and a non-archival 4-page version was accepted as an oral presentation at the AICC Workshop at ECCV 2026</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](https://arxiv.org/abs/2608.07852v2)** | 2026-08-14 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 4 figures, 2 listings</p></details> |
 | **[Where You Measure Decides What You Measure: Position Selection in Ablation-Based SAE Evaluation](https://arxiv.org/abs/2608.13337v1)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 3 figures. Code and data: https://github.com/vcnoel/sae-artifact</p></details> |
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
-| **[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](https://arxiv.org/abs/2608.12573v1)** | 2026-08-12 |  |
-| **[Probing and steering biology across Boltz-1s trunk-diffusion boundary](https://arxiv.org/abs/2608.11475v1)** | 2026-08-11 |  |
 
