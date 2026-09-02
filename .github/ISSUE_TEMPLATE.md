@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
+| **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v3)** | 2026-08-31 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
 | **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v5)** | 2026-08-23 | ICML 2026 |
@@ -20,12 +22,11 @@ labels: documentation
 | **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
 | **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
 | **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
-| **[Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies](https://arxiv.org/abs/2608.04692v1)** | 2026-08-05 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 40 tables. Preprint</p></details> |
-| **[Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis](https://arxiv.org/abs/2608.01973v1)** | 2026-08-03 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v1)** | 2026-08-31 | preprint, 12 pages |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v1)** | 2026-07-12 |  |
 | **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v2)** | 2026-07-07 | 21 pages, 2 figures |
 | **[Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing](https://arxiv.org/abs/2607.01978v1)** | 2026-07-02 |  |
-| **[KnowledgeDebugger -- an Exploration Tool for Knowledge Localization and Editing in Transformers](https://arxiv.org/abs/2607.01000v1)** | 2026-07-01 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis](https://arxiv.org/abs/2609.01537v1)** | 2026-09-01 |  |
+| **[Exploring Sparse Autoencoders in Text-Based Causal Confounding Adjustment](https://arxiv.org/abs/2609.01322v1)** | 2026-09-01 | <details><summary>Long ...</summary><p>Long paper accepted at EMNLP 2026 main conference, 25 pages, 16 figures</p></details> |
 | **[Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders](https://arxiv.org/abs/2505.22255v4)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
 | **[MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines](https://arxiv.org/abs/2608.30662v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2026 System Demonstrations Track. 11 pages, 6 figures, 2 tables</p></details> |
 | **[Enhancing Low-Resource Language Reasoning via High-Resource Language Feature Transfer](https://arxiv.org/abs/2608.30462v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[REINS: Refusal-Enhanced Inhibitory Steering with Sparse Autoencoder Features](https://arxiv.org/abs/2608.28233v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
 | **[EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders](https://arxiv.org/abs/2608.28191v1)** | 2026-08-28 |  |
 | **[Efficient Auto-Interpretability of AI Models in Biology](https://arxiv.org/abs/2608.27754v1)** | 2026-08-27 |  |
-| **[Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction](https://arxiv.org/abs/2608.27397v1)** | 2026-08-27 |  |
-| **[A Deeper Analysis of Block-Sparse Featurizers](https://arxiv.org/abs/2608.27515v1)** | 2026-08-27 | <details><summary>9 pag...</summary><p>9 pages, 12 figures, 2 tables</p></details> |
 
