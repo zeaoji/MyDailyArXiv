@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v3)** | 2026-08-31 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
@@ -21,11 +22,14 @@ labels: documentation
 | **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
 | **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
 | **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
-| **[A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance](https://arxiv.org/abs/2608.06246v1)** | 2026-08-06 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
+| **[Selective Knowledge Edit Reversal via Gated Singular Vector Shrinkage](https://arxiv.org/abs/2609.02091v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
+| **[GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping](https://arxiv.org/abs/2603.12275v2)** | 2026-09-01 |  |
+| **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026; Code available at: https://github.com/yagao403/KnowledgeEdit-EMNLP2026</p></details> |
 | **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v1)** | 2026-08-31 | preprint, 12 pages |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
@@ -37,14 +41,12 @@ labels: documentation
 | **[DOW-KE: Anchor-Free Multi-Layer Knowledge Editing via Direct End-to-End Weight Optimization](https://arxiv.org/abs/2608.16932v1)** | 2026-08-05 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v2)** | 2026-08-04 |  |
 | **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](https://arxiv.org/abs/2508.02092v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
-| **[ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455v1)** | 2026-07-29 | 9 pages, 4 figures |
-| **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v1)** | 2026-07-12 |  |
-| **[Reproducibility Study of "AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models"](https://arxiv.org/abs/2606.26783v2)** | 2026-07-07 | 21 pages, 2 figures |
-| **[Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing](https://arxiv.org/abs/2607.01978v1)** | 2026-07-02 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations](https://arxiv.org/abs/2607.17117v2)** | 2026-09-02 |  |
+| **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v2)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at EMNLP 2026</p></details> |
 | **[Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis](https://arxiv.org/abs/2609.01537v1)** | 2026-09-01 |  |
 | **[Exploring Sparse Autoencoders in Text-Based Causal Confounding Adjustment](https://arxiv.org/abs/2609.01322v1)** | 2026-09-01 | <details><summary>Long ...</summary><p>Long paper accepted at EMNLP 2026 main conference, 25 pages, 16 figures</p></details> |
 | **[Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders](https://arxiv.org/abs/2505.22255v4)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[A Unifying Perspective on Language Model Representations: From Filler-Role Structure to Mechanistic Interpretability](https://arxiv.org/abs/2608.29034v1)** | 2026-08-29 | 32 pages, 6 figures |
 | **[Enhancing SAE-based Steering via Neighbor Integrated Feature Selection](https://arxiv.org/abs/2608.28806v1)** | 2026-08-28 | 15 pages |
 | **[REINS: Refusal-Enhanced Inhibitory Steering with Sparse Autoencoder Features](https://arxiv.org/abs/2608.28233v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
-| **[EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders](https://arxiv.org/abs/2608.28191v1)** | 2026-08-28 |  |
-| **[Efficient Auto-Interpretability of AI Models in Biology](https://arxiv.org/abs/2608.27754v1)** | 2026-08-27 |  |
 
