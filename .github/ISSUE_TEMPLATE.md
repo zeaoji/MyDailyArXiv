@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
 | **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?](https://arxiv.org/abs/2608.10408v1)** | 2026-08-11 |  |
 | **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
 | **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
-| **[Understanding and Improving Model Editing for Secure Code Generation](https://arxiv.org/abs/2608.06848v1)** | 2026-08-07 | ISSTA 2026 |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v1)** | 2026-09-03 |  |
+| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v2)** | 2026-09-02 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 20 tables, Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026</p></details> |
 | **[Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations](https://arxiv.org/abs/2607.17117v2)** | 2026-09-02 |  |
 | **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v2)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at EMNLP 2026</p></details> |
 | **[Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis](https://arxiv.org/abs/2609.01537v1)** | 2026-09-01 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects](https://arxiv.org/abs/2607.20596v2)** | 2026-08-29 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 27 tables</p></details> |
 | **[Concepts Whisper: Spectral Anti-Concentration and the Dual Geometry of Transformer Representations](https://arxiv.org/abs/2605.01609v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP(Main Conference), Camera Ready Version</p></details> |
 | **[A Unifying Perspective on Language Model Representations: From Filler-Role Structure to Mechanistic Interpretability](https://arxiv.org/abs/2608.29034v1)** | 2026-08-29 | 32 pages, 6 figures |
-| **[Enhancing SAE-based Steering via Neighbor Integrated Feature Selection](https://arxiv.org/abs/2608.28806v1)** | 2026-08-28 | 15 pages |
-| **[REINS: Refusal-Enhanced Inhibitory Steering with Sparse Autoencoder Features](https://arxiv.org/abs/2608.28233v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
 
