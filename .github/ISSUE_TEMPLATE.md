@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2026
+title: Latest 15 Papers - September 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,11 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 | **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
 | **[Selective Knowledge Edit Reversal via Gated Singular Vector Shrinkage](https://arxiv.org/abs/2609.02091v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
 | **[GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping](https://arxiv.org/abs/2603.12275v2)** | 2026-09-01 |  |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026; Code available at: https://github.com/yagao403/KnowledgeEdit-EMNLP2026</p></details> |
-| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v1)** | 2026-08-31 | preprint, 12 pages |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
@@ -45,7 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recurrence Is Not Enough: Causally Validating Multilingual SAE Translation Features in Gemma 2 and 3](https://arxiv.org/abs/2609.04808v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to BlackboxNLP 2026 Special Track</p></details> |
+| **[SharedSAE: One Feature Dictionary Across Language Models](https://arxiv.org/abs/2609.04344v1)** | 2026-09-03 |  |
 | **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v1)** | 2026-09-03 |  |
+| **[FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders](https://arxiv.org/abs/2609.04276v1)** | 2026-09-02 |  |
 | **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v2)** | 2026-09-02 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 20 tables, Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026</p></details> |
 | **[Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations](https://arxiv.org/abs/2607.17117v2)** | 2026-09-02 |  |
 | **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v2)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at EMNLP 2026</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders](https://arxiv.org/abs/2608.30403v1)** | 2026-08-31 |  |
 | **[Triggering Chain-of-Thought via Latent Feature Interventions in Large Language Models](https://arxiv.org/abs/2601.08058v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted at EMNLP' 2026 Main Conference</p></details> |
 | **[When Safety Speaks a Language: A Mechanistic Analysis of Safety-Language Identity Entanglement in LLMs](https://arxiv.org/abs/2608.29936v1)** | 2026-08-30 |  |
-| **[Are Single-Token Sparse Autoencoder Features Causally Necessary? Layer-Depth and SAE-Family Effects](https://arxiv.org/abs/2607.20596v2)** | 2026-08-29 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, 27 tables</p></details> |
-| **[Concepts Whisper: Spectral Anti-Concentration and the Dual Geometry of Transformer Representations](https://arxiv.org/abs/2605.01609v2)** | 2026-08-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP(Main Conference), Camera Ready Version</p></details> |
-| **[A Unifying Perspective on Language Model Representations: From Filler-Role Structure to Mechanistic Interpretability](https://arxiv.org/abs/2608.29034v1)** | 2026-08-29 | 32 pages, 6 figures |
 
