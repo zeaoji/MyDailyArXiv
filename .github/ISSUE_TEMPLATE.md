@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
+| **[Inverse Digital Marbling: Recovering Gesture Programs with a Replay Adjoint](https://arxiv.org/abs/2609.08722v1)** | 2026-09-08 |  |
+| **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
 | **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 | **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
 | **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
-| **[VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?](https://arxiv.org/abs/2608.10408v1)** | 2026-08-11 |  |
-| **[Beyond Global Editing: Per-Instance Disentangled Subspaces for Training-Free Hallucination Mitigation in LVLMs](https://arxiv.org/abs/2608.09344v1)** | 2026-08-10 | BMVC 2026 |
-| **[CADEngBench: It Looks Like CAD, but Does It Work? Evaluating Parametric Design, Assembly Reasoning, and Physics Simulation](https://arxiv.org/abs/2608.09296v1)** | 2026-08-10 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v1)** | 2026-09-08 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
+| **[Medical AI Encodes a "Feeling of Error": Verifying Cancer Segmentation via Internal Concepts](https://arxiv.org/abs/2609.08879v1)** | 2026-09-08 | In ECCV 2026 |
+| **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v2)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Tracing Stereotypes from Representation to Output in Multilingual LLMs](https://arxiv.org/abs/2609.08322v1)** | 2026-09-08 | <details><summary>18 pa...</summary><p>18 pages total (9 pages main text), 13 figures. Accepted to EMNLP 2026</p></details> |
+| **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
+| **[LLM Layers Immediately Correct Each Other](https://arxiv.org/abs/2609.07876v1)** | 2026-09-07 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
+| **[LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders](https://arxiv.org/abs/2609.07746v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2026</p></details> |
+| **[Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders](https://arxiv.org/abs/2505.22255v5)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
+| **[PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](https://arxiv.org/abs/2609.07061v1)** | 2026-09-07 |  |
+| **[Disentangling Steering Vectors](https://arxiv.org/abs/2609.07037v1)** | 2026-09-07 | 31 pages, 5 figures |
+| **[SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192v2)** | 2026-09-07 | COLM 2025 |
+| **[Tracing Query Expansion Effects through Sparse Autoencoder Features](https://arxiv.org/abs/2609.06968v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461v2)** | 2026-09-06 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Near-Floor Geometry Is Generic: Leverage Dispersion in Trained Overcomplete Codes](https://arxiv.org/abs/2605.01192v2)** | 2026-09-05 | <details><summary>v2: 5...</summary><p>v2: 53 pages, 7 figures. Substantial revision and extension; title changed. Three formal statements in v1 were too strong and are corrected here (two need h_i <= 1/2; one is wrong at kappa_i = 1), and two empirical readings are withdrawn. See "Changes from version 1" in the manuscript. Code: github.com/hecboar/linear-readout-threshold-recovery</p></details> |
 | **[Recurrence Is Not Enough: Causally Validating Multilingual SAE Translation Features in Gemma 2 and 3](https://arxiv.org/abs/2609.04808v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to BlackboxNLP 2026 Special Track</p></details> |
-| **[SharedSAE: One Feature Dictionary Across Language Models](https://arxiv.org/abs/2609.04344v1)** | 2026-09-03 |  |
-| **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v1)** | 2026-09-03 |  |
-| **[FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders](https://arxiv.org/abs/2609.04276v1)** | 2026-09-02 |  |
-| **[TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](https://arxiv.org/abs/2606.07451v2)** | 2026-09-02 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 20 tables, Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026</p></details> |
-| **[Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations](https://arxiv.org/abs/2607.17117v2)** | 2026-09-02 |  |
-| **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v2)** | 2026-09-01 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at EMNLP 2026</p></details> |
-| **[Quantum Sparse Autoencoders for Q-Matrix Estimation in Cognitive Diagnosis](https://arxiv.org/abs/2609.01537v1)** | 2026-09-01 |  |
-| **[Exploring Sparse Autoencoders in Text-Based Causal Confounding Adjustment](https://arxiv.org/abs/2609.01322v1)** | 2026-09-01 | <details><summary>Long ...</summary><p>Long paper accepted at EMNLP 2026 main conference, 25 pages, 16 figures</p></details> |
-| **[Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders](https://arxiv.org/abs/2505.22255v4)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
-| **[MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable Pipelines](https://arxiv.org/abs/2608.30662v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2026 System Demonstrations Track. 11 pages, 6 figures, 2 tables</p></details> |
-| **[Enhancing Low-Resource Language Reasoning via High-Resource Language Feature Transfer](https://arxiv.org/abs/2608.30462v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
-| **[Why Are LLM Backdoor Defenses Fragmented? A Feature-Level Explanation with Sparse Autoencoders](https://arxiv.org/abs/2608.30403v1)** | 2026-08-31 |  |
-| **[Triggering Chain-of-Thought via Latent Feature Interventions in Large Language Models](https://arxiv.org/abs/2601.08058v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted at EMNLP' 2026 Main Conference</p></details> |
-| **[When Safety Speaks a Language: A Mechanistic Analysis of Safety-Language Identity Entanglement in LLMs](https://arxiv.org/abs/2608.29936v1)** | 2026-08-30 |  |
 
