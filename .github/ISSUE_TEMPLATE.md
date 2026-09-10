@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
 | **[Inverse Digital Marbling: Recovering Gesture Programs with a Replay Adjoint](https://arxiv.org/abs/2609.08722v1)** | 2026-09-08 |  |
 | **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 | **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
-| **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram](https://arxiv.org/abs/2609.10299v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
+| **[Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.09909v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026. 27 pages, 17 figures, including appendices</p></details> |
+| **[Beyond Top Words: MonoTM for Topic Modeling with Interpretable Monosemantic Features](https://arxiv.org/abs/2609.09575v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to appear in the Proceedings of AACL-IJCNLP 2026</p></details> |
+| **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v1)** | 2026-09-09 | preprint |
 | **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v1)** | 2026-09-08 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
 | **[Medical AI Encodes a "Feeling of Error": Verifying Cancer Segmentation via Internal Concepts](https://arxiv.org/abs/2609.08879v1)** | 2026-09-08 | In ECCV 2026 |
 | **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v2)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](https://arxiv.org/abs/2609.07061v1)** | 2026-09-07 |  |
 | **[Disentangling Steering Vectors](https://arxiv.org/abs/2609.07037v1)** | 2026-09-07 | 31 pages, 5 figures |
 | **[SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192v2)** | 2026-09-07 | COLM 2025 |
-| **[Tracing Query Expansion Effects through Sparse Autoencoder Features](https://arxiv.org/abs/2609.06968v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
-| **[DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461v2)** | 2026-09-06 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[Near-Floor Geometry Is Generic: Leverage Dispersion in Trained Overcomplete Codes](https://arxiv.org/abs/2605.01192v2)** | 2026-09-05 | <details><summary>v2: 5...</summary><p>v2: 53 pages, 7 figures. Substantial revision and extension; title changed. Three formal statements in v1 were too strong and are corrected here (two need h_i <= 1/2; one is wrong at kappa_i = 1), and two empirical readings are withdrawn. See "Changes from version 1" in the manuscript. Code: github.com/hecboar/linear-readout-threshold-recovery</p></details> |
-| **[Recurrence Is Not Enough: Causally Validating Multilingual SAE Translation Features in Gemma 2 and 3](https://arxiv.org/abs/2609.04808v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to BlackboxNLP 2026 Special Track</p></details> |
 
