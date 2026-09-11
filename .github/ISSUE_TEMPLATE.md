@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2026
+title: Latest 15 Papers - September 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -9,7 +9,6 @@ labels: documentation
 | --- | --- | --- |
 | **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
-| **[Inverse Digital Marbling: Recovering Gesture Programs with a Replay Adjoint](https://arxiv.org/abs/2609.08722v1)** | 2026-09-08 |  |
 | **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
 | **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
@@ -22,6 +21,7 @@ labels: documentation
 | **[GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks](https://arxiv.org/abs/2608.16328v1)** | 2026-08-17 |  |
 | **[ReForge: Keeping ABR Algorithms Never Finished with Verified Large Language Model Edits](https://arxiv.org/abs/2608.15138v1)** | 2026-08-15 |  |
 | **[MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling](https://arxiv.org/abs/2608.14783v1)** | 2026-08-14 | <details><summary>12 pa...</summary><p>12 pages, 6 pages appendix, 13 figures, technical report</p></details> |
+| **[Strand-based Hairstyle Generation via Large Reconstruction and Multimodal Models](https://arxiv.org/abs/2608.13679v1)** | 2026-08-13 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v2)** | 2026-09-10 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026</p></details> |
+| **[Beyond Solver Verdicts: Generative Reward Models for Autoformalization](https://arxiv.org/abs/2609.11085v1)** | 2026-09-10 |  |
+| **[The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models](https://arxiv.org/abs/2609.10947v1)** | 2026-09-10 | <details><summary>42 pa...</summary><p>42 pages, 8 figures; includes 13 pages of Supplementary Information</p></details> |
 | **[A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram](https://arxiv.org/abs/2609.10299v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
 | **[Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.09909v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026. 27 pages, 17 figures, including appendices</p></details> |
 | **[Beyond Top Words: MonoTM for Topic Modeling with Interpretable Monosemantic Features](https://arxiv.org/abs/2609.09575v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to appear in the Proceedings of AACL-IJCNLP 2026</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[LLM Layers Immediately Correct Each Other](https://arxiv.org/abs/2609.07876v1)** | 2026-09-07 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
 | **[LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders](https://arxiv.org/abs/2609.07746v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2026</p></details> |
 | **[Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders](https://arxiv.org/abs/2505.22255v5)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
-| **[PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](https://arxiv.org/abs/2609.07061v1)** | 2026-09-07 |  |
-| **[Disentangling Steering Vectors](https://arxiv.org/abs/2609.07037v1)** | 2026-09-07 | 31 pages, 5 figures |
-| **[SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192v2)** | 2026-09-07 | COLM 2025 |
 
