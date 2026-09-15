@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,19 +45,19 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data Attribution of Emergent Misalignment with Persona Features](https://arxiv.org/abs/2608.11025v2)** | 2026-09-14 | <details><summary>30 pa...</summary><p>30 pages, 5 figures. Code: https://github.com/vetterc0/emergent_misalignment_SAE. Accepted at BlackboxNLP 2026</p></details> |
+| **[What Does an LLM Learn from Reinforcement Learning? A Mechanistic Interpretability Perspective with Fixed-SAE Track](https://arxiv.org/abs/2609.15064v1)** | 2026-09-14 |  |
+| **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v3)** | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
+| **[Decoder-Preserving Sparse Autoencoders: Which Readouts Survive Sparse Compression?](https://arxiv.org/abs/2607.17425v3)** | 2026-09-13 |  |
+| **[Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902v2)** | 2026-09-13 | <details><summary>Focus...</summary><p>Focused analysis on attribution maps revealed different behaviors than the ones reported</p></details> |
+| **[PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](https://arxiv.org/abs/2609.07061v2)** | 2026-09-12 |  |
 | **[Beyond Solver Verdicts: Generative Reward Models for Autoformalization](https://arxiv.org/abs/2609.11085v2)** | 2026-09-11 |  |
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 | **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v2)** | 2026-09-11 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
 | **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v2)** | 2026-09-11 | EMNLP 2026 |
 | **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v2)** | 2026-09-10 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026</p></details> |
-| **[The Platonic brain bridge hypothesis: human brain networks as an architectural prior for omni models](https://arxiv.org/abs/2609.10947v1)** | 2026-09-10 | <details><summary>42 pa...</summary><p>42 pages, 8 figures; includes 13 pages of Supplementary Information</p></details> |
 | **[A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram](https://arxiv.org/abs/2609.10299v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
 | **[Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.09909v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026. 27 pages, 17 figures, including appendices</p></details> |
 | **[Beyond Top Words: MonoTM for Topic Modeling with Interpretable Monosemantic Features](https://arxiv.org/abs/2609.09575v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to appear in the Proceedings of AACL-IJCNLP 2026</p></details> |
 | **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v1)** | 2026-09-09 | preprint |
-| **[Medical AI Encodes a "Feeling of Error": Verifying Cancer Segmentation via Internal Concepts](https://arxiv.org/abs/2609.08879v1)** | 2026-09-08 | In ECCV 2026 |
-| **[EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2609.03629v2)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Tracing Stereotypes from Representation to Output in Multilingual LLMs](https://arxiv.org/abs/2609.08322v1)** | 2026-09-08 | <details><summary>18 pa...</summary><p>18 pages total (9 pages main text), 13 figures. Accepted to EMNLP 2026</p></details> |
-| **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
-| **[LLM Layers Immediately Correct Each Other](https://arxiv.org/abs/2609.07876v1)** | 2026-09-07 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
 
