@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data](https://arxiv.org/abs/2609.16532v1)** | 2026-09-15 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 13 tables</p></details> |
 | **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 | **[Knowledge Editing for Masked Diffusion Language Models](https://arxiv.org/abs/2606.03924v2)** | 2026-09-02 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 27 tables. Accepted to EMNLP 2026</p></details> |
 | **[Selective Knowledge Edit Reversal via Gated Singular Vector Shrinkage](https://arxiv.org/abs/2609.02091v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing](https://arxiv.org/abs/2608.11660v1)** | 2026-08-12 |  |
 | **[DOW-KE: Anchor-Free Multi-Layer Knowledge Editing via Direct End-to-End Weight Optimization](https://arxiv.org/abs/2608.16932v1)** | 2026-08-05 |  |
 | **[Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445v2)** | 2026-08-04 |  |
-| **[FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](https://arxiv.org/abs/2508.02092v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ResLRP: The Role of Residual Cancellation in Attribution Instability in Vision Transformers](https://arxiv.org/abs/2609.17152v1)** | 2026-09-15 |  |
+| **[There Is More to Refusal in Large Language Models than a Single Direction](https://arxiv.org/abs/2602.02132v2)** | 2026-09-15 | <details><summary>37 pa...</summary><p>37 pages. Accepted for publication in the main track of EMNLP 2026. Updated manuscript</p></details> |
+| **[Test-Time Unlearning via Sparse Autoencoder](https://arxiv.org/abs/2609.16229v1)** | 2026-09-14 |  |
 | **[Data Attribution of Emergent Misalignment with Persona Features](https://arxiv.org/abs/2608.11025v2)** | 2026-09-14 | <details><summary>30 pa...</summary><p>30 pages, 5 figures. Code: https://github.com/vetterc0/emergent_misalignment_SAE. Accepted at BlackboxNLP 2026</p></details> |
 | **[What Does an LLM Learn from Reinforcement Learning? A Mechanistic Interpretability Perspective with Fixed-SAE Track](https://arxiv.org/abs/2609.15064v1)** | 2026-09-14 |  |
 | **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v3)** | 2026-09-13 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v2)** | 2026-09-11 | EMNLP 2026 |
 | **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v2)** | 2026-09-10 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026</p></details> |
 | **[A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram](https://arxiv.org/abs/2609.10299v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
-| **[Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.09909v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026. 27 pages, 17 figures, including appendices</p></details> |
-| **[Beyond Top Words: MonoTM for Topic Modeling with Interpretable Monosemantic Features](https://arxiv.org/abs/2609.09575v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to appear in the Proceedings of AACL-IJCNLP 2026</p></details> |
-| **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v1)** | 2026-09-09 | preprint |
 
