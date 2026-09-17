@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v1)** | 2026-09-16 | 40 pages, 9 figures |
+| **[Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461v1)** | 2026-09-16 |  |
+| **[Decodability is Not Causality: Dissociating Probe Readouts from Behavioral Drivers via SAE Decomposition](https://arxiv.org/abs/2609.18080v1)** | 2026-09-16 |  |
 | **[ResLRP: The Role of Residual Cancellation in Attribution Instability in Vision Transformers](https://arxiv.org/abs/2609.17152v1)** | 2026-09-15 |  |
 | **[There Is More to Refusal in Large Language Models than a Single Direction](https://arxiv.org/abs/2602.02132v2)** | 2026-09-15 | <details><summary>37 pa...</summary><p>37 pages. Accepted for publication in the main track of EMNLP 2026. Updated manuscript</p></details> |
 | **[Test-Time Unlearning via Sparse Autoencoder](https://arxiv.org/abs/2609.16229v1)** | 2026-09-14 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Beyond Solver Verdicts: Generative Reward Models for Autoformalization](https://arxiv.org/abs/2609.11085v2)** | 2026-09-11 |  |
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 | **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v2)** | 2026-09-11 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
-| **[SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization](https://arxiv.org/abs/2606.08496v2)** | 2026-09-11 | EMNLP 2026 |
-| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v2)** | 2026-09-10 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026</p></details> |
-| **[A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram](https://arxiv.org/abs/2609.10299v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
 
