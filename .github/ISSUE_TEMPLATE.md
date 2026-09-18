@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v1)** | 2026-09-17 |  |
+| **[The Neutral Mask: How Alignment Training Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v2)** | 2026-09-16 |  |
 | **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v1)** | 2026-09-16 | 40 pages, 9 figures |
 | **[Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461v1)** | 2026-09-16 |  |
 | **[Decodability is Not Causality: Dissociating Probe Readouts from Behavioral Drivers via SAE Decomposition](https://arxiv.org/abs/2609.18080v1)** | 2026-09-16 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902v2)** | 2026-09-13 | <details><summary>Focus...</summary><p>Focused analysis on attribution maps revealed different behaviors than the ones reported</p></details> |
 | **[PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](https://arxiv.org/abs/2609.07061v2)** | 2026-09-12 |  |
 | **[Beyond Solver Verdicts: Generative Reward Models for Autoformalization](https://arxiv.org/abs/2609.11085v2)** | 2026-09-11 |  |
-| **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
-| **[SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](https://arxiv.org/abs/2609.09113v2)** | 2026-09-11 | <details><summary>Prepr...</summary><p>Preprint. Work in Progress</p></details> |
 
