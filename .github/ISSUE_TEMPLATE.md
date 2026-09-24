@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,12 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v2)** | 2026-09-23 | In submission |
 | **[Steering Multirobot Behavior via Closed-Loop Affine Activation Editing](https://arxiv.org/abs/2606.11489v2)** | 2026-09-21 |  |
 | **[Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders](https://arxiv.org/abs/2609.24440v1)** | 2026-09-21 | <details><summary>Conta...</summary><p>Contains about 6 pages</p></details> |
 | **[Topographic Training Concentrates Causal Circuits Without Improving Neuron Monosemanticity](https://arxiv.org/abs/2609.24379v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
 | **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement](https://arxiv.org/abs/2609.24243v1)** | 2026-09-21 |  |
 | **[What Makes Good Multilingual Reasoning? Disentangling Traces with Measurable Features](https://arxiv.org/abs/2604.04720v2)** | 2026-09-20 | COLM 2026 |
-| **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v1)** | 2026-09-19 | In submission |
 | **[Calibrating Lightweight Sparse Autoencoder Feature Steering](https://arxiv.org/abs/2506.12576v3)** | 2026-09-18 |  |
 | **[Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461v2)** | 2026-09-18 |  |
 | **[Exploring Text Classification Models with Sparse Autoencoders](https://arxiv.org/abs/2609.21142v1)** | 2026-09-17 | <details><summary>11 pa...</summary><p>11 pages, 13 figures. Accepted as a short paper at IEEE VIS 2026</p></details> |
