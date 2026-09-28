@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v3)** | 2026-09-25 | preprint |
+| **[Neuralyzing the Trace: Selective Representation-Level Unlearning with Contrastive Sparse Autoencoders](https://arxiv.org/abs/2609.31056v1)** | 2026-09-25 |  |
 | **[Parts-of-Speech as Emergent Categories in SAE Latent Space](https://arxiv.org/abs/2609.29362v1)** | 2026-09-24 |  |
 | **[LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders](https://arxiv.org/abs/2609.07746v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2026</p></details> |
 | **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v2)** | 2026-09-23 | In submission |
@@ -56,8 +58,6 @@ labels: documentation
 | **[Calibrating Lightweight Sparse Autoencoder Feature Steering](https://arxiv.org/abs/2506.12576v3)** | 2026-09-18 |  |
 | **[Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461v2)** | 2026-09-18 |  |
 | **[Exploring Text Classification Models with Sparse Autoencoders](https://arxiv.org/abs/2609.21142v1)** | 2026-09-17 | <details><summary>11 pa...</summary><p>11 pages, 13 figures. Accepted as a short paper at IEEE VIS 2026</p></details> |
-| **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v2)** | 2026-09-17 | preprint |
 | **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v1)** | 2026-09-17 |  |
 | **[The Neutral Mask: How Alignment Training Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v2)** | 2026-09-16 |  |
-| **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v1)** | 2026-09-16 | 40 pages, 9 figures |
 
