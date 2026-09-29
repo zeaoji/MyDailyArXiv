@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[eval-unlearn: Benchmarking unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.35269v1)** | 2026-09-28 |  |
+| **[Backdoor as Probe: Test-Time Adversarial Defense for CLIP](https://arxiv.org/abs/2609.34641v1)** | 2026-09-28 |  |
+| **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
+| **[InfoEdit: Probing Global Layout Reasoning in Infographic Editing](https://arxiv.org/abs/2609.33286v1)** | 2026-09-27 | <details><summary>Proje...</summary><p>Project page: https://infoedit.github.io</p></details> |
 | **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
 | **[What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models](https://arxiv.org/abs/2609.25786v1)** | 2026-09-22 |  |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v2)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v1)** | 2026-09-03 | EMNLP 2026 (Main) |
 | **[RGB-to-IR image translation for infrared vehicle detection in unseen UAV domains](https://arxiv.org/abs/2609.02556v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
 | **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](https://arxiv.org/abs/2505.22156v4)** | 2026-09-01 | <details><summary>Main ...</summary><p>Main conference of EMNLP 2026</p></details> |
-| **[PRISM Edit: One Vector for All Temporal Answers](https://arxiv.org/abs/2607.11327v3)** | 2026-08-31 | <details><summary>Chen ...</summary><p>Chen Huang and Qi Zheng contributed equally. Corresponding authors: Long Zeng, Yuantong Xu</p></details> |
-| **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
-| **[ReasonEdit: Editing Vision-Language Models using Human Reasoning](https://arxiv.org/abs/2602.02408v5)** | 2026-08-23 | ICML 2026 |
-| **[Leveraging Association Context Retrieval in Knowledge Edit- ing to Build White-Box Attacks on LLMs](https://arxiv.org/abs/2608.17836v1)** | 2026-08-18 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
 | **[ALOE: Semantically Addressed Low-Rank Operators for Knowledge Editing](https://arxiv.org/abs/2609.29269v1)** | 2026-09-24 |  |
 | **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
 | **[Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data](https://arxiv.org/abs/2609.16532v1)** | 2026-09-15 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 13 tables</p></details> |
@@ -40,24 +41,23 @@ labels: documentation
 | **[PersonaEdit: Representative Sample Selection for Personalized Model Editing](https://arxiv.org/abs/2608.27816v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings</p></details> |
 | **[Addressing the Reasoning Gap: Mechanistic Circuit-Based Knowledge Editing in Large Language Models](https://arxiv.org/abs/2604.05876v3)** | 2026-08-27 | EMNLP 2026 Findings |
 | **[MechaTerp-TRACE: A Novel Approach for Component Ablation Analysis in Language Models](https://arxiv.org/abs/2609.22163v1)** | 2026-08-26 |  |
-| **[On Scope Classification and Current Knowledge-Editing Benchmarks: A Negative Result, with INLAY as a Gradient-Free Case Study](https://arxiv.org/abs/2608.26292v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables. Code and data: https://github.com/Aditya-PS-05/INLAY</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[High-probability guarantees for linear accessibility in feature superposition](https://arxiv.org/abs/2609.09556v3)** | 2026-09-25 | preprint |
-| **[Neuralyzing the Trace: Selective Representation-Level Unlearning with Contrastive Sparse Autoencoders](https://arxiv.org/abs/2609.31056v1)** | 2026-09-25 |  |
-| **[Parts-of-Speech as Emergent Categories in SAE Latent Space](https://arxiv.org/abs/2609.29362v1)** | 2026-09-24 |  |
-| **[LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders](https://arxiv.org/abs/2609.07746v2)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at Findings of EMNLP 2026</p></details> |
-| **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v2)** | 2026-09-23 | In submission |
-| **[Steering Multirobot Behavior via Closed-Loop Affine Activation Editing](https://arxiv.org/abs/2606.11489v2)** | 2026-09-21 |  |
-| **[Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders](https://arxiv.org/abs/2609.24440v1)** | 2026-09-21 | <details><summary>Conta...</summary><p>Contains about 6 pages</p></details> |
-| **[Topographic Training Concentrates Causal Circuits Without Improving Neuron Monosemanticity](https://arxiv.org/abs/2609.24379v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at the Mechanistic Interpretability Workshop at ICML 2026</p></details> |
-| **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation Enforcement](https://arxiv.org/abs/2609.24243v1)** | 2026-09-21 |  |
-| **[What Makes Good Multilingual Reasoning? Disentangling Traces with Measurable Features](https://arxiv.org/abs/2604.04720v2)** | 2026-09-20 | COLM 2026 |
-| **[Calibrating Lightweight Sparse Autoencoder Feature Steering](https://arxiv.org/abs/2506.12576v3)** | 2026-09-18 |  |
-| **[Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461v2)** | 2026-09-18 |  |
-| **[Exploring Text Classification Models with Sparse Autoencoders](https://arxiv.org/abs/2609.21142v1)** | 2026-09-17 | <details><summary>11 pa...</summary><p>11 pages, 13 figures. Accepted as a short paper at IEEE VIS 2026</p></details> |
-| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v1)** | 2026-09-17 |  |
-| **[The Neutral Mask: How Alignment Training Provides Shallow Alignment while Leaving Partisan Structure Intact in a Large Language Model](https://arxiv.org/abs/2606.09735v2)** | 2026-09-16 |  |
+| **[Less Sycophancy, Stronger Refusal? Lessons for AI Safety from Mechanistic Interpretability](https://arxiv.org/abs/2609.35544v1)** | 2026-09-28 | 20 pages |
+| **[Beyond Token Scale: Chunk-Level Sparse Autoencoders for Reliable Semantic Feature Discovery](https://arxiv.org/abs/2609.35521v1)** | 2026-09-28 | 27 pages |
+| **[From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367v1)** | 2026-09-28 | 25 pages |
+| **[Interference Beyond Geometry in Concept Extraction](https://arxiv.org/abs/2609.35351v1)** | 2026-09-28 |  |
+| **[Verifying the Linear Representation Hypothesis: How Interpretable Are Vision SAEs?](https://arxiv.org/abs/2609.35020v1)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 5 tables, preprint under review</p></details> |
+| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v4)** | 2026-09-28 | Accepted by ICML2026 |
+| **[From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](https://arxiv.org/abs/2602.02464v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 main conference</p></details> |
+| **[Routing Without Embeddings: Fast And Interpretable Routing With Regular Expressions](https://arxiv.org/abs/2609.34326v1)** | 2026-09-28 | <details><summary>38 pa...</summary><p>38 pages, 18 tables, 11 figures</p></details> |
+| **[When Is an SAE Feature Interpretable? A Validation Ladder for EEG Foundation Models](https://arxiv.org/abs/2609.34091v1)** | 2026-09-28 |  |
+| **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: Exploration toward Age, Gender, and Accent Steering](https://arxiv.org/abs/2609.34052v1)** | 2026-09-28 |  |
+| **[Augmenting Visual Anomaly Detection with Automated Interpretability](https://arxiv.org/abs/2609.33818v1)** | 2026-09-27 | Preprint |
+| **[When Can We Trust the Sparse Lens? A Certification Framework for SAE Faithfulness](https://arxiv.org/abs/2606.18383v2)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted at Transactions of the Association for Computational Linguistics (TACL). Pre-MIT Press publication version</p></details> |
+| **[BiasReducer: Adaptive Bias Mitigation for Reward Models](https://arxiv.org/abs/2609.32720v1)** | 2026-09-26 |  |
+| **[PULSE: Identifying Demonstration-Utility Features with Sparse Autoencoders](https://arxiv.org/abs/2609.32469v1)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 24 pages</p></details> |
+| **[Gradients for Interventions and Activations for Detection: Targeted Feature Learning in Language Models](https://arxiv.org/abs/2609.32355v1)** | 2026-09-26 |  |
 
