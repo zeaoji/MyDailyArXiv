@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 | **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v1)** | 2026-09-29 |  |
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Live Architecture Models for Cloud-Native Architecture-as-Code: Early Results from Kubernetes Conformance Checking](https://arxiv.org/abs/2609.36148v1)** | 2026-09-28 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables. Code and evaluation artifacts: https://github.com/AsakoKabe/archer-kdl</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 | **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
-| **[Key Path Identification for Resolving Knowledge Conflicts via SAE-based Steering](https://arxiv.org/abs/2609.08173v1)** | 2026-09-08 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Active Budget Can Kill Sensitivity: Diagnosing and Repairing TopK Sparse Autoencoder Reliability](https://arxiv.org/abs/2609.37857v1)** | 2026-09-29 |  |
+| **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v3)** | 2026-09-30 | In submission |
+| **[D-Scope: Decomposing and Steering Diffusion Transformers with Sparse Autoencoders](https://arxiv.org/abs/2609.39625v1)** | 2026-09-30 |  |
+| **[Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders](https://arxiv.org/abs/2605.16339v2)** | 2026-09-30 |  |
+| **[Active Budget Can Kill Sensitivity: Diagnosing and Repairing TopK Sparse Autoencoder Reliability](https://arxiv.org/abs/2609.37857v2)** | 2026-09-30 |  |
+| **[Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders](https://arxiv.org/abs/2511.17735v2)** | 2026-09-29 |  |
+| **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](https://arxiv.org/abs/2506.20040v4)** | 2026-09-29 |  |
 | **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v2)** | 2026-09-29 | 42 pages, 9 figures |
 | **[How Optimality Structures Sparse Dictionaries: Theory for Interpreting SAE Representations](https://arxiv.org/abs/2606.02385v2)** | 2026-09-29 | 31 pages, 5 figures |
 | **[Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](https://arxiv.org/abs/2609.37710v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by the 27th International Society for Music Information Retrieval Conference (ISMIR 2026)</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367v1)** | 2026-09-28 | 25 pages |
 | **[Interference Beyond Geometry in Concept Extraction](https://arxiv.org/abs/2609.35351v1)** | 2026-09-28 |  |
 | **[Verifying the Linear Representation Hypothesis: How Interpretable Are Vision SAEs?](https://arxiv.org/abs/2609.35020v1)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 5 tables, preprint under review</p></details> |
-| **[No More K-means: Single-Stage Sparse Coding for Efficient Multi-Vector Retrieval](https://arxiv.org/abs/2605.30120v4)** | 2026-09-28 | Accepted by ICML2026 |
-| **[From Directions to Regions: Decomposing Activations in Language Models via Local Geometry](https://arxiv.org/abs/2602.02464v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 main conference</p></details> |
-| **[Routing Without Embeddings: Fast And Interpretable Routing With Regular Expressions](https://arxiv.org/abs/2609.34326v1)** | 2026-09-28 | <details><summary>38 pa...</summary><p>38 pages, 18 tables, 11 figures</p></details> |
-| **[When Is an SAE Feature Interpretable? A Validation Ladder for EEG Foundation Models](https://arxiv.org/abs/2609.34091v1)** | 2026-09-28 |  |
-| **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: Exploration toward Age, Gender, and Accent Steering](https://arxiv.org/abs/2609.34052v1)** | 2026-09-28 |  |
 
