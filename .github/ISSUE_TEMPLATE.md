@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2026
+title: Latest 15 Papers - October 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189v1)** | 2026-10-01 |  |
+| **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v4)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
+| **[From Isolated Feature to Orbits: Discovering Music Concepts via Multi-SAE Alignment](https://arxiv.org/abs/2610.01864v1)** | 2026-10-01 |  |
+| **[A Large Scale Investigation of Scaling Limits in Chemical Language Models](https://arxiv.org/abs/2508.13408v3)** | 2026-10-01 |  |
+| **[Towards Fast and Disentangled Counterfactuals for Visual Foundation Models](https://arxiv.org/abs/2610.00895v1)** | 2026-10-01 |  |
+| **[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](https://arxiv.org/abs/2608.12573v2)** | 2026-09-30 |  |
 | **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v3)** | 2026-09-30 | In submission |
 | **[D-Scope: Decomposing and Steering Diffusion Transformers with Sparse Autoencoders](https://arxiv.org/abs/2609.39625v1)** | 2026-09-30 |  |
 | **[Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders](https://arxiv.org/abs/2605.16339v2)** | 2026-09-30 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v2)** | 2026-09-29 | 42 pages, 9 figures |
 | **[How Optimality Structures Sparse Dictionaries: Theory for Interpreting SAE Representations](https://arxiv.org/abs/2606.02385v2)** | 2026-09-29 | 31 pages, 5 figures |
 | **[Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](https://arxiv.org/abs/2609.37710v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by the 27th International Society for Music Information Retrieval Conference (ISMIR 2026)</p></details> |
-| **[When Trees Are Not Enough: Learning Mixed-Topology Feature Graphs with Adaptive Graph Sparse Autoencoders](https://arxiv.org/abs/2609.36294v1)** | 2026-09-28 |  |
-| **[Less Sycophancy, Stronger Refusal? Lessons for AI Safety from Mechanistic Interpretability](https://arxiv.org/abs/2609.35544v1)** | 2026-09-28 | 20 pages |
-| **[Beyond Token Scale: Chunk-Level Sparse Autoencoders for Reliable Semantic Feature Discovery](https://arxiv.org/abs/2609.35521v1)** | 2026-09-28 | 27 pages |
-| **[From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features](https://arxiv.org/abs/2609.35367v1)** | 2026-09-28 | 25 pages |
-| **[Interference Beyond Geometry in Concept Extraction](https://arxiv.org/abs/2609.35351v1)** | 2026-09-28 |  |
-| **[Verifying the Linear Representation Hypothesis: How Interpretable Are Vision SAEs?](https://arxiv.org/abs/2609.35020v1)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 5 tables, preprint under review</p></details> |
 
