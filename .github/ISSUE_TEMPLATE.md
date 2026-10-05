@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
 | **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026; Code available at: https://github.com/yagao403/KnowledgeEdit-EMNLP2026</p></details> |
 | **[Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy](https://arxiv.org/abs/2609.29587v1)** | 2026-08-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables. Code and experimental artifacts available on request</p></details> |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
-| **[KLOD: Locality-Preserving Knowledge Editing via Non-Target Distribution Preservation](https://arxiv.org/abs/2608.27839v1)** | 2026-08-28 | <details><summary>To be...</summary><p>To be published in EMNLP 2026 Findings</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers](https://arxiv.org/abs/2610.03698v1)** | 2026-10-02 |  |
+| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v1)** | 2026-10-02 |  |
+| **[Where Do Apparent LLM Clinical Triage Failures Arise? Localizing the Multiple-Choice Format Effect](https://arxiv.org/abs/2605.29889v2)** | 2026-10-02 | <details><summary>9 pag...</summary><p>9 pages main text, 29 pages total including appendices; 7 figures, 25 tables</p></details> |
 | **[Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189v1)** | 2026-10-01 |  |
 | **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v4)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
 | **[From Isolated Feature to Orbits: Discovering Music Concepts via Multi-SAE Alignment](https://arxiv.org/abs/2610.01864v1)** | 2026-10-01 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Active Budget Can Kill Sensitivity: Diagnosing and Repairing TopK Sparse Autoencoder Reliability](https://arxiv.org/abs/2609.37857v2)** | 2026-09-30 |  |
 | **[Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders](https://arxiv.org/abs/2511.17735v2)** | 2026-09-29 |  |
 | **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](https://arxiv.org/abs/2506.20040v4)** | 2026-09-29 |  |
-| **[Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860v2)** | 2026-09-29 | 42 pages, 9 figures |
-| **[How Optimality Structures Sparse Dictionaries: Theory for Interpreting SAE Representations](https://arxiv.org/abs/2606.02385v2)** | 2026-09-29 | 31 pages, 5 figures |
-| **[Do Music Generative Models Understand Musical Qualities? Automatic Music Evaluation with Model-Intrinsic Signals](https://arxiv.org/abs/2609.37710v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted by the 27th International Society for Music Information Retrieval Conference (ISMIR 2026)</p></details> |
 
