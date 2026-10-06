@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
+| **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
 | **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 | **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v1)** | 2026-09-29 |  |
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v2)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing](https://arxiv.org/abs/2609.21268v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://chongbozhao3-coder.github.io/Edit-VAR. Code: https://github.com/chongbozhao3-coder/Edit-VAR</p></details> |
 | **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
-| **[BTBR: A Bayesian-Theory-Driven Probabilistic-Fuzzy Framework for Implicit Bias Removal in Large Language Models](https://arxiv.org/abs/2408.10608v2)** | 2026-09-09 | <details><summary>18 pa...</summary><p>18 pages, including appendices. A version of this work has been accepted for publication in IEEE Transactions on Fuzzy Systems (TFS)</p></details> |
-| **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v3)** | 2026-10-02 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
 | **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
@@ -40,11 +41,18 @@ labels: documentation
 | **[GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping](https://arxiv.org/abs/2603.12275v2)** | 2026-09-01 |  |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026; Code available at: https://github.com/yagao403/KnowledgeEdit-EMNLP2026</p></details> |
 | **[Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy](https://arxiv.org/abs/2609.29587v1)** | 2026-08-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables. Code and experimental artifacts available on request</p></details> |
-| **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v2)** | 2026-08-30 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages](https://arxiv.org/abs/2507.11230v4)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to AACL 2026 (Main)</p></details> |
+| **[Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902v3)** | 2026-10-05 | <details><summary>Later...</summary><p>Later experiments showed that the reported results are not correct.</p></details> |
+| **[Backdooring Sparse Autoencoders](https://arxiv.org/abs/2610.06049v1)** | 2026-10-05 |  |
+| **[EmoRSS: Mitigating Emotion-Induced Over-Refusal in Large Language Models](https://arxiv.org/abs/2610.04998v1)** | 2026-10-04 |  |
+| **[TSAE: Structured Sparse Autoencoders for Interpreting Time-Series Forecasting Models](https://arxiv.org/abs/2610.04925v1)** | 2026-10-04 |  |
+| **[ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](https://arxiv.org/abs/2610.04905v1)** | 2026-10-04 |  |
+| **[The Independence Prior of SAEs Fragments Visual Concepts](https://arxiv.org/abs/2610.04112v1)** | 2026-10-02 |  |
+| **[ClasSAE: Class-Aligned Sparse Autoencoders via Differentiable Feature-Class Affinity](https://arxiv.org/abs/2610.04020v1)** | 2026-10-02 |  |
 | **[Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers](https://arxiv.org/abs/2610.03698v1)** | 2026-10-02 |  |
 | **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v1)** | 2026-10-02 |  |
 | **[Where Do Apparent LLM Clinical Triage Failures Arise? Localizing the Multiple-Choice Format Effect](https://arxiv.org/abs/2605.29889v2)** | 2026-10-02 | <details><summary>9 pag...</summary><p>9 pages main text, 29 pages total including appendices; 7 figures, 25 tables</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v4)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
 | **[From Isolated Feature to Orbits: Discovering Music Concepts via Multi-SAE Alignment](https://arxiv.org/abs/2610.01864v1)** | 2026-10-01 |  |
 | **[A Large Scale Investigation of Scaling Limits in Chemical Language Models](https://arxiv.org/abs/2508.13408v3)** | 2026-10-01 |  |
-| **[Towards Fast and Disentangled Counterfactuals for Visual Foundation Models](https://arxiv.org/abs/2610.00895v1)** | 2026-10-01 |  |
-| **[Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](https://arxiv.org/abs/2608.12573v2)** | 2026-09-30 |  |
-| **[From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](https://arxiv.org/abs/2609.23065v3)** | 2026-09-30 | In submission |
-| **[D-Scope: Decomposing and Steering Diffusion Transformers with Sparse Autoencoders](https://arxiv.org/abs/2609.39625v1)** | 2026-09-30 |  |
-| **[Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders](https://arxiv.org/abs/2605.16339v2)** | 2026-09-30 |  |
-| **[Active Budget Can Kill Sensitivity: Diagnosing and Repairing TopK Sparse Autoencoder Reliability](https://arxiv.org/abs/2609.37857v2)** | 2026-09-30 |  |
-| **[Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders](https://arxiv.org/abs/2511.17735v2)** | 2026-09-29 |  |
-| **[Cross-Layer Discrete Concept Discovery for Interpreting Language Models](https://arxiv.org/abs/2506.20040v4)** | 2026-09-29 |  |
 
