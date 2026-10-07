@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,14 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnyBottle: A Recipe to Only Keep the Concepts You Really Need](https://arxiv.org/abs/2610.08552v1)** | 2026-10-06 |  |
+| **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v2)** | 2026-10-06 |  |
+| **[To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents](https://arxiv.org/abs/2605.18882v2)** | 2026-10-06 |  |
+| **[Illusory Pattern Perception Drives Spurious Inference in Large Language Models](https://arxiv.org/abs/2610.07791v1)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026</p></details> |
+| **[SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v2)** | 2026-10-06 |  |
+| **[Mechanistic Interpretability of Atmospheric Rivers in GraphCast](https://arxiv.org/abs/2610.07583v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to TCCML NeurIPS workshop 2026</p></details> |
+| **[Inference and learning in sparse autoencoders as natural gradient flow](https://arxiv.org/abs/2610.07389v1)** | 2026-10-05 | <details><summary>Code:...</summary><p>Code: https://github.com/hadivafaii/BeFOND</p></details> |
+| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v2)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published at NeurIPS2026</p></details> |
 | **[Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages](https://arxiv.org/abs/2507.11230v4)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to AACL 2026 (Main)</p></details> |
 | **[Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902v3)** | 2026-10-05 | <details><summary>Later...</summary><p>Later experiments showed that the reported results are not correct.</p></details> |
 | **[Backdooring Sparse Autoencoders](https://arxiv.org/abs/2610.06049v1)** | 2026-10-05 |  |
@@ -52,12 +60,4 @@ labels: documentation
 | **[TSAE: Structured Sparse Autoencoders for Interpreting Time-Series Forecasting Models](https://arxiv.org/abs/2610.04925v1)** | 2026-10-04 |  |
 | **[ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](https://arxiv.org/abs/2610.04905v1)** | 2026-10-04 |  |
 | **[The Independence Prior of SAEs Fragments Visual Concepts](https://arxiv.org/abs/2610.04112v1)** | 2026-10-02 |  |
-| **[ClasSAE: Class-Aligned Sparse Autoencoders via Differentiable Feature-Class Affinity](https://arxiv.org/abs/2610.04020v1)** | 2026-10-02 |  |
-| **[Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers](https://arxiv.org/abs/2610.03698v1)** | 2026-10-02 |  |
-| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v1)** | 2026-10-02 |  |
-| **[Where Do Apparent LLM Clinical Triage Failures Arise? Localizing the Multiple-Choice Format Effect](https://arxiv.org/abs/2605.29889v2)** | 2026-10-02 | <details><summary>9 pag...</summary><p>9 pages main text, 29 pages total including appendices; 7 figures, 25 tables</p></details> |
-| **[Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189v1)** | 2026-10-01 |  |
-| **[On the Interpretability of Whisper Encodings Using Sparse Autoencoders](https://arxiv.org/abs/2605.12225v4)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to the IEEE Real-Time Communications Conference (RTC) 2026</p></details> |
-| **[From Isolated Feature to Orbits: Discovering Music Concepts via Multi-SAE Alignment](https://arxiv.org/abs/2610.01864v1)** | 2026-10-01 |  |
-| **[A Large Scale Investigation of Scaling Limits in Chemical Language Models](https://arxiv.org/abs/2508.13408v3)** | 2026-10-01 |  |
 
