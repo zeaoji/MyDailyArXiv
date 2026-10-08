@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 | **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
 | **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[What Was Once Learned May Need to Be Unlearned: Machine Unlearning for Deprecated API Knowledge in Large Language Models](https://arxiv.org/abs/2609.25786v1)** | 2026-09-22 |  |
 | **[SCoNE: Selective Context-aware Neuron Editing for Robust Retrieval-Augmented Generation](https://arxiv.org/abs/2609.00689v2)** | 2026-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Edit-VAR: Taming Visual Autoregressive Model for Precise Video Editing](https://arxiv.org/abs/2609.21268v1)** | 2026-09-18 | <details><summary>Proje...</summary><p>Project page: https://chongbozhao3-coder.github.io/Edit-VAR. Code: https://github.com/chongbozhao3-coder/Edit-VAR</p></details> |
-| **[Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery](https://arxiv.org/abs/2609.12591v1)** | 2026-09-11 | 4 pages, 2 figures |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ELROND: Exploring and decomposing intrinsic capabilities of diffusion models](https://arxiv.org/abs/2602.10216v2)** | 2026-10-07 |  |
+| **[Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models](https://arxiv.org/abs/2610.09496v1)** | 2026-10-07 |  |
+| **[Residualized Temporal Sparse Autoencoders for Interpreting Diffusion Models](https://arxiv.org/abs/2605.27813v2)** | 2026-10-07 |  |
+| **[SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v3)** | 2026-10-07 |  |
+| **[Tree SAE: Learning Hierarchical Feature Structures in Sparse Autoencoders](https://arxiv.org/abs/2605.07922v3)** | 2026-10-07 | 20 pages |
+| **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v3)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted to AACL-IJCNLP 2026 (Main)</p></details> |
+| **[From Packets to Patterns: Interpreting Encrypted Network Traffic as Longitudinal Behavioral Signals](https://arxiv.org/abs/2605.01616v3)** | 2026-10-06 | <details><summary>38 pa...</summary><p>38 pages, 8 figures. Accepted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Vol. 10, No. 4</p></details> |
+| **[Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models](https://arxiv.org/abs/2605.10971v2)** | 2026-10-06 |  |
 | **[AnyBottle: A Recipe to Only Keep the Concepts You Really Need](https://arxiv.org/abs/2610.08552v1)** | 2026-10-06 |  |
 | **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v2)** | 2026-10-06 |  |
 | **[To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents](https://arxiv.org/abs/2605.18882v2)** | 2026-10-06 |  |
 | **[Illusory Pattern Perception Drives Spurious Inference in Large Language Models](https://arxiv.org/abs/2610.07791v1)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026</p></details> |
-| **[SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v2)** | 2026-10-06 |  |
 | **[Mechanistic Interpretability of Atmospheric Rivers in GraphCast](https://arxiv.org/abs/2610.07583v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to TCCML NeurIPS workshop 2026</p></details> |
 | **[Inference and learning in sparse autoencoders as natural gradient flow](https://arxiv.org/abs/2610.07389v1)** | 2026-10-05 | <details><summary>Code:...</summary><p>Code: https://github.com/hadivafaii/BeFOND</p></details> |
 | **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v2)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published at NeurIPS2026</p></details> |
-| **[Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages](https://arxiv.org/abs/2507.11230v4)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to AACL 2026 (Main)</p></details> |
-| **[Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902v3)** | 2026-10-05 | <details><summary>Later...</summary><p>Later experiments showed that the reported results are not correct.</p></details> |
-| **[Backdooring Sparse Autoencoders](https://arxiv.org/abs/2610.06049v1)** | 2026-10-05 |  |
-| **[EmoRSS: Mitigating Emotion-Induced Over-Refusal in Large Language Models](https://arxiv.org/abs/2610.04998v1)** | 2026-10-04 |  |
-| **[TSAE: Structured Sparse Autoencoders for Interpreting Time-Series Forecasting Models](https://arxiv.org/abs/2610.04925v1)** | 2026-10-04 |  |
-| **[ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](https://arxiv.org/abs/2610.04905v1)** | 2026-10-04 |  |
-| **[The Independence Prior of SAEs Fragments Visual Concepts](https://arxiv.org/abs/2610.04112v1)** | 2026-10-02 |  |
 
