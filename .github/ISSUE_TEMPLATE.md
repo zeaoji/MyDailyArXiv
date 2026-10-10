@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2026
+title: Latest 15 Papers - October 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedAlphaEdit: Null-Space-Aligned Merging for Collaborative Knowledge Editing](https://arxiv.org/abs/2610.11033v1)** | 2026-10-08 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 8 tables. Includes appendices (proofs, implementation reconciliation, experimental details). Code: https://github.com/soutasuga/FedAlphaEdit</p></details> |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v3)** | 2026-10-02 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Selective Knowledge Edit Reversal via Gated Singular Vector Shrinkage](https://arxiv.org/abs/2609.02091v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
 | **[GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping](https://arxiv.org/abs/2603.12275v2)** | 2026-09-01 |  |
 | **[Edit Knowledge, Not Just Facts via Multi-Step Reasoning over Background Stories](https://arxiv.org/abs/2602.02028v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026; Code available at: https://github.com/yagao403/KnowledgeEdit-EMNLP2026</p></details> |
-| **[Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy](https://arxiv.org/abs/2609.29587v1)** | 2026-08-31 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 2 tables. Code and experimental artifacts available on request</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](https://arxiv.org/abs/2610.11775v1)** | 2026-10-08 | <details><summary>33 pa...</summary><p>33 pages (12 non-appendix pages), 7 figures, published as a conference paper at ICML 2026</p></details> |
+| **[Disentangling Linguistic and Paralinguistic Information with Routed Sparse Autoencoders](https://arxiv.org/abs/2610.10865v1)** | 2026-10-07 | In submission |
+| **[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted for publication at UAI 2026. This is a slightly updated version of the published manuscript; see Corrigendum at the end of the paper</p></details> |
 | **[ELROND: Exploring and decomposing intrinsic capabilities of diffusion models](https://arxiv.org/abs/2602.10216v2)** | 2026-10-07 |  |
 | **[Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models](https://arxiv.org/abs/2610.09496v1)** | 2026-10-07 |  |
 | **[Residualized Temporal Sparse Autoencoders for Interpreting Diffusion Models](https://arxiv.org/abs/2605.27813v2)** | 2026-10-07 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v2)** | 2026-10-06 |  |
 | **[To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents](https://arxiv.org/abs/2605.18882v2)** | 2026-10-06 |  |
 | **[Illusory Pattern Perception Drives Spurious Inference in Large Language Models](https://arxiv.org/abs/2610.07791v1)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026</p></details> |
-| **[Mechanistic Interpretability of Atmospheric Rivers in GraphCast](https://arxiv.org/abs/2610.07583v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted to TCCML NeurIPS workshop 2026</p></details> |
-| **[Inference and learning in sparse autoencoders as natural gradient flow](https://arxiv.org/abs/2610.07389v1)** | 2026-10-05 | <details><summary>Code:...</summary><p>Code: https://github.com/hadivafaii/BeFOND</p></details> |
-| **[Local Sparsity Enables Unsupervised LLM Safety Detection](https://arxiv.org/abs/2609.20129v2)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published at NeurIPS2026</p></details> |
 
