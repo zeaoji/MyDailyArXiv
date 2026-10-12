@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v2)** | 2026-10-09 |  |
 | **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 | **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
 | **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
-| **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v1)** | 2026-09-29 |  |
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Live Architecture Models for Cloud-Native Architecture-as-Code: Early Results from Kubernetes Conformance Checking](https://arxiv.org/abs/2609.36148v1)** | 2026-09-28 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables. Code and evaluation artifacts: https://github.com/AsakoKabe/archer-kdl</p></details> |
 | **[eval-unlearn: Benchmarking unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.35269v1)** | 2026-09-28 |  |
@@ -45,6 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change](https://arxiv.org/abs/2610.13156v1)** | 2026-10-09 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. A version of this paper is under review for CHI 2027</p></details> |
+| **[Language Models Have Interpretable Narrative Mechanisms](https://arxiv.org/abs/2610.12989v1)** | 2026-10-09 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 16 tables</p></details> |
+| **[Sparse Dictionary Learning for Measure-Valued Data via Linearized Optimal Transport: Efficient Algorithms and Sample Complexity](https://arxiv.org/abs/2610.12924v1)** | 2026-10-09 |  |
+| **[The Alignment Veto: How Safety Training Suppresses Cultural Knowledge in LLMs](https://arxiv.org/abs/2510.13154v3)** | 2026-10-09 |  |
+| **[Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939v2)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026 (The 2026 Conference on Empirical Methods in Natural Language Processing)</p></details> |
+| **[Latent Reward Steering: An Adaptive Inference-Time Framework that Implicitly Promotes Cognitive Behaviors in Reasoning LLMs](https://arxiv.org/abs/2606.00726v4)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
 | **[RouterInterp: Understanding Superposed Specialisation in Mixture of Experts Routing](https://arxiv.org/abs/2610.11775v1)** | 2026-10-08 | <details><summary>33 pa...</summary><p>33 pages (12 non-appendix pages), 7 figures, published as a conference paper at ICML 2026</p></details> |
 | **[Disentangling Linguistic and Paralinguistic Information with Routed Sparse Autoencoders](https://arxiv.org/abs/2610.10865v1)** | 2026-10-07 | In submission |
 | **[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted for publication at UAI 2026. This is a slightly updated version of the published manuscript; see Corrigendum at the end of the paper</p></details> |
@@ -54,10 +60,4 @@ labels: documentation
 | **[SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v3)** | 2026-10-07 |  |
 | **[Tree SAE: Learning Hierarchical Feature Structures in Sparse Autoencoders](https://arxiv.org/abs/2605.07922v3)** | 2026-10-07 | 20 pages |
 | **[How Far Do Auto-Interpretation Labels Generalize: A Controlled Study Across Languages, Scripts, and Rewordings](https://arxiv.org/abs/2606.00356v3)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted to AACL-IJCNLP 2026 (Main)</p></details> |
-| **[From Packets to Patterns: Interpreting Encrypted Network Traffic as Longitudinal Behavioral Signals](https://arxiv.org/abs/2605.01616v3)** | 2026-10-06 | <details><summary>38 pa...</summary><p>38 pages, 8 figures. Accepted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Vol. 10, No. 4</p></details> |
-| **[Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models](https://arxiv.org/abs/2605.10971v2)** | 2026-10-06 |  |
-| **[AnyBottle: A Recipe to Only Keep the Concepts You Really Need](https://arxiv.org/abs/2610.08552v1)** | 2026-10-06 |  |
-| **[Do Sparse Autoencoders Learn Meaningful Concept Hierarchies?](https://arxiv.org/abs/2606.22994v2)** | 2026-10-06 |  |
-| **[To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents](https://arxiv.org/abs/2605.18882v2)** | 2026-10-06 |  |
-| **[Illusory Pattern Perception Drives Spurious Inference in Large Language Models](https://arxiv.org/abs/2610.07791v1)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by NeurIPS 2026</p></details> |
 
