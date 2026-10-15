@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
 | **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
 | **[Generalizable Model Editing Could Be More Than Direct Generalization](https://arxiv.org/abs/2610.15707v1)** | 2026-10-11 |  |
 | **[ZOIF: Zeroth-Order Influence Function Estimation for LLM Data Selection Using Only Forward Passes](https://arxiv.org/abs/2610.15336v1)** | 2026-10-11 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Backdoor as Probe: Test-Time Adversarial Defense for CLIP](https://arxiv.org/abs/2609.34641v1)** | 2026-09-28 |  |
 | **[ManiEdit: Sequential Unstructured Knowledge Editing for Language Models from a Manifold Perspective](https://arxiv.org/abs/2609.33534v1)** | 2026-09-27 | 31 pages, 8 figures |
 | **[InfoEdit: Probing Global Layout Reasoning in Infographic Editing](https://arxiv.org/abs/2609.33286v1)** | 2026-09-27 | <details><summary>Proje...</summary><p>Project page: https://infoedit.github.io</p></details> |
-| **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Readout Scaling Shapes Sparse Feature Recovery](https://arxiv.org/abs/2610.18462v1)** | 2026-10-13 |  |
+| **[Readout Scaling Shapes Sparse Feature Recovery](https://arxiv.org/abs/2610.18462v2)** | 2026-10-14 |  |
+| **[Capability $\neq$ Interpretability: Human Interpretability of Vision Foundation Models](https://arxiv.org/abs/2605.20337v2)** | 2026-10-14 |  |
+| **[Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility](https://arxiv.org/abs/2610.20139v1)** | 2026-10-14 | 28 pages, 5 figures |
+| **[Sparse Transformer: a Controlled Testbed for Mechanistic Interpretability](https://arxiv.org/abs/2610.19907v1)** | 2026-10-14 |  |
+| **[Sparse Autoencoders Are a Shared Coordinate System for Symbolic Matching](https://arxiv.org/abs/2610.19636v1)** | 2026-10-14 |  |
+| **[Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders](https://arxiv.org/abs/2511.17735v3)** | 2026-10-13 |  |
 | **[Mechanistic Knobs in LLMs: Retrieving and Steering High-Order Semantic Features via Sparse Autoencoders](https://arxiv.org/abs/2601.02978v3)** | 2026-10-13 | <details><summary>The p...</summary><p>The paper has been substantially restructured, and the new version has been submitted as arXiv:2607.26853</p></details> |
 | **[Evaluating the Causal Faithfulness of SHAP as a Candidate Attribution Method for SAE Features](https://arxiv.org/abs/2610.17898v1)** | 2026-10-13 | <details><summary>24 pa...</summary><p>24 pages, 3 figures; to be submitted to International Journal of Secondary Computing and Applications Research</p></details> |
 | **[Confine to the Task, Anchor the Rest: Concept-Guided Retention Regularizer for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2610.17713v1)** | 2026-10-13 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs](https://arxiv.org/abs/2504.08192v3)** | 2026-10-10 | COLM 2025 |
 | **[Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models](https://arxiv.org/abs/2610.14190v1)** | 2026-10-09 |  |
 | **[A Coin Flip Per Token: Bernoulli Sparse Steering of Large Language Models](https://arxiv.org/abs/2607.05615v2)** | 2026-10-09 |  |
-| **[How Anthropomorphic Attitudes Toward Agents Divide User Behavior, and How Design Should Change](https://arxiv.org/abs/2610.13156v1)** | 2026-10-09 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. A version of this paper is under review for CHI 2027</p></details> |
-| **[Language Models Have Interpretable Narrative Mechanisms](https://arxiv.org/abs/2610.12989v1)** | 2026-10-09 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 16 tables</p></details> |
-| **[Sparse Dictionary Learning for Measure-Valued Data via Linearized Optimal Transport: Efficient Algorithms and Sample Complexity](https://arxiv.org/abs/2610.12924v1)** | 2026-10-09 |  |
-| **[The Alignment Veto: How Safety Training Suppresses Cultural Knowledge in LLMs](https://arxiv.org/abs/2510.13154v3)** | 2026-10-09 |  |
-| **[Scalable Circuit Learning for Interpreting Large Language Models](https://arxiv.org/abs/2606.16939v2)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of EMNLP 2026 (The 2026 Conference on Empirical Methods in Natural Language Processing)</p></details> |
 
