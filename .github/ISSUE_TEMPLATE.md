@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://arxiv.org/abs/2610.24738v1)** | 2026-10-17 | <details><summary>24 pa...</summary><p>24 pages, 13 figures. Includes appendices</p></details> |
 | **[SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors](https://arxiv.org/abs/2610.22640v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages,4 figures; includes appendix</p></details> |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v2)** | 2026-10-14 |  |
 | **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 | **[Live Architecture Models for Cloud-Native Architecture-as-Code: Early Results from Kubernetes Conformance Checking](https://arxiv.org/abs/2609.36148v1)** | 2026-09-28 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables. Code and evaluation artifacts: https://github.com/AsakoKabe/archer-kdl</p></details> |
 | **[eval-unlearn: Benchmarking unlearning in Text-to-Image Diffusion Models](https://arxiv.org/abs/2609.35269v1)** | 2026-09-28 |  |
-| **[Backdoor as Probe: Test-Time Adversarial Defense for CLIP](https://arxiv.org/abs/2609.34641v1)** | 2026-09-28 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FisherEdit: Fisher Information Guided Knowledge Editing for Large Language Models](https://arxiv.org/abs/2610.25914v1)** | 2026-10-19 |  |
 | **[Safety Alignment via Constrained Knowledge Unlearning](https://arxiv.org/abs/2505.18588v2)** | 2026-10-16 |  |
 | **[Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610v2)** | 2026-10-13 |  |
 | **[Do correct answers have stable latent knowledge support?](https://arxiv.org/abs/2610.15277v1)** | 2026-10-11 |  |
@@ -40,24 +41,23 @@ labels: documentation
 | **[ALOE: Semantically Addressed Low-Rank Operators for Knowledge Editing](https://arxiv.org/abs/2609.29269v1)** | 2026-09-24 |  |
 | **[The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning](https://arxiv.org/abs/2609.29045v1)** | 2026-09-24 |  |
 | **[Style-Debiased DPO: Updating LLM Knowledge with Factuality-Aware Synthetic Preference Data](https://arxiv.org/abs/2609.16532v1)** | 2026-09-15 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 13 tables</p></details> |
-| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Non-Gaussianity Reveals Interpretable Directions in Language Models](https://arxiv.org/abs/2606.11722v2)** | 2026-10-19 | <details><summary>This ...</summary><p>This version has been substantially revised from v1, with a comprehensive re-evaluation of the experiments and extensive additional experiments and analyses</p></details> |
+| **[Strength Controls Change How Interventions Compare Across Sparse Autoencoder Codes](https://arxiv.org/abs/2610.26489v1)** | 2026-10-19 | 35 pages, 8 figures |
+| **[No Matter Who You Are: Addressivity and Sycophancy in Large Language Models](https://arxiv.org/abs/2610.25728v1)** | 2026-10-19 | EMNLP 2026 |
+| **[From Black Box to Controller: Inference-Time Steering of LLM via Feature Amplification](https://arxiv.org/abs/2610.25700v1)** | 2026-10-19 |  |
+| **[SteerAct: Unlocking Action Models through Few-Shot Temporal Steering](https://arxiv.org/abs/2610.25632v1)** | 2026-10-19 |  |
+| **[A Symmetry-Matching Approach to Blind-Spot Reduction in Sparse Autoencoders](https://arxiv.org/abs/2610.24908v1)** | 2026-10-17 | <details><summary>https...</summary><p>https://openreview.net/forum?id=NWWpKC9CZH</p></details> |
+| **[From Stories to Features: Scaling Concept Vectors for AI Alignment & Interpretability](https://arxiv.org/abs/2610.24556v1)** | 2026-10-17 | <details><summary>51 pa...</summary><p>51 pages, 41 figures, 26 tables. Code: https://github.com/josephofthebread/Concept-Vector-Scaling</p></details> |
+| **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](https://arxiv.org/abs/2609.24243v2)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Camera-ready version; the behavioral loss is now written out term by term</p></details> |
+| **[Do LMs Know What Variables Do? Interpreting Code Representations via Variable Roles](https://arxiv.org/abs/2610.24118v1)** | 2026-10-16 | 46 pages, 25 figures |
 | **[Beyond SAEs: Consistent Concept Discovery with Sparse Coding](https://arxiv.org/abs/2610.23801v1)** | 2026-10-16 |  |
 | **[TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models](https://arxiv.org/abs/2607.04593v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
 | **[Native Geometry vs. Linear Recoverability: How Alignment Changes Platonic Scaling](https://arxiv.org/abs/2610.22749v1)** | 2026-10-15 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Accepted to NeurReps 2026 (NeurIPS Workshop on Symmetry and Geometry in Neural Representations), Extended Abstract track</p></details> |
 | **[Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies](https://arxiv.org/abs/2606.29171v2)** | 2026-10-15 |  |
 | **[AlignSAE: Concept-Aligned Sparse Autoencoders](https://arxiv.org/abs/2512.02004v4)** | 2026-10-15 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (08/2026). 36 pages, 18 figures, 12 tables. v2: adds an Errata section clarifying a few issues in the TMLR version</p></details> |
 | **[Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability](https://arxiv.org/abs/2610.22445v1)** | 2026-10-15 | <details><summary>accpe...</summary><p>accpeted in 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: XAI4Science: Knowledge Discovery and Trust through Interpretable Foundation Models</p></details> |
-| **[Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting](https://arxiv.org/abs/2610.22439v1)** | 2026-10-15 |  |
-| **[Behavioral Compositionality of Sparse Autoencoder Representations](https://arxiv.org/abs/2610.21261v1)** | 2026-10-15 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. Code: https://github.com/OpenSAE/SAE-Behavioral-Compositionality</p></details> |
-| **[Representation Redistribution in Sparse Autoencoders](https://arxiv.org/abs/2610.21240v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages, 15 figures. Code: https://github.com/OpenSAE/Redistribution-Sensitivity-Score</p></details> |
-| **[Mind the Tail: Data Selection Through Sparse Concepts](https://arxiv.org/abs/2610.21007v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project page: https://imageomics.github.io/mind-the-tail/</p></details> |
-| **[Readout Scaling Shapes Sparse Feature Recovery](https://arxiv.org/abs/2610.18462v2)** | 2026-10-14 |  |
-| **[Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility](https://arxiv.org/abs/2610.20680v1)** | 2026-10-14 |  |
-| **[Capability $\neq$ Interpretability: Human Interpretability of Vision Foundation Models](https://arxiv.org/abs/2605.20337v2)** | 2026-10-14 |  |
-| **[Sparse Autoencoders for Mechanistic Interpretability in NLP: A Critical Survey of Recoverability, Interpretability, and Utility](https://arxiv.org/abs/2610.20139v1)** | 2026-10-14 | 28 pages, 5 figures |
-| **[Sparse Transformer: a Controlled Testbed for Mechanistic Interpretability](https://arxiv.org/abs/2610.19907v1)** | 2026-10-14 |  |
 
