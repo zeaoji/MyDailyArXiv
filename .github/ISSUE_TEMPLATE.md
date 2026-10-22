@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,12 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
+| **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v4)** | 2026-10-21 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
+| **[StructLens: A Structural Lens for Language Models via Maximum Spanning Trees](https://arxiv.org/abs/2603.03328v3)** | 2026-10-21 | NeurIPS 2026 |
+| **[Feature Superposition in Neural Networks: From Theory to Practice](https://arxiv.org/abs/2609.06862v2)** | 2026-10-20 |  |
+| **[Tropical Cyclone Attributes in Sparse Autoencoder Features of an AI Weather Model](https://arxiv.org/abs/2610.28904v1)** | 2026-10-20 | <details><summary>22 pa...</summary><p>22 pages, 4 figures; supporting information included as an ancillary file. Submitted to Geophysical Research Letters</p></details> |
+| **[Where Do Legal Factors Live in LLMs?](https://arxiv.org/abs/2610.28799v1)** | 2026-10-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 2 tables. Accepted at JURIX 2026, the 39th International Conference on Legal Knowledge and Information Systems</p></details> |
 | **[Decision Sufficiency of Learned Representation Interfaces for Safe Generative Control](https://arxiv.org/abs/2610.27446v1)** | 2026-10-20 |  |
 | **[Communication Complexity of Universal Features](https://arxiv.org/abs/2610.27402v1)** | 2026-10-19 |  |
 | **[Shaped SAEs: Expanding the Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2610.27375v1)** | 2026-10-19 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[From Black Box to Controller: Inference-Time Steering of LLM via Feature Amplification](https://arxiv.org/abs/2610.25700v1)** | 2026-10-19 |  |
 | **[SteerAct: Unlocking Action Models through Few-Shot Temporal Steering](https://arxiv.org/abs/2610.25632v1)** | 2026-10-19 |  |
 | **[A Symmetry-Matching Approach to Blind-Spot Reduction in Sparse Autoencoders](https://arxiv.org/abs/2610.24908v1)** | 2026-10-17 | <details><summary>https...</summary><p>https://openreview.net/forum?id=NWWpKC9CZH</p></details> |
-| **[From Stories to Features: Scaling Concept Vectors for AI Alignment & Interpretability](https://arxiv.org/abs/2610.24556v1)** | 2026-10-17 | <details><summary>51 pa...</summary><p>51 pages, 41 figures, 26 tables. Code: https://github.com/josephofthebread/Concept-Vector-Scaling</p></details> |
-| **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](https://arxiv.org/abs/2609.24243v2)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Camera-ready version; the behavioral loss is now written out term by term</p></details> |
-| **[Do LMs Know What Variables Do? Interpreting Code Representations via Variable Roles](https://arxiv.org/abs/2610.24118v1)** | 2026-10-16 | 46 pages, 25 figures |
-| **[Beyond SAEs: Consistent Concept Discovery with Sparse Coding](https://arxiv.org/abs/2610.23801v1)** | 2026-10-16 |  |
-| **[TORINO: Token Reduction via Interpretable Concept Overlap in Vision-Language Models](https://arxiv.org/abs/2607.04593v2)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
-| **[Native Geometry vs. Linear Recoverability: How Alignment Changes Platonic Scaling](https://arxiv.org/abs/2610.22749v1)** | 2026-10-15 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Accepted to NeurReps 2026 (NeurIPS Workshop on Symmetry and Geometry in Neural Representations), Extended Abstract track</p></details> |
 
