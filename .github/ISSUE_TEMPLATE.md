@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2026
+title: Latest 15 Papers - October 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interpreting Model Reasoning through Behavioral Counterfactuals](https://arxiv.org/abs/2610.30630v1)** | 2026-10-22 |  |
 | **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v1)** | 2026-10-20 | WACV 2027 |
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v2)** | 2026-10-20 | EMNLP 2026 (Main) |
 | **[Target-Aware Curation of Hallucination Stress Tests for Large Language Models](https://arxiv.org/abs/2610.27247v1)** | 2026-10-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
 | **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 | **[FORGE: Verification-Gated Behavioral Repair for Generative Language Models](https://arxiv.org/abs/2610.05190v1)** | 2026-10-04 |  |
-| **[How Should Diffusion Language Models Edit Code?](https://arxiv.org/abs/2609.38257v1)** | 2026-09-29 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Xetrieval: Explaining Dense Retrieval through Feature Elicitation](https://arxiv.org/abs/2605.29507v2)** | 2026-10-22 | <details><summary>Code:...</summary><p>Code: https://github.com/Hihiczx/Xetrieval ; Project page: https://hihiczx.github.io/Xetrieval</p></details> |
+| **[Interpreting vision transformers via residual replacement model](https://arxiv.org/abs/2509.17401v2)** | 2026-10-22 |  |
+| **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v2)** | 2026-10-22 | <details><summary>53 pa...</summary><p>53 pages, 25 figures. Accepted at NeurIPS 2026</p></details> |
+| **[Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy](https://arxiv.org/abs/2610.30474v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations and Datasets Track). 92 pages. Code: https://github.com/ritengzhang77-max/SAE-AIU</p></details> |
+| **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v2)** | 2026-10-21 | Neurips 2026 |
 | **[Building Auditable AI Text Detectors with Sparse Autoencoders](https://arxiv.org/abs/2610.30006v1)** | 2026-10-21 | EMNLP 2026 |
 | **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v4)** | 2026-10-21 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[StructLens: A Structural Lens for Language Models via Maximum Spanning Trees](https://arxiv.org/abs/2603.03328v3)** | 2026-10-21 | NeurIPS 2026 |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Communication Complexity of Universal Features](https://arxiv.org/abs/2610.27402v1)** | 2026-10-19 |  |
 | **[Shaped SAEs: Expanding the Toolkit for Mechanistic Interpretability](https://arxiv.org/abs/2610.27375v1)** | 2026-10-19 |  |
 | **[Non-Gaussianity Reveals Interpretable Directions in Language Models](https://arxiv.org/abs/2606.11722v2)** | 2026-10-19 | <details><summary>This ...</summary><p>This version has been substantially revised from v1, with a comprehensive re-evaluation of the experiments and extensive additional experiments and analyses</p></details> |
-| **[Strength Controls Change How Interventions Compare Across Sparse Autoencoder Codes](https://arxiv.org/abs/2610.26489v1)** | 2026-10-19 | 35 pages, 8 figures |
-| **[No Matter Who You Are: Addressivity and Sycophancy in Large Language Models](https://arxiv.org/abs/2610.25728v1)** | 2026-10-19 | EMNLP 2026 |
-| **[From Black Box to Controller: Inference-Time Steering of LLM via Feature Amplification](https://arxiv.org/abs/2610.25700v1)** | 2026-10-19 |  |
-| **[SteerAct: Unlocking Action Models through Few-Shot Temporal Steering](https://arxiv.org/abs/2610.25632v1)** | 2026-10-19 |  |
-| **[A Symmetry-Matching Approach to Blind-Spot Reduction in Sparse Autoencoders](https://arxiv.org/abs/2610.24908v1)** | 2026-10-17 | <details><summary>https...</summary><p>https://openreview.net/forum?id=NWWpKC9CZH</p></details> |
 
