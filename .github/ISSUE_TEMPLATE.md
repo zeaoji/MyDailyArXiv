@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2026
+title: Latest 15 Papers - October 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
 | **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v4)** | 2026-10-23 |  |
 | **[Diagnosing and Mitigating Evidence Misgrounding in Multimodal Knowledge Editing](https://arxiv.org/abs/2610.33075v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 | **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
 | **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
-| **[Generalizable Lifelong Model Editing via Preference Optimization](https://arxiv.org/abs/2609.36748v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Survives Distillation? A Mechanistic Interpretability Study of GPT-2 and DistilGPT-2](https://arxiv.org/abs/2610.37157v1)** | 2026-10-27 | 5 Figure, 9 Table |
+| **[The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation](https://arxiv.org/abs/2610.36763v1)** | 2026-10-27 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
+| **[Structure, Not Sequence: Tracking and Validating Folding Mechanisms in ESMFold's Trunk with Sparse Autoencoders](https://arxiv.org/abs/2610.36226v1)** | 2026-10-26 |  |
+| **[DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (main track). Code: https://github.com/Artalmaz31/DifFRACT</p></details> |
 | **[Markovian Circuit Tracing: Ground-Truth Tests of Transformer State Abstractions](https://arxiv.org/abs/2605.20824v2)** | 2026-10-26 |  |
 | **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v3)** | 2026-10-26 | <details><summary>53 pa...</summary><p>53 pages, 25 figures. Accepted at NeurIPS 2026</p></details> |
 | **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v3)** | 2026-10-24 | <details><summary>21 pa...</summary><p>21 pages including appendix</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy](https://arxiv.org/abs/2610.30474v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations and Datasets Track). 92 pages. Code: https://github.com/ritengzhang/SAE-AIU</p></details> |
 | **[Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2610.32059v1)** | 2026-10-23 |  |
 | **[MI-MIDI 2: From Observation to Control with Sparse Autoencoders in Text-to-MIDI Generation](https://arxiv.org/abs/2610.32007v1)** | 2026-10-23 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 24 tables. Atlas with audio examples: https://jpocwiar.github.io/MI-MIDIv2-Demo/</p></details> |
-| **[TaxoSAE: Rethinking Sparse Autoencoders through Taxonomic Logic](https://arxiv.org/abs/2610.31894v1)** | 2026-10-22 |  |
-| **[Xetrieval: Explaining Dense Retrieval through Feature Elicitation](https://arxiv.org/abs/2605.29507v2)** | 2026-10-22 | <details><summary>Code:...</summary><p>Code: https://github.com/Hihiczx/Xetrieval ; Project page: https://hihiczx.github.io/Xetrieval</p></details> |
-| **[Interpreting vision transformers via residual replacement model](https://arxiv.org/abs/2509.17401v2)** | 2026-10-22 |  |
-| **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v2)** | 2026-10-21 | Neurips 2026 |
 
