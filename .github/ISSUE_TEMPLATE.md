@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2026
+title: Latest 15 Papers - October 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
+| **[The Code Behind the Layout: AI Agents for Analog Layout Generators](https://arxiv.org/abs/2610.38426v1)** | 2026-10-28 |  |
+| **[Decompose, Don't Expand: Capability-Independent AI Systems by Construction](https://arxiv.org/abs/2610.38144v1)** | 2026-10-28 |  |
+| **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v3)** | 2026-10-27 | WACV 2027 |
 | **[One-Shot Federated Model Editing for Device Dynamics at the Edge](https://arxiv.org/abs/2610.35212v1)** | 2026-10-26 | <details><summary>30 pa...</summary><p>30 pages, 7 figures. Accepted at IEEE Transactions on Networking</p></details> |
-| **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v2)** | 2026-10-23 | WACV 2027 |
 | **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v3)** | 2026-10-22 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 | **[Interpreting Model Reasoning through Behavioral Counterfactuals](https://arxiv.org/abs/2610.30630v1)** | 2026-10-22 |  |
 | **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v2)** | 2026-10-20 | EMNLP 2026 (Main) |
@@ -19,13 +22,12 @@ labels: documentation
 | **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
 | **[Generalizable Model Editing Could Be More Than Direct Generalization](https://arxiv.org/abs/2610.15707v1)** | 2026-10-11 |  |
 | **[ZOIF: Zeroth-Order Influence Function Estimation for LLM Data Selection Using Only Forward Passes](https://arxiv.org/abs/2610.15336v1)** | 2026-10-11 |  |
-| **[FACT: Fidelity-Aware Construction of Articulated Twins](https://arxiv.org/abs/2609.37067v2)** | 2026-10-09 |  |
-| **[Insights from Autoresearch for Solar Panel Segmentation](https://arxiv.org/abs/2610.10491v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at AutoML4EO 2026 (non-archival AutoML conference workshop). 4 pages + references. https://automl4eo.org/accepted-papers/</p></details> |
-| **[Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling](https://arxiv.org/abs/2605.13062v2)** | 2026-10-05 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v1)** | 2026-10-29 |  |
+| **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
 | **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
 | **[MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off](https://arxiv.org/abs/2603.12677v4)** | 2026-10-23 |  |
@@ -39,12 +41,15 @@ labels: documentation
 | **[FedAlphaEdit: Null-Space-Aligned Merging for Collaborative Knowledge Editing](https://arxiv.org/abs/2610.11033v1)** | 2026-10-08 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 8 tables. Includes appendices (proofs, implementation reconciliation, experimental details). Code: https://github.com/soutasuga/FedAlphaEdit</p></details> |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v3)** | 2026-10-02 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
-| **[Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs](https://arxiv.org/abs/2607.10803v2)** | 2026-09-29 |  |
-| **[Epistemic Typing as a PostgreSQL Table Access Method: Adversarial Conflict Resolution Under Confidence Forgery and Sybil Coordination](https://arxiv.org/abs/2609.36795v1)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 1 figure. Under review at PVLDB Volume 20. Code and benchmark artifacts: https://github.com/emailvenkatm/kndb (branch postgres-experiment)</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** | 2026-10-29 | Under review |
+| **[From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation](https://arxiv.org/abs/2607.21620v2)** | 2026-10-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Oral, SAC Highlight Award</p></details> |
+| **[Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/abs/2610.39205v1)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted at the 7th ACM International Conference on AI in Finance (ICAIF '26)</p></details> |
+| **[Reasoning or Pattern Exploitation? Mechanistic Insights from RL-Trained Language Models](https://arxiv.org/abs/2610.39182v1)** | 2026-10-29 |  |
+| **[From Error Prediction to Causal Influence: Auditing SAE Features in Multiple-Choice QA](https://arxiv.org/abs/2610.38067v1)** | 2026-10-27 |  |
 | **[What Survives Distillation? A Mechanistic Interpretability Study of GPT-2 and DistilGPT-2](https://arxiv.org/abs/2610.37157v1)** | 2026-10-27 | 5 Figure, 9 Table |
 | **[The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation](https://arxiv.org/abs/2610.36763v1)** | 2026-10-27 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
 | **[Structure, Not Sequence: Tracking and Validating Folding Mechanisms in ESMFold's Trunk with Sparse Autoencoders](https://arxiv.org/abs/2610.36226v1)** | 2026-10-26 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Detecting Temporal Concepts in Video Transformers via a No-False-Positives Test](https://arxiv.org/abs/2610.33353v1)** | 2026-10-23 | <details><summary>39 pa...</summary><p>39 pages, 1 figure, 23 tables</p></details> |
 | **[Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://arxiv.org/abs/2603.23794v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. 11 pages, 4 figures. Open access version: https://papers.miccai.org/miccai-2026/0976-Paper4497.html Code: https://github.com/pwesp/sail</p></details> |
 | **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](https://arxiv.org/abs/2609.24243v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Camera-ready version with layout cleanup; the behavioral loss is now written out term by term</p></details> |
-| **["Not" is Not Lost in Translation: A Causal Analysis of Negation Representations in Multilingual LLMs](https://arxiv.org/abs/2610.32281v1)** | 2026-10-23 | 29 pages, 20 figures |
-| **[Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems](https://arxiv.org/abs/2610.32208v1)** | 2026-10-23 | <details><summary>12 pa...</summary><p>12 pages (4 main pages + 8 pages appendix), 4 figures. Accepted at the Science of Physical AI Safety Workshop at the 2026 Conference on Robotic Learning (CoRL 2026, non-archival)</p></details> |
-| **[Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy](https://arxiv.org/abs/2610.30474v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (Evaluations and Datasets Track). 92 pages. Code: https://github.com/ritengzhang/SAE-AIU</p></details> |
-| **[Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders](https://arxiv.org/abs/2610.32059v1)** | 2026-10-23 |  |
-| **[MI-MIDI 2: From Observation to Control with Sparse Autoencoders in Text-to-MIDI Generation](https://arxiv.org/abs/2610.32007v1)** | 2026-10-23 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 24 tables. Atlas with audio examples: https://jpocwiar.github.io/MI-MIDIv2-Demo/</p></details> |
 
