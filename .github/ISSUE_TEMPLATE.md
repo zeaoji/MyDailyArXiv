@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2026
+title: Latest 15 Papers - November 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,10 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v2)** | 2026-10-30 | <details><summary>The S...</summary><p>The Science of Physical AI Safety Workshop at CoRL 2026</p></details> |
+| **[Mechanistic Interpretability for End-to-End Self-Driving](https://arxiv.org/abs/2610.41185v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to the Conference on Robot Learning (CoRL) 2026. Project page: https://mgagvani.github.io/mechanistic-interpretability-for-e2e-driving/</p></details> |
+| **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v3)** | 2026-10-30 | Neurips 2026 |
+| **[Sparse Autoencoders for Expert-Assisted Interpretation of Histopathology Foundation Model Embeddings](https://arxiv.org/abs/2610.40905v1)** | 2026-10-29 |  |
 | **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** | 2026-10-29 | Under review |
 | **[From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation](https://arxiv.org/abs/2607.21620v2)** | 2026-10-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Oral, SAC Highlight Award</p></details> |
 | **[Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/abs/2610.39205v1)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted at the 7th ACM International Conference on AI in Finance (ICAIF '26)</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (main track). Code: https://github.com/Artalmaz31/DifFRACT</p></details> |
 | **[Markovian Circuit Tracing: Ground-Truth Tests of Transformer State Abstractions](https://arxiv.org/abs/2605.20824v2)** | 2026-10-26 |  |
 | **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v3)** | 2026-10-26 | <details><summary>53 pa...</summary><p>53 pages, 25 figures. Accepted at NeurIPS 2026</p></details> |
-| **[Why Are Some Emotions Harder for LLMs? Uncovering the Causal Mechanisms of Emotion Inference via Sparse Autoencoders](https://arxiv.org/abs/2604.25866v3)** | 2026-10-24 | <details><summary>21 pa...</summary><p>21 pages including appendix</p></details> |
-| **[Detecting Temporal Concepts in Video Transformers via a No-False-Positives Test](https://arxiv.org/abs/2610.33353v1)** | 2026-10-23 | <details><summary>39 pa...</summary><p>39 pages, 1 figure, 23 tables</p></details> |
-| **[Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://arxiv.org/abs/2603.23794v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. 11 pages, 4 figures. Open access version: https://papers.miccai.org/miccai-2026/0976-Paper4497.html Code: https://github.com/pwesp/sail</p></details> |
-| **[Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](https://arxiv.org/abs/2609.24243v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Camera-ready version with layout cleanup; the behavioral loss is now written out term by term</p></details> |
 
