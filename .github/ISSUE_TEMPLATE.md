@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v1)** | 2026-11-02 | 22 pages, 7 figures |
+| **[Does reflective LLM feedback survive a wet-lab-scale label budget?](https://arxiv.org/abs/2611.01908v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agentic AI for Biological Discovery Workshop. OpenReview: https://openreview.net/forum?id=ezGV5BIXVJ</p></details> |
 | **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
 | **[The Code Behind the Layout: AI Agents for Analog Layout Generators](https://arxiv.org/abs/2610.38426v1)** | 2026-10-28 |  |
 | **[Decompose, Don't Expand: Capability-Independent AI Systems by Construction](https://arxiv.org/abs/2610.38144v1)** | 2026-10-28 |  |
@@ -20,13 +22,11 @@ labels: documentation
 | **[SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors](https://arxiv.org/abs/2610.22640v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages,4 figures; includes appendix</p></details> |
 | **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
 | **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
-| **[Generalizable Model Editing Could Be More Than Direct Generalization](https://arxiv.org/abs/2610.15707v1)** | 2026-10-11 |  |
-| **[ZOIF: Zeroth-Order Influence Function Estimation for LLM Data Selection Using Only Forward Passes](https://arxiv.org/abs/2610.15336v1)** | 2026-10-11 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v1)** | 2026-10-29 |  |
+| **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v2)** | 2026-11-02 |  |
 | **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
 | **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
@@ -45,19 +45,19 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Playing Dumb: How a Chess Transformer Simulates Users Across Skill Levels](https://arxiv.org/abs/2611.03439v1)** | 2026-11-02 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 3 tables</p></details> |
+| **[Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://arxiv.org/abs/2602.14111v2)** | 2026-11-02 |  |
+| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v3)** | 2026-11-01 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026. Added auxiliary results</p></details> |
+| **[Opening the Black Box of Neural Auction Mechanisms](https://arxiv.org/abs/2611.01981v1)** | 2026-11-01 |  |
+| **[Sonny-ENS: demystifying machine-learning ensemble weather forecasting](https://arxiv.org/abs/2611.01614v1)** | 2026-11-01 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 7 Extended Data figures and 3 Extended Data tables; Supplementary Information (4 figures, 2 tables) included</p></details> |
+| **[Information-Theoretic Design of Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2611.01378v1)** | 2026-11-01 |  |
+| **[Geometry of Confabulation and Refusal in Small Language Models](https://arxiv.org/abs/2611.01272v1)** | 2026-10-31 | <details><summary>35 pa...</summary><p>35 pages, 16 figures, 19 tables. Code, data, and the ConfabQA benchmark: https://github.com/vkazei/confabqa</p></details> |
+| **[Sparse Autoencoder Attribution Graphs Are Decided at the Margin](https://arxiv.org/abs/2611.00606v1)** | 2026-10-31 | 34 pages, 8 figures |
+| **[Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$](https://arxiv.org/abs/2611.00602v1)** | 2026-10-31 | <details><summary>Accep...</summary><p>Accepted to the Science of Physical AI Safety (SPAIS) Workshop at CoRL 2026. 6 pages, 2 figures</p></details> |
 | **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v2)** | 2026-10-30 | <details><summary>The S...</summary><p>The Science of Physical AI Safety Workshop at CoRL 2026</p></details> |
 | **[Mechanistic Interpretability for End-to-End Self-Driving](https://arxiv.org/abs/2610.41185v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to the Conference on Robot Learning (CoRL) 2026. Project page: https://mgagvani.github.io/mechanistic-interpretability-for-e2e-driving/</p></details> |
 | **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v3)** | 2026-10-30 | Neurips 2026 |
 | **[Sparse Autoencoders for Expert-Assisted Interpretation of Histopathology Foundation Model Embeddings](https://arxiv.org/abs/2610.40905v1)** | 2026-10-29 |  |
 | **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** | 2026-10-29 | Under review |
-| **[From Profiles to Steering Vectors: Global Sparse Priors and Local Semantic Calibration for Personalized Text Generation](https://arxiv.org/abs/2607.21620v2)** | 2026-10-29 | <details><summary>EMNLP...</summary><p>EMNLP2026 Oral, SAC Highlight Award</p></details> |
-| **[Sparse Autoencoders as Implicit Diversification Regularisers for Cross-Sectional Cryptocurrency Returns](https://arxiv.org/abs/2610.39205v1)** | 2026-10-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted at the 7th ACM International Conference on AI in Finance (ICAIF '26)</p></details> |
-| **[Reasoning or Pattern Exploitation? Mechanistic Insights from RL-Trained Language Models](https://arxiv.org/abs/2610.39182v1)** | 2026-10-29 |  |
-| **[From Error Prediction to Causal Influence: Auditing SAE Features in Multiple-Choice QA](https://arxiv.org/abs/2610.38067v1)** | 2026-10-27 |  |
-| **[What Survives Distillation? A Mechanistic Interpretability Study of GPT-2 and DistilGPT-2](https://arxiv.org/abs/2610.37157v1)** | 2026-10-27 | 5 Figure, 9 Table |
-| **[The Vocabulary Is Already Here: Adapting Pretrained Interpretable Features for Generative Recommendation](https://arxiv.org/abs/2610.36763v1)** | 2026-10-27 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables</p></details> |
-| **[Structure, Not Sequence: Tracking and Validating Folding Mechanisms in ESMFold's Trunk with Sparse Autoencoders](https://arxiv.org/abs/2610.36226v1)** | 2026-10-26 |  |
-| **[DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](https://arxiv.org/abs/2606.15796v2)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 (main track). Code: https://github.com/Artalmaz31/DifFRACT</p></details> |
-| **[Markovian Circuit Tracing: Ground-Truth Tests of Transformer State Abstractions](https://arxiv.org/abs/2605.20824v2)** | 2026-10-26 |  |
-| **[Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](https://arxiv.org/abs/2605.12122v3)** | 2026-10-26 | <details><summary>53 pa...</summary><p>53 pages, 25 figures. Accepted at NeurIPS 2026</p></details> |
 
