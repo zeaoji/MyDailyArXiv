@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment](https://arxiv.org/abs/2611.05287v1)** | 2026-11-03 |  |
+| **[Where Did the Update Go? Certifying Declared Change Envelopes for Model Updates](https://arxiv.org/abs/2611.04192v1)** | 2026-11-03 |  |
 | **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v2)** | 2026-11-02 |  |
 | **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
 | **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
@@ -39,12 +41,16 @@ labels: documentation
 | **[Do correct answers have stable latent knowledge support?](https://arxiv.org/abs/2610.15277v1)** | 2026-10-11 |  |
 | **[ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455v2)** | 2026-10-10 |  |
 | **[FedAlphaEdit: Null-Space-Aligned Merging for Collaborative Knowledge Editing](https://arxiv.org/abs/2610.11033v1)** | 2026-10-08 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 8 tables. Includes appendices (proofs, implementation reconciliation, experimental details). Code: https://github.com/soutasuga/FedAlphaEdit</p></details> |
-| **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v3)** | 2026-10-02 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
-| **[Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing](https://arxiv.org/abs/2610.02772v1)** | 2026-10-02 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Identifiable Sparse Autoencoders](https://arxiv.org/abs/2605.31245v2)** | 2026-11-03 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026. This version corrects the proof of Theorem 3.6; see Appendix</p></details> |
+| **[TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport](https://arxiv.org/abs/2611.04878v1)** | 2026-11-03 |  |
+| **[From Perturbation Sensitivity to Sparse Autoencoder Feature Interpretation: An EEG Foundation-Model Case Study](https://arxiv.org/abs/2609.34091v2)** | 2026-11-03 | <details><summary>Revis...</summary><p>Revised version with expanded experimental analysis and discussion of limitations</p></details> |
+| **[A Financial Brain Scan of the LLM](https://arxiv.org/abs/2508.21285v3)** | 2026-11-03 | 82 pages |
+| **[Follow the Features: SAE Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models](https://arxiv.org/abs/2611.04085v1)** | 2026-11-02 | 19 pages, 3 figures |
+| **[Dr. No: Feature Steering for Abstention in Vision-Language Models](https://arxiv.org/abs/2611.03862v1)** | 2026-11-02 |  |
 | **[Playing Dumb: How a Chess Transformer Simulates Users Across Skill Levels](https://arxiv.org/abs/2611.03439v1)** | 2026-11-02 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 3 tables</p></details> |
 | **[Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://arxiv.org/abs/2602.14111v2)** | 2026-11-02 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[Information-Theoretic Design of Sparse Autoencoder-Based Steering](https://arxiv.org/abs/2611.01378v1)** | 2026-11-01 |  |
 | **[Geometry of Confabulation and Refusal in Small Language Models](https://arxiv.org/abs/2611.01272v1)** | 2026-10-31 | <details><summary>35 pa...</summary><p>35 pages, 16 figures, 19 tables. Code, data, and the ConfabQA benchmark: https://github.com/vkazei/confabqa</p></details> |
 | **[Sparse Autoencoder Attribution Graphs Are Decided at the Margin](https://arxiv.org/abs/2611.00606v1)** | 2026-10-31 | 34 pages, 8 figures |
-| **[Editing the Goal: Per-Token SAE Steering and Its Depth Limits in $π_{0.5}$](https://arxiv.org/abs/2611.00602v1)** | 2026-10-31 | <details><summary>Accep...</summary><p>Accepted to the Science of Physical AI Safety (SPAIS) Workshop at CoRL 2026. 6 pages, 2 figures</p></details> |
-| **[Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models](https://arxiv.org/abs/2610.03498v2)** | 2026-10-30 | <details><summary>The S...</summary><p>The Science of Physical AI Safety Workshop at CoRL 2026</p></details> |
-| **[Mechanistic Interpretability for End-to-End Self-Driving](https://arxiv.org/abs/2610.41185v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted to the Conference on Robot Learning (CoRL) 2026. Project page: https://mgagvani.github.io/mechanistic-interpretability-for-e2e-driving/</p></details> |
-| **[Semantic Optimal Transport for Sparse Autoencoder Feature Matching and Circuit Compression](https://arxiv.org/abs/2605.28567v3)** | 2026-10-30 | Neurips 2026 |
-| **[Sparse Autoencoders for Expert-Assisted Interpretation of Histopathology Foundation Model Embeddings](https://arxiv.org/abs/2610.40905v1)** | 2026-10-29 |  |
-| **[Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models](https://arxiv.org/abs/2610.40505v1)** | 2026-10-29 | Under review |
 
