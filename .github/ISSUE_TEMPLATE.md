@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2026
+title: Latest 15 Papers - November 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
 | **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v1)** | 2026-11-02 | 22 pages, 7 figures |
 | **[Does reflective LLM feedback survive a wet-lab-scale label budget?](https://arxiv.org/abs/2611.01908v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agentic AI for Biological Discovery Workshop. OpenReview: https://openreview.net/forum?id=ezGV5BIXVJ</p></details> |
 | **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Editing Images into Reusable Layers via Compositional Edit-Prior Distillation](https://arxiv.org/abs/2610.24738v1)** | 2026-10-17 | <details><summary>24 pa...</summary><p>24 pages, 13 figures. Includes appendices</p></details> |
 | **[SAFETYEDIT: Sparse Internal Targets with Prompt-Wide Control for LLM Jailbreak Backdoors](https://arxiv.org/abs/2610.22640v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages,4 figures; includes appendix</p></details> |
 | **[Temporal Adaptive Fine-Tuning for Code Comprehension](https://arxiv.org/abs/2610.19970v1)** | 2026-10-14 |  |
-| **[From Spectral Saliency to Finite Deletion: Evaluating Selective Language Model Edits](https://arxiv.org/abs/2610.18098v1)** | 2026-10-13 | 25 pages, 9 figures |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v1)** | 2026-11-05 |  |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v4)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Conference</p></details> |
 | **[Editing Large Language Models with Geometry-Aware Regularization](https://arxiv.org/abs/2611.06185v1)** | 2026-11-04 | <details><summary>10 pa...</summary><p>10 pages for main contents</p></details> |
 | **[Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment](https://arxiv.org/abs/2611.05287v1)** | 2026-11-03 |  |
@@ -40,11 +41,16 @@ labels: documentation
 | **[FisherEdit: Fisher Information Guided Knowledge Editing for Large Language Models](https://arxiv.org/abs/2610.25914v1)** | 2026-10-19 |  |
 | **[Safety Alignment via Constrained Knowledge Unlearning](https://arxiv.org/abs/2505.18588v2)** | 2026-10-16 |  |
 | **[Revisiting Ripple Effects in Knowledge Editing through Pressure-Aware Joint Neighborhood Optimization](https://arxiv.org/abs/2606.01610v2)** | 2026-10-13 |  |
-| **[Do correct answers have stable latent knowledge support?](https://arxiv.org/abs/2610.15277v1)** | 2026-10-11 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[User Embeddings are Superpositions of Interpretable Behavioral Modes](https://arxiv.org/abs/2611.08487v1)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Teach the Way It Thinks: Guiding LLM Post-training Data Engineering with Sparse Autoencoders](https://arxiv.org/abs/2605.27354v2)** | 2026-11-05 |  |
+| **[SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization](https://arxiv.org/abs/2611.08089v1)** | 2026-11-05 |  |
+| **[Scaling Laws for SAE Training Data](https://arxiv.org/abs/2611.07756v1)** | 2026-11-05 |  |
+| **[Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies](https://arxiv.org/abs/2605.17204v2)** | 2026-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2026 camera-ready version</p></details> |
+| **[Encoding and Propagation of Grammatical Number in Large Language Models](https://arxiv.org/abs/2611.07283v1)** | 2026-11-05 | 50 pages, 19 figures |
 | **[Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs](https://arxiv.org/abs/2611.06848v1)** | 2026-11-04 | 26 pages, 14 figures |
 | **[Don't Replace, Complement: A Detector-Agnostic Subspace Signal for Near-OOD Detection](https://arxiv.org/abs/2611.06688v1)** | 2026-11-04 |  |
 | **[Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift](https://arxiv.org/abs/2605.21849v2)** | 2026-11-04 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[From Activation to Intervention: Interpreting Sparse Visual Features through Reconstruction](https://arxiv.org/abs/2611.05522v1)** | 2026-11-03 | <details><summary>Demo ...</summary><p>Demo and code available at https://imageomics.github.io/RecSAEI</p></details> |
 | **[Toward Identifiable Sparse Autoencoders](https://arxiv.org/abs/2605.31245v2)** | 2026-11-03 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026. This version corrects the proof of Theorem 3.6; see Appendix</p></details> |
 | **[From Perturbation Sensitivity to Sparse Autoencoder Feature Interpretation: An EEG Foundation-Model Case Study](https://arxiv.org/abs/2609.34091v2)** | 2026-11-03 | <details><summary>Revis...</summary><p>Revised version with expanded experimental analysis and discussion of limitations</p></details> |
-| **[Follow the Features: SAE Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models](https://arxiv.org/abs/2611.04085v1)** | 2026-11-02 | 19 pages, 3 figures |
-| **[Dr. No: Feature Steering for Abstention in Vision-Language Models](https://arxiv.org/abs/2611.03862v1)** | 2026-11-02 |  |
-| **[Playing Dumb: How a Chess Transformer Simulates Users Across Skill Levels](https://arxiv.org/abs/2611.03439v1)** | 2026-11-02 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, 3 tables</p></details> |
-| **[Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](https://arxiv.org/abs/2611.03420v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](https://arxiv.org/abs/2602.14111v2)** | 2026-11-02 |  |
-| **[Activation-Based Active Learning for In-Context Learning: Challenges and Insights](https://arxiv.org/abs/2606.05134v3)** | 2026-11-01 | <details><summary>Insig...</summary><p>Insights workshop at EMNLP 2026. Added auxiliary results</p></details> |
 
