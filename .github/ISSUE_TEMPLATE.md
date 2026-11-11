@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2026
+title: Latest 15 Papers - November 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -30,6 +30,7 @@ labels: documentation
 | **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v2)** | 2026-11-09 |  |
 | **[TANSAR: Editable and Attributable Correlation Matrix Memories under Correlated Keys, with Rule-Constrained Multi-Hop Knowledge Editing](https://arxiv.org/abs/2611.12374v1)** | 2026-11-09 |  |
 | **[DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](https://arxiv.org/abs/2610.34768v2)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted by main conference of NeurIPS 2026 (poster)</p></details> |
+| **[Capacity Allocation at the Source: Sparse Target Optimization for LLM Knowledge Editing](https://arxiv.org/abs/2611.12995v1)** | 2026-11-08 | neurips2026 |
 | **[On the Geometric Bottlenecks of Cross-Lingual Knowledge Editing](https://arxiv.org/abs/2611.10646v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450v1)** | 2026-11-07 |  |
 | **[ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](https://arxiv.org/abs/2611.09770v1)** | 2026-11-06 |  |
@@ -40,11 +41,14 @@ labels: documentation
 | **[Where Did the Update Go? Certifying Declared Change Envelopes for Model Updates](https://arxiv.org/abs/2611.04192v1)** | 2026-11-03 |  |
 | **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v2)** | 2026-11-02 |  |
 | **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
-| **[Parallel Universes for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v3)** | 2026-10-26 | <details><summary>accep...</summary><p>accepted to NeurIPS 2026 Main Conference, 10 pages</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v2)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
+| **[Representational Atoms in Neural Networks](https://arxiv.org/abs/2611.14168v1)** | 2026-11-10 |  |
+| **[Massive Activations Confound Sparse Autoencoders](https://arxiv.org/abs/2611.13548v1)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (poster). Code: https://github.com/nathandelisle/massive-saes. SAEs: https://huggingface.co/nathandelisle/massive-saes</p></details> |
+| **[Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437v4)** | 2026-11-09 |  |
 | **[OrigaMI: An LLM Serving System with First-Class Interpretability Apps](https://arxiv.org/abs/2607.22595v2)** | 2026-11-09 |  |
 | **[Decomposing Earth Embeddings with Sparse Autoencoders](https://arxiv.org/abs/2611.11398v1)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/EarthyScience/geosae</p></details> |
 | **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 37 pages, 2 figures, 28 tables</p></details> |
@@ -55,9 +59,5 @@ labels: documentation
 | **[Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](https://arxiv.org/abs/2608.26090v2)** | 2026-11-06 | <details><summary>Submi...</summary><p>Submitted to SciPost Physics</p></details> |
 | **[Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](https://arxiv.org/abs/2606.06333v2)** | 2026-11-06 |  |
 | **[What Does a Sparse Autoencoder Feature Do? A Weight-Based Account](https://arxiv.org/abs/2601.22447v2)** | 2026-11-06 | NeurIPS 2026 |
-| **[Calibrated concept profiles: making the reading of a model's neurons a measurement](https://arxiv.org/abs/2611.09196v1)** | 2026-11-06 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 11 tables. Dataset: AtlasOpenCoder, tag v1, doi:10.57967/hf/11472. Code: https://github.com/piotrwilam/AtlasCalibratedConceptProfiles</p></details> |
-| **[Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data](https://arxiv.org/abs/2611.08922v1)** | 2026-11-06 |  |
-| **[SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery](https://arxiv.org/abs/2611.08790v1)** | 2026-11-05 | <details><summary>Prepr...</summary><p>Preprint (15 pages, 11 figures, 11 tables)</p></details> |
-| **[Follow the Features: SAE Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models](https://arxiv.org/abs/2611.04085v2)** | 2026-11-05 | <details><summary>19 pa...</summary><p>19 pages, 3 figures; Code available at https://github.com/ryanaswift7/follow_the_features</p></details> |
-| **[Language Defaults Before Content: A Causal Layer Map of Multilingual Generation](https://arxiv.org/abs/2611.12538v1)** | 2026-11-05 |  |
+| **[Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring](https://arxiv.org/abs/2611.12935v1)** | 2026-11-06 | 22 pages |
 
