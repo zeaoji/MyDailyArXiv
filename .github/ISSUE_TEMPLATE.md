@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2026
+title: Latest 15 Papers - November 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features](https://arxiv.org/abs/2602.10437v4)** | 2026-11-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 31 pages, 24 figures, 12 tables</p></details> |
+| **[Data-Efficient LLM Safety Alignment Guided by Interpretable Features](https://arxiv.org/abs/2611.16183v1)** | 2026-11-12 | 36 pages, 16 figures |
+| **[DUNE: Disentangling Polysemantic Neurons Without Losing Predictive Performance](https://arxiv.org/abs/2605.31304v2)** | 2026-11-11 | Preprint |
+| **[Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](https://arxiv.org/abs/2609.35890v2)** | 2026-11-11 | <details><summary>Under...</summary><p>Under review at ICLR 2027. 22 pages, 6 figures, 13 tables. v2: adds 90%/95% circuit crossings for the full adversarial-strength sweep and a second corpus; new overview figure</p></details> |
+| **[Interpreting Brain Responses to Language with Sparse Features from Language Models](https://arxiv.org/abs/2606.06857v3)** | 2026-11-11 |  |
 | **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v2)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 | **[Representational Atoms in Neural Networks](https://arxiv.org/abs/2611.14168v1)** | 2026-11-10 |  |
 | **[Massive Activations Confound Sparse Autoencoders](https://arxiv.org/abs/2611.13548v1)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (poster). Code: https://github.com/nathandelisle/massive-saes. SAEs: https://huggingface.co/nathandelisle/massive-saes</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[User Embeddings are Superpositions of Interpretable Behavioral Modes](https://arxiv.org/abs/2611.08487v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 30 pages, 3 figures, 14 tables</p></details> |
 | **[Learning a Unified Cross-Model Semantic Dictionary via Gated Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2611.10503v1)** | 2026-11-07 | <details><summary>The 4...</summary><p>The 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
 | **[Mechanistic Interpretability with Sparse Autoencoder Neural Operators](https://arxiv.org/abs/2509.03738v5)** | 2026-11-07 | <details><summary>Toloo...</summary><p>Tolooshams and Shen has equal contribution. Preprint. Accepted to NeurIPS 2026. Earlier version was presented as Oral and Extended Abstract at the Workshop on Unifying Representations in Neural Models (UniReps) at NeurIPS 2025</p></details> |
-| **[Detecting and Explaining Robot Policy Failures from Sparse Internal Features](https://arxiv.org/abs/2611.10400v1)** | 2026-11-07 |  |
-| **[Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](https://arxiv.org/abs/2608.26090v2)** | 2026-11-06 | <details><summary>Submi...</summary><p>Submitted to SciPost Physics</p></details> |
-| **[Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](https://arxiv.org/abs/2606.06333v2)** | 2026-11-06 |  |
-| **[What Does a Sparse Autoencoder Feature Do? A Weight-Based Account](https://arxiv.org/abs/2601.22447v2)** | 2026-11-06 | NeurIPS 2026 |
-| **[Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring](https://arxiv.org/abs/2611.12935v1)** | 2026-11-06 | 22 pages |
 
