@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2026
+title: Latest 10 Papers - November 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,16 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generalized Influence Functions for Better Model Change Estimates](https://arxiv.org/abs/2312.05586v3)** | 2026-11-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 34 pages, 7 figures, and 5 tables</p></details> |
-| **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450v1)** | 2026-11-07 |  |
-| **[Segmenting Geometric Textures of 3D Meshes](https://arxiv.org/abs/2611.08897v1)** | 2026-11-06 | <details><summary>Pacif...</summary><p>Pacific Graphics 2026</p></details> |
-| **[CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing](https://arxiv.org/abs/2603.19297v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
-| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v1)** | 2026-11-02 | 22 pages, 7 figures |
-| **[Does reflective LLM feedback survive a wet-lab-scale label budget?](https://arxiv.org/abs/2611.01908v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Agentic AI for Biological Discovery Workshop. OpenReview: https://openreview.net/forum?id=ezGV5BIXVJ</p></details> |
-| **[BrainSurgery: Reproducible and Flexible Declarative Weight Manipulations for Model Editing and Upcycling](https://arxiv.org/abs/2606.09707v2)** | 2026-10-28 |  |
-| **[The Code Behind the Layout: AI Agents for Analog Layout Generators](https://arxiv.org/abs/2610.38426v1)** | 2026-10-28 |  |
-| **[Decompose, Don't Expand: Capability-Independent AI Systems by Construction](https://arxiv.org/abs/2610.38144v1)** | 2026-10-28 |  |
-| **[Attractive Faces Skew Text-to-Image Reward Models and Leaderboards](https://arxiv.org/abs/2610.28195v3)** | 2026-10-27 | WACV 2027 |
-| **[One-Shot Federated Model Editing for Device Dynamics at the Edge](https://arxiv.org/abs/2610.35212v1)** | 2026-10-26 | <details><summary>30 pa...</summary><p>30 pages, 7 figures. Accepted at IEEE Transactions on Networking</p></details> |
-| **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v3)** | 2026-10-22 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[Interpreting Model Reasoning through Behavioral Counterfactuals](https://arxiv.org/abs/2610.30630v1)** | 2026-10-22 |  |
-| **[When Models Edit Too Much: On the Fidelity of Minimal Code Edits](https://arxiv.org/abs/2609.04061v2)** | 2026-10-20 | EMNLP 2026 (Main) |
-| **[Target-Aware Curation of Hallucination Stress Tests for Large Language Models](https://arxiv.org/abs/2610.27247v1)** | 2026-10-19 |  |
+| **[Decoupled Knowledge Retrieval and Compact Memory Enable Reliable Lifelong Model Editing](https://arxiv.org/abs/2611.25861v1)** | 2026-11-19 | 18 pages, 9 figures |
+| **[Weight Space Programming for Vision Language Model Repair](https://arxiv.org/abs/2611.23615v2)** | 2026-11-19 |  |
+| **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885v2)** | 2026-11-18 |  |
+| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v2)** | 2026-11-17 | 22 pages, 7 figures |
+| **[Learning to Edit IFC Building Models: Verifiable Checkers as the Training Signal for Dependency-Aware Editing Agents](https://arxiv.org/abs/2611.22307v1)** | 2026-11-17 |  |
+| **[Weight-space programming for tractor guidance controller: large language models natively write neural network weights that steer a real tractor](https://arxiv.org/abs/2611.21958v1)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 8 tables (1 in the appendices); includes a field test on a real tractor</p></details> |
+| **[Can AI Mature a Model's Geometry? Training-Free Weight Baking in LLMs](https://arxiv.org/abs/2611.21310v1)** | 2026-11-16 |  |
+| **[Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks](https://arxiv.org/abs/2611.21702v1)** | 2026-11-16 |  |
+| **[One-Shot Calibration via Model Editing](https://arxiv.org/abs/2611.20562v1)** | 2026-11-16 |  |
+| **[Can Agentic LLMs Write Task-Based Parallel Code? A Study of OpenMP Tasking, HPX, StarPU and TTG](https://arxiv.org/abs/2611.19105v1)** | 2026-11-14 | <details><summary>Will ...</summary><p>Will be published at WAMTA2027</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -36,28 +31,60 @@ labels: documentation
 | **[ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](https://arxiv.org/abs/2611.09770v1)** | 2026-11-06 |  |
 | **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Conference</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v4)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Conference</p></details> |
-| **[Editing Large Language Models with Geometry-Aware Regularization](https://arxiv.org/abs/2611.06185v1)** | 2026-11-04 | <details><summary>10 pa...</summary><p>10 pages for main contents</p></details> |
-| **[Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment](https://arxiv.org/abs/2611.05287v1)** | 2026-11-03 |  |
-| **[Where Did the Update Go? Certifying Declared Change Envelopes for Model Updates](https://arxiv.org/abs/2611.04192v1)** | 2026-11-03 |  |
-| **[KARMA: Training-Free Knowledge-Atomic Harness Evolution for Industrial Advertising Agents](https://arxiv.org/abs/2610.39884v2)** | 2026-11-02 |  |
-| **[Evaluating Cultural Knowledge Editing in Vision-Language Models](https://arxiv.org/abs/2610.39602v1)** | 2026-10-29 |  |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features](https://arxiv.org/abs/2602.10437v4)** | 2026-11-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 31 pages, 24 figures, 12 tables</p></details> |
-| **[Data-Efficient LLM Safety Alignment Guided by Interpretable Features](https://arxiv.org/abs/2611.16183v1)** | 2026-11-12 | 36 pages, 16 figures |
-| **[DUNE: Disentangling Polysemantic Neurons Without Losing Predictive Performance](https://arxiv.org/abs/2605.31304v2)** | 2026-11-11 | Preprint |
-| **[Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](https://arxiv.org/abs/2609.35890v2)** | 2026-11-11 | <details><summary>Under...</summary><p>Under review at ICLR 2027. 22 pages, 6 figures, 13 tables. v2: adds 90%/95% circuit crossings for the full adversarial-strength sweep and a second corpus; new overview figure</p></details> |
-| **[Interpreting Brain Responses to Language with Sparse Features from Language Models](https://arxiv.org/abs/2606.06857v3)** | 2026-11-11 |  |
-| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v2)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[Representational Atoms in Neural Networks](https://arxiv.org/abs/2611.14168v1)** | 2026-11-10 |  |
-| **[Massive Activations Confound Sparse Autoencoders](https://arxiv.org/abs/2611.13548v1)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (poster). Code: https://github.com/nathandelisle/massive-saes. SAEs: https://huggingface.co/nathandelisle/massive-saes</p></details> |
-| **[Tracing Moral Foundations in Large Language Models](https://arxiv.org/abs/2601.05437v4)** | 2026-11-09 |  |
-| **[OrigaMI: An LLM Serving System with First-Class Interpretability Apps](https://arxiv.org/abs/2607.22595v2)** | 2026-11-09 |  |
-| **[Decomposing Earth Embeddings with Sparse Autoencoders](https://arxiv.org/abs/2611.11398v1)** | 2026-11-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/EarthyScience/geosae</p></details> |
-| **[Signed-Permutation Coordinate Transport for RMSNorm Transformers](https://arxiv.org/abs/2606.31963v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 37 pages, 2 figures, 28 tables</p></details> |
-| **[User Embeddings are Superpositions of Interpretable Behavioral Modes](https://arxiv.org/abs/2611.08487v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 30 pages, 3 figures, 14 tables</p></details> |
-| **[Learning a Unified Cross-Model Semantic Dictionary via Gated Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2611.10503v1)** | 2026-11-07 | <details><summary>The 4...</summary><p>The 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[Mechanistic Interpretability with Sparse Autoencoder Neural Operators](https://arxiv.org/abs/2509.03738v5)** | 2026-11-07 | <details><summary>Toloo...</summary><p>Tolooshams and Shen has equal contribution. Preprint. Accepted to NeurIPS 2026. Earlier version was presented as Oral and Extended Abstract at the Workshop on Unifying Representations in Neural Models (UniReps) at NeurIPS 2025</p></details> |
+| **[Gradients for Interventions and Activation Values for Detection: Targeted Feature Learning in Language Models](https://arxiv.org/abs/2609.32355v2)** | 2026-11-19 |  |
+| **[Persistent Sparse Autoencoders: Learning Feature-Specific Timescales in Language Model Representations](https://arxiv.org/abs/2607.17117v3)** | 2026-11-19 |  |
+| **[Rational Sparse Autoencoder](https://arxiv.org/abs/2606.14990v4)** | 2026-11-19 | <details><summary>v2: M...</summary><p>v2: M. Tang and A. Townsend added as co-authors; new theoretical analysis (Section 3, Appendix A); revised algorithm (Section 4, Appendix B.1); enhanced experiments (Section 5, Appendix B); v1 by N. Yin and Y. Yu</p></details> |
+| **[SRED: Sparse Regional Evidence Distillation Across Magnifications in Whole-Slide Imaging](https://arxiv.org/abs/2611.22189v2)** | 2026-11-18 | CVPR 2027 submission |
+| **[Separating Interpretability and Reconstruction in Sparse Autoencoders](https://arxiv.org/abs/2611.25165v1)** | 2026-11-18 | <details><summary>Code:...</summary><p>Code: https://github.com/AtlasAnalyticsLab/DualSAE</p></details> |
+| **[Auditing Learned Dynamics in Weather Models](https://arxiv.org/abs/2611.25119v1)** | 2026-11-18 |  |
+| **[GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits](https://arxiv.org/abs/2611.24619v1)** | 2026-11-18 | 23 pages |
+| **[Language Model Security Modules: Turning LLM Interpretability into Runtime Defense](https://arxiv.org/abs/2608.25697v2)** | 2026-11-18 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, 6 tables. Code: https://github.com/xiuyuz/LMSM</p></details> |
+| **[Transferable Named Sparse Features for Morphology-based Gleason Grading](https://arxiv.org/abs/2611.24363v1)** | 2026-11-18 |  |
+| **[Explanations that Transfer: Interpreting Medical Retrieval with Sparse AutoEncoders](https://arxiv.org/abs/2611.18179v3)** | 2026-11-18 | <details><summary>Proce...</summary><p>Proceedings of Machine Learning Research 346, 2026 (Machine Learning for Health, ML4H 2026). Code: https://github.com/doctolib-lab/doctosae</p></details> |
+
+## Agent Memory
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[MemFolder: Structure-Guided Memory Folding for Efficient Agent Memory Management](https://arxiv.org/abs/2611.26427v1)** | 2026-11-19 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xuyang-liu16/MemFolder</p></details> |
+| **[How Much Should an Agent Remember? Deployment Lessons from Self-Distilled Memory for LLM Agents](https://arxiv.org/abs/2611.26361v1)** | 2026-11-19 | <details><summary>Accep...</summary><p>Accepted to IAAI 2027 (Oral)</p></details> |
+| **[UpliftMem: Learning Set-Level Uplift for Agent Memory Retrieval](https://arxiv.org/abs/2609.36805v2)** | 2026-11-19 |  |
+| **[Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents](https://arxiv.org/abs/2611.25123v1)** | 2026-11-18 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 6 tables. Ziyan Yang and Taiwei Shi contributed equally</p></details> |
+| **[Resolution as Attention for Efficient Agent Memory Perception](https://arxiv.org/abs/2611.24422v1)** | 2026-11-18 |  |
+| **[MemoSync: Co-Managing Developer-Agent Metamemory Across Contexts](https://arxiv.org/abs/2611.24165v1)** | 2026-11-18 |  |
+| **[Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents](https://arxiv.org/abs/2611.22245v2)** | 2026-11-18 |  |
+| **[Jetriever: Shifting Agent Memory Retrieval from Similarity to Utility](https://arxiv.org/abs/2611.21478v2)** | 2026-11-18 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 8 tables. Project repository: https://github.com/imlrz/Jetriever</p></details> |
+| **[ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents](https://arxiv.org/abs/2611.23588v1)** | 2026-11-17 | <details><summary>16 pa...</summary><p>16 pages (8 main), 7 figures, 12 tables</p></details> |
+| **[Surfacing Disagreement Beats Resolving It: A Gated Ablation Study of Provenance-Weighted Memory for Multi-Agent Debate](https://arxiv.org/abs/2611.22461v1)** | 2026-11-17 |  |
+
+## Parametric Memory
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Some Memories Must Fade: Persistence and Decay of User Memories in Model Parameters](https://arxiv.org/abs/2611.25235v1)** | 2026-11-18 | 30 pages, 8 figures |
+| **[RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents](https://arxiv.org/abs/2609.23466v4)** | 2026-11-18 | <details><summary>45 pa...</summary><p>45 pages, 7 figures. Code: https://github.com/Quark-Medical/rpmem/tree/main</p></details> |
+| **[MIRAGE: A Framework for Multi-hop Reasoning under Dynamic Knowledge Injection](https://arxiv.org/abs/2611.24058v1)** | 2026-11-18 | <details><summary>Submi...</summary><p>Submitted to COLING 2027. 15 pages, 5 figures</p></details> |
+| **[MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825v3)** | 2026-11-17 | <details><summary>66 pa...</summary><p>66 pages, 14 figures, 16 tables</p></details> |
+| **[Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity](https://arxiv.org/abs/2607.07386v2)** | 2026-11-16 |  |
+| **[Instant Weight-Space Consolidation for Long-Term Memory in LLMs](https://arxiv.org/abs/2611.20759v1)** | 2026-11-16 |  |
+| **[AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition](https://arxiv.org/abs/2604.12735v3)** | 2026-11-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
+| **[Prompt-Based Abstention Fails Under Misleading Context: A Controlled Study of Small Frozen RAG Models](https://arxiv.org/abs/2608.22228v2)** | 2026-11-12 | <details><summary>19 pa...</summary><p>19 pages. Published in AACL-IJCNLP 2026 (Main Conference). Code and data: https://github.com/andre44s/grab-rag</p></details> |
+| **[Cited but Unused: Parametric Provenance in Retrieval-Augmented Generation](https://arxiv.org/abs/2611.17161v1)** | 2026-11-12 |  |
+| **[Staying In Character: Role-Playing Agents with Perspective-Bounded Memory](https://arxiv.org/abs/2606.25632v2)** | 2026-11-09 |  |
+
+## Long-Term Memory
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[MemMend: A Selective Revision Framework for Memory Question Answering](https://arxiv.org/abs/2611.25721v1)** | 2026-11-19 |  |
+| **[STARK: Moving towards Personalized Agents That Truly Learn and Remember](https://arxiv.org/abs/2611.25705v1)** | 2026-11-19 |  |
+| **[RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents](https://arxiv.org/abs/2609.23466v4)** | 2026-11-18 | <details><summary>45 pa...</summary><p>45 pages, 7 figures. Code: https://github.com/Quark-Medical/rpmem/tree/main</p></details> |
+| **[Twists and Turns: A Graph-Based Benchmark and Framework for Long-Term Memory in Exploration Tasks](https://arxiv.org/abs/2611.06414v2)** | 2026-11-18 | 30 pages, 5 figures |
+| **[Weighing the Envelope: Component Weight and Arbitration in Envelope-Layer Defenses for a Single LLM Agent](https://arxiv.org/abs/2611.23844v1)** | 2026-11-18 |  |
+| **[Colombo: A Frontier-to-Frontier Autoresearch System for Oracle-Based Optimization](https://arxiv.org/abs/2611.23080v1)** | 2026-11-17 |  |
+| **[CutAgent: Creative-Gene-Driven Planning and Experience-Guided Self-Refinement for High-CTR E-commerce Advertising Video Creation](https://arxiv.org/abs/2611.22418v1)** | 2026-11-17 |  |
+| **[RegimeCouncil: Paired-Evidence Routing For Memory Conflict Governance In LLM Agents](https://arxiv.org/abs/2611.22113v1)** | 2026-11-17 |  |
+| **[KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants](https://arxiv.org/abs/2611.21998v1)** | 2026-11-16 | 45 pages |
+| **[Instant Weight-Space Consolidation for Long-Term Memory in LLMs](https://arxiv.org/abs/2611.20759v1)** | 2026-11-16 |  |
 
