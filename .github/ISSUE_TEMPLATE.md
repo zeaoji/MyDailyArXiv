@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 26, 2026
+title: Latest 10 Papers - November 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Few-Shot Adaptation of Vision-Language Models via Agentic Model Editing](https://arxiv.org/abs/2611.34036v1)** | 2026-11-25 |  |
+| **[Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification and Generation](https://arxiv.org/abs/2412.16780v5)** | 2026-11-24 |  |
 | **[Editable Video Context: Mid-Context KV-Cache Reuse for Context-Managing Video LLMs](https://arxiv.org/abs/2611.18718v2)** | 2026-11-24 |  |
 | **[HOSE: Hierarchical Orthogonal Subspace Erasure for Concept Unlearning in Diffusion Models](https://arxiv.org/abs/2611.30592v1)** | 2026-11-23 |  |
 | **[Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization](https://arxiv.org/abs/2611.27445v1)** | 2026-11-20 | <details><summary>accep...</summary><p>accepted for EACL 2027</p></details> |
@@ -15,12 +17,11 @@ labels: documentation
 | **[Weight Space Programming for Vision Language Model Repair](https://arxiv.org/abs/2611.23615v2)** | 2026-11-19 |  |
 | **[Beyond Output Suppression: Mitigating Privacy Risks in LVLMs via Visual Intrinsic Privacy Erasure](https://arxiv.org/abs/2611.28135v1)** | 2026-11-19 |  |
 | **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885v2)** | 2026-11-18 |  |
-| **[Forecasting How RLHF Responds to Reward-Model Edits Before Training](https://arxiv.org/abs/2611.03244v2)** | 2026-11-17 | 22 pages, 7 figures |
-| **[Learning to Edit IFC Building Models: Verifiable Checkers as the Training Signal for Dependency-Aware Editing Agents](https://arxiv.org/abs/2611.22307v1)** | 2026-11-17 |  |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TASK Memory: Beyond Text-Only Memory with Activation Steering and Knowledge Editing against Memory Hallucination](https://arxiv.org/abs/2611.34762v1)** | 2026-11-25 |  |
 | **[Multimodal View Training: Learning More Through Different Modalities](https://arxiv.org/abs/2611.30165v1)** | 2026-11-23 |  |
 | **[Towards Reliable, Generalizable, and Specific In-Context Knowledge Editing via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2608.25100v4)** | 2026-11-09 | <details><summary>Our w...</summary><p>Our work proposes a multi-objective reinforcement learning algorithm that optimizes prompt construction for reliable, generalizable, and specific in-context knowledge-editing</p></details> |
 | **[Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2611.08438v2)** | 2026-11-09 |  |
@@ -30,25 +31,25 @@ labels: documentation
 | **[On the Geometric Bottlenecks of Cross-Lingual Knowledge Editing](https://arxiv.org/abs/2611.10646v1)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[The Truth Beneath the Tokens: Prompt-Space Recovery of Knowledge Edits in Language Models](https://arxiv.org/abs/2611.10450v1)** | 2026-11-07 |  |
 | **[ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](https://arxiv.org/abs/2611.09770v1)** | 2026-11-06 |  |
-| **[Exposing the Illusion of Erasure in Knowledge Editing for LLMs](https://arxiv.org/abs/2606.23276v3)** | 2026-11-05 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Conference</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A gene informed benchmark for BioScoring of pathology foundation models](https://arxiv.org/abs/2611.34930v1)** | 2026-11-25 | 32 pages, 18 figures |
+| **[Carrying Feature Ablations Across Sparse Autoencoder Seeds](https://arxiv.org/abs/2611.34637v1)** | 2026-11-25 | 44 pages, 4 figures |
+| **[Sparse-to-Sparse Feature Learning for Cross-Layer Analysis and Steering](https://arxiv.org/abs/2611.33640v1)** | 2026-11-25 | EACL 2027 |
+| **[Representation Redistribution in Sparse Autoencoders](https://arxiv.org/abs/2610.21240v2)** | 2026-11-24 | <details><summary>38 pa...</summary><p>38 pages, 15 figures. Code: https://github.com/OpenSAE/Redistribution-Sensitivity-Score</p></details> |
+| **[Behavioral Compositionality of Sparse Autoencoder Representations](https://arxiv.org/abs/2610.21261v2)** | 2026-11-24 | <details><summary>30 pa...</summary><p>30 pages, 9 figures. Code: https://github.com/OpenSAE/SAE-Behavioral-Compositionality</p></details> |
+| **[Analysis of Variational Sparse Autoencoders](https://arxiv.org/abs/2509.22994v3)** | 2026-11-24 | 17 pages, 9 figures |
+| **[A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders](https://arxiv.org/abs/2606.07007v2)** | 2026-11-24 |  |
 | **[Sparse Autoencoder Attribution Graphs Are Decided at the Margin](https://arxiv.org/abs/2611.00606v3)** | 2026-11-24 | 51 pages, 9 figures |
 | **[Same Concept, Different Directions: Cross-Modal Feature Heterogeneity in Sparse Autoencoders](https://arxiv.org/abs/2606.29888v2)** | 2026-11-24 |  |
 | **[Reward Basis Decomposition for Interpreting Preference Heterogeneity](https://arxiv.org/abs/2611.31640v1)** | 2026-11-23 |  |
-| **[Detecting Harmful Short Videos in Toxic Diet Culture: A Governance-Ready Evidence Framework with Sparse Autoencoders](https://arxiv.org/abs/2611.31354v1)** | 2026-11-23 |  |
-| **[What Remains After Concept Erasure? Sparse Autoencoder Probes for Auditing Diffusion Models](https://arxiv.org/abs/2611.30117v1)** | 2026-11-23 |  |
-| **[SAEPO: Sparse-Autoencoder-Guided Credit Assignment for Policy Optimization](https://arxiv.org/abs/2611.29936v1)** | 2026-11-23 |  |
-| **[Why Units Die in the Layer After a Frozen Random Encoder, and What the Number of Live Units Measures](https://arxiv.org/abs/2611.29752v1)** | 2026-11-22 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 4 tables. Supplementary material (121 pages) is included as an ancillary file</p></details> |
-| **[From States to Dynamics: Detecting Rule Violations in OthelloGPT](https://arxiv.org/abs/2611.29715v1)** | 2026-11-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS workshop, Interpretability as a Science: Toward rigorous foundations for understanding LLMs; 20 pages, 16 figures total (including Appendix)</p></details> |
-| **[SAE-Audit: Clinical-Trial Prediction via Inference-Time Optimization of Black-Box LLMs Audited by Sparse Autoencoder Evidence](https://arxiv.org/abs/2611.29368v1)** | 2026-11-22 | <details><summary>Codes...</summary><p>Codes are publicly available at: https://github.com/JunboShen/SAE-Audit</p></details> |
-| **[The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws](https://arxiv.org/abs/2605.09887v2)** | 2026-11-22 | <details><summary>39 Pa...</summary><p>39 Pages, NeurIPS 2026 Main, ICML 2026 Spotlight @ Mech Interp Workshop</p></details> |
 
 ## Agent Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation](https://arxiv.org/abs/2611.34907v1)** | 2026-11-25 | <details><summary>28 pa...</summary><p>28 pages, 12 figures. Project page: https://nvlabs.github.io/LongLive/Agentic-LongLive/</p></details> |
 | **[Leto: Utility-Centric Agent Memory](https://arxiv.org/abs/2611.33005v1)** | 2026-11-24 |  |
 | **[Reliable Agent Memory through Fine-Grained Transactions](https://arxiv.org/abs/2608.03699v6)** | 2026-11-24 | <details><summary>Versi...</summary><p>Versions v1 to v5 involved only minor revisions. Following a full round of peer review, v6 represents a substantial revision, with experiments rerun and the manuscript comprehensively refined</p></details> |
 | **[Selection Integrity for LLM Graph Memory: An Accumulability Criterion for Information-Flow-Blind Retrieval](https://arxiv.org/abs/2606.12290v2)** | 2026-11-24 |  |
@@ -58,7 +59,6 @@ labels: documentation
 | **[MemForest: Write-Efficient Agent Memory with Decoupled Extraction and Hierarchical View Maintenance](https://arxiv.org/abs/2605.23986v4)** | 2026-11-23 | <details><summary>12 pa...</summary><p>12 pages. Extended version with appendix as supplemental material. Submitted to ICDE</p></details> |
 | **[FORGETMENOT: Auditing Memory Driven Privacy Risks in Commercial AI Agents](https://arxiv.org/abs/2611.29804v1)** | 2026-11-22 |  |
 | **[NoeVera: Can Knowledge Guide Experiments and Experiments Refine Knowledge?](https://arxiv.org/abs/2611.29255v1)** | 2026-11-22 | 20 pages, 2 figures |
-| **[Grounding Collaborative Agents in Group Cognition](https://arxiv.org/abs/2611.29036v1)** | 2026-11-21 |  |
 
 ## Parametric Memory
 | **Title** | **Date** | **Comment** |
@@ -77,6 +77,9 @@ labels: documentation
 ## Long-Term Memory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$\mathrm{M}^{2}$-WAM: Efficient Hierarchical Memory Across Modalities and Timescales for World-Action Models](https://arxiv.org/abs/2611.33710v1)** | 2026-11-25 |  |
+| **[PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI](https://arxiv.org/abs/2505.12707v3)** | 2026-11-25 | 9 pages, 8 figures |
+| **[Memory as the Backbone: A Dual-Store Associative Memory Architecture for Visual Recognition](https://arxiv.org/abs/2611.33475v1)** | 2026-11-24 |  |
 | **[From Memory Access to Evidence Sufficiency: Diagnosing and Addressing Demand--Evidence Misalignment](https://arxiv.org/abs/2611.32088v1)** | 2026-11-24 |  |
 | **[MemVerse: Multimodal Memory for Lifelong Learning Agents](https://arxiv.org/abs/2512.03627v3)** | 2026-11-24 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 15 tables; Accepted by EACL Findings 2027</p></details> |
 | **[BRAG: Bayesian Retrieval Augmented Generation](https://arxiv.org/abs/2611.31656v1)** | 2026-11-23 |  |
@@ -84,7 +87,4 @@ labels: documentation
 | **[FORGETMENOT: Auditing Memory Driven Privacy Risks in Commercial AI Agents](https://arxiv.org/abs/2611.29804v1)** | 2026-11-22 |  |
 | **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v5)** | 2026-11-22 |  |
 | **[From Vanishing Gradients to Recursive Self-Improvement: Evaluating the Most Influential Papers in Large Language Model Evolution (1997-2026)](https://arxiv.org/abs/2611.29303v1)** | 2026-11-22 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
-| **[SANA-Robot: Efficient World Action Model with Hybrid Memory](https://arxiv.org/abs/2611.28943v1)** | 2026-11-21 |  |
-| **[MemChain: Learning Interpretable Memory Traces for Memory-Augmented LLM Agents](https://arxiv.org/abs/2607.24097v2)** | 2026-11-21 | <details><summary>The c...</summary><p>The current submission contains an incorrect attribution of the source of the LoCoMo-Refined dataset. This is a scholarly attribution error in the manuscript. I request withdrawal of the submission so that the incorrect attribution is not left on the record. No replacement version is currently available, and no replacement submission is scheduled</p></details> |
-| **[Can Agents Keep Secrets They Were Never Told? Benchmarking Latent Privacy Risks Across Sessions with MemJoin](https://arxiv.org/abs/2610.24359v2)** | 2026-11-20 |  |
 
